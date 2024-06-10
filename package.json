@@ -1,0 +1,31 @@
+{
+    "name": "@primevue/monorepo",
+    "version": "1.0.0",
+    "description": "",
+    "scripts": {
+        "build": "NODE_ENV=production pnpm run build:check && pnpm run build:packages",
+        "build:check": "pnpm run format:check && pnpm run security:check",
+        "build:packages": "pnpm run build:resolver && pnpm run build:core && pnpm run build:module && pnpm run build:lib && pnpm run build:themes && pnpm run build:icons",
+        "build:resolver": "pnpm --filter auto-import-resolver build",
+        "build:core": "pnpm --filter core build",
+        "build:module": "pnpm --filter nuxt-module build",
+        "build:lib": "pnpm --filter primevue build",
+        "build:themes": "pnpm --filter themes build",
+        "build:icons": "pnpm --filter icons build",
+        "dev": "pnpm --filter showcase dev",
+        "module:dev": "pnpm --filter @primevue/nuxt-module dev",
+        "security:check": "pnpm audit --production --audit-level high",
+        "format": "prettier --write \"**/*.{vue,js,mjs,ts,d.ts}\" --cache",
+        "format:check": "prettier --check \"**/*.{vue,js,mjs,ts,d.ts}\"",
+        "lint": "eslint --ext \".vue,.js,.mjs,.ts\" --ignore-path .gitignore . --cache",
+        "lint:fix": "eslint --fix --ext \".vue,.js,.mjs,.ts\" --ignore-path .gitignore ."
+    },
+    "keywords": [],
+    "author": "",
+    "license": "MIT",
+    "devDependencies": {
+        "eslint": "^9.2.0",
+        "prettier": "^3.2.5",
+        "pnpm": "9.1.4"
+    }
+}

@@ -1,0 +1,6 @@
+{
+    "main": "./inputmaskstyle.js",
+    "module": "./inputmaskstyle.js",
+    "types": "./InputMaskStyle.d.ts",
+    "sideEffects": false
+}

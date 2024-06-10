@@ -1,0 +1,24 @@
+{
+    "name": "@primevue/auto-import-resolver",
+    "version": "1.0.0",
+    "description": "",
+    "keywords": [],
+    "author": "",
+    "license": "MIT",
+    "main": "index.mjs",
+    "module": "index.mjs",
+    "types": "index.d.ts",
+    "scripts": {
+        "build": "NODE_ENV=production INPUT_DIR=./ OUTPUT_DIR=dist/ pnpm run build:package",
+        "build:package": "pnpm run build:clear && tsup && pnpm run build:meta",
+        "build:meta": "node ./scripts/build-meta.mjs",
+        "build:clear": "node ./scripts/build-clear.mjs"
+    },
+    "devDependencies": {
+        "tsup": "^8.1.0",
+        "unplugin-vue-components": "^0.27.0"
+    },
+    "publishConfig": {
+        "directory": "dist"
+    }
+}
