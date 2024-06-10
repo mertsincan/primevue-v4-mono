@@ -468,10 +468,10 @@ app.mount("#app");
 </template>
 
 <script>
-import { $t, updatePreset, updateSurfacePalette } from '@primevue/themes';
-import Aura from '@primevue/themes/aura';
-import Lara from '@primevue/themes/lara';
-import Nora from '@primevue/themes/nora';
+import { $t, updatePreset, updateSurfacePalette } from '@primevue-lab/themes';
+import Aura from '@primevue-lab/themes/aura';
+import Lara from '@primevue-lab/themes/lara';
+import Nora from '@primevue-lab/themes/nora';
 
 const presets = {
     Aura,
@@ -1074,8 +1074,8 @@ export default {
         `
         },
         [`${path}presets/Noir.js`]: {
-            content: `import { definePreset } from '@primevue/themes';
-        import Aura from '@primevue/themes/aura';
+            content: `import { definePreset } from '@primevue-lab/themes';
+        import Aura from '@primevue-lab/themes/aura';
 
         const Noir = definePreset(Aura, {
             semantic: {

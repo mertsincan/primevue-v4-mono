@@ -5,7 +5,7 @@ const baseUrl = '/';
 // https://nuxt.com/docs/api/configuration/nuxt-config
 export default defineNuxtConfig({
     typescript: false,
-    modules: ['nuxt-gtag', '@primevue/nuxt-module'],
+    modules: ['nuxt-gtag', '@primevue-lab/nuxt-module'],
     components: [
         '~/components',
         {
