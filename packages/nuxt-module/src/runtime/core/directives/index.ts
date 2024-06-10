@@ -1,8 +1,8 @@
 export const directives = [
-    { name: 'badge', as: 'BadgeDirective', from: 'primevue/badgedirective' },
-    { name: 'tooltip', as: 'Tooltip', from: 'primevue/tooltip' },
-    { name: 'ripple', as: 'Ripple', from: 'primevue/ripple' },
-    { name: 'styleclass', as: 'StyleClass', from: 'primevue/styleclass' },
-    { name: 'focustrap', as: 'FocusTrap', from: 'primevue/focustrap' },
-    { name: 'animateonscroll', as: 'AnimateOnScroll', from: 'primevue/animateonscroll' }
+    { name: 'badge', as: 'BadgeDirective', from: 'primevue-lab/badgedirective' },
+    { name: 'tooltip', as: 'Tooltip', from: 'primevue-lab/tooltip' },
+    { name: 'ripple', as: 'Ripple', from: 'primevue-lab/ripple' },
+    { name: 'styleclass', as: 'StyleClass', from: 'primevue-lab/styleclass' },
+    { name: 'focustrap', as: 'FocusTrap', from: 'primevue-lab/focustrap' },
+    { name: 'animateonscroll', as: 'AnimateOnScroll', from: 'primevue-lab/animateonscroll' }
 ];

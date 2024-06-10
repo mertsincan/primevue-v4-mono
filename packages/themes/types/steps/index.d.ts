@@ -2,7 +2,7 @@
  *
  * Steps Design Tokens
  *
- * [Live Demo](https://www.primevue.org/steps/)
+ * [Live Demo](https://www.primevue-lab.org/steps/)
  *
  * @module themes/steps
  *

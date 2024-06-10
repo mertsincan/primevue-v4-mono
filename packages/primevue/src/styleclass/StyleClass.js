@@ -1,4 +1,4 @@
-import { DomHandler } from '@primevue/core/utils';
+import { DomHandler } from '@primevue-lab/core/utils';
 import BaseStyleClass from './BaseStyleClass';
 
 const StyleClass = BaseStyleClass.extend('styleclass', {

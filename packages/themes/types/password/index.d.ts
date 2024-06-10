@@ -2,7 +2,7 @@
  *
  * Password Design Tokens
  *
- * [Live Demo](https://www.primevue.org/password/)
+ * [Live Demo](https://www.primevue-lab.org/password/)
  *
  * @module themes/password
  *

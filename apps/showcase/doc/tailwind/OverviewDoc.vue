@@ -6,8 +6,8 @@
             take this approach to build components specifically for Tailwind.
         </p>
         <p>
-            Tailwind is an outstanding CSS library, however it lacks a true comprehensive UI suite when combined with Vue.js, this is where PrimeVue comes in by providing a wide range of highly accessible and feature rich UI component library. The
-            core of PrimeVue does not depend on Tailwind CSS, instead we provide the necessary integration points such as the primeui tailwind plugin and the presets for the unstyled mode.
+            Tailwind is an outstanding CSS library, however it lacks a true comprehensive UI suite when combined with Vue.js, this is where primevue-lab comes in by providing a wide range of highly accessible and feature rich UI component library.
+            The core of primevue-lab does not depend on Tailwind CSS, instead we provide the necessary integration points such as the primeui tailwind plugin and the presets for the unstyled mode.
         </p>
     </DocSectionText>
 </template>

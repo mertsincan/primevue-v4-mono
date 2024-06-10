@@ -2,7 +2,7 @@
  *
  * PickList Design Tokens
  *
- * [Live Demo](https://www.primevue.org/picklist/)
+ * [Live Demo](https://www.primevue-lab.org/picklist/)
  *
  * @module themes/picklist
  *

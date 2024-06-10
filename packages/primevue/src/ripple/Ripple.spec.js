@@ -2,7 +2,7 @@ import { config, mount } from '@vue/test-utils';
 import Ripple from './Ripple';
 
 config.global.mocks = {
-    $primevue: {
+    $primevue-lab: {
         config: {
             ripple: true
         }

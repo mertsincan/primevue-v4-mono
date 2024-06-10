@@ -2,7 +2,7 @@
  *
  * InputText Design Tokens
  *
- * [Live Demo](https://www.primevue.org/inputtext/)
+ * [Live Demo](https://www.primevue-lab.org/inputtext/)
  *
  * @module themes/inputtext
  *

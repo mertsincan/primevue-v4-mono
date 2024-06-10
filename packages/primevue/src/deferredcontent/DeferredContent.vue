@@ -5,8 +5,8 @@
 </template>
 
 <script>
-import BaseComponent from '@primevue/core/basecomponent';
-import DeferredContentStyle from 'primevue/deferredcontent/style';
+import BaseComponent from '@primevue-lab/core/basecomponent';
+import DeferredContentStyle from 'primevue-lab/deferredcontent/style';
 
 export default {
     name: 'DeferredContent',

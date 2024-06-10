@@ -6,7 +6,7 @@
         <Fieldset>
             <template #legend>
                 <div class="flex items-center pl-2">
-                    <Avatar image="https://primefaces.org/cdn/primevue/images/avatar/amyelsner.png" shape="circle" />
+                    <Avatar image="https://primefaces.org/cdn/primevue-lab/images/avatar/amyelsner.png" shape="circle" />
                     <span class="font-bold p-2">Amy Elsner</span>
                 </div>
             </template>
@@ -44,7 +44,7 @@ export default {
         <Fieldset>
             <template #legend>
                 <div class="flex items-center pl-2">
-                    <Avatar image="https://primefaces.org/cdn/primevue/images/avatar/amyelsner.png" shape="circle" />
+                    <Avatar image="https://primefaces.org/cdn/primevue-lab/images/avatar/amyelsner.png" shape="circle" />
                     <span class="font-bold p-2">Amy Elsner</span>
                 </div>
             </template>
@@ -65,7 +65,7 @@ export default {
         <Fieldset>
             <template #legend>
                 <div class="flex items-center pl-2">
-                    <Avatar image="https://primefaces.org/cdn/primevue/images/avatar/amyelsner.png" shape="circle" />
+                    <Avatar image="https://primefaces.org/cdn/primevue-lab/images/avatar/amyelsner.png" shape="circle" />
                     <span class="font-bold p-2">Amy Elsner</span>
                 </div>
             </template>

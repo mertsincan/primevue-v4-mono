@@ -28,12 +28,12 @@
 </template>
 
 <script>
-import { UniqueComponentId } from '@primevue/core/utils';
-import ChevronRightIcon from '@primevue/icons/chevronright';
-import ChevronUpIcon from '@primevue/icons/chevronup';
-import AccordionContent from 'primevue/accordioncontent';
-import AccordionHeader from 'primevue/accordionheader';
-import AccordionPanel from 'primevue/accordionpanel';
+import { UniqueComponentId } from '@primevue-lab/core/utils';
+import ChevronRightIcon from '@primevue-lab/icons/chevronright';
+import ChevronUpIcon from '@primevue-lab/icons/chevronup';
+import AccordionContent from 'primevue-lab/accordioncontent';
+import AccordionHeader from 'primevue-lab/accordionheader';
+import AccordionPanel from 'primevue-lab/accordionpanel';
 import { mergeProps } from 'vue';
 import BaseAccordion from './BaseAccordion.vue';
 

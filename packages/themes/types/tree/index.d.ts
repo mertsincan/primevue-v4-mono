@@ -2,7 +2,7 @@
  *
  * Tree Design Tokens
  *
- * [Live Demo](https://www.primevue.org/tree/)
+ * [Live Demo](https://www.primevue-lab.org/tree/)
  *
  * @module themes/tree
  *

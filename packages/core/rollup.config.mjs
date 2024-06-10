@@ -19,13 +19,13 @@ const GLOBALS = {
 
 // externals
 const GLOBAL_EXTERNALS = ['vue'];
-const INLINE_EXTERNALS = [/@primevue\/themes\/.*/];
+const INLINE_EXTERNALS = [/@primevue-lab\/themes\/.*/];
 const EXTERNALS = [...GLOBAL_EXTERNALS, ...INLINE_EXTERNALS];
 
 // alias
 const ALIAS_ENTRIES = [
     {
-        find: /^primevue\/core\/(.*)$/,
+        find: /^primevue-lab\/core\/(.*)$/,
         replacement: path.resolve(__dirname, './src/$1'),
         customResolver(source, importer) {
             const basedir = path.dirname(importer);
@@ -42,7 +42,7 @@ const ALIAS_ENTRIES = [
             return targetFile ? path.join(folderPath, targetFile) : null;
         }
     },
-    { find: '@primevue/themes', replacement: path.resolve(__dirname, '../themes/src/index.js') }
+    { find: '@primevue-lab/themes', replacement: path.resolve(__dirname, '../themes/src/index.js') }
 ];
 
 // plugins
@@ -141,7 +141,7 @@ const ENTRY = {
                 output: [
                     {
                         format: 'umd',
-                        name: name ?? 'PrimeVue',
+                        name: name ?? 'primevue-lab',
                         file: `${output}${minify ? '.min' : ''}.js`,
                         globals: GLOBALS,
                         exports: 'auto'

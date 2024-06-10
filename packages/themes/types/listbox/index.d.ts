@@ -2,7 +2,7 @@
  *
  * Listbox Design Tokens
  *
- * [Live Demo](https://www.primevue.org/listbox/)
+ * [Live Demo](https://www.primevue-lab.org/listbox/)
  *
  * @module themes/listbox
  *

@@ -2,7 +2,7 @@
  *
  * AutoComplete Design Tokens
  *
- * [Live Demo](https://www.primevue.org/autocomplete/)
+ * [Live Demo](https://www.primevue-lab.org/autocomplete/)
  *
  * @module themes/autocomplete
  *

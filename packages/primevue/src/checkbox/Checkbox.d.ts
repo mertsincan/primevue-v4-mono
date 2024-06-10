@@ -2,7 +2,7 @@
  *
  * Checkbox is an extension to standard checkbox element with theming.
  *
- * [Live Demo](https://www.primevue.org/checkbox/)
+ * [Live Demo](https://www.primevue-lab.org/checkbox/)
  *
  * @module checkbox
  *
@@ -261,13 +261,13 @@ export interface CheckboxEmitsOptions {
 export declare type CheckboxEmits = EmitFn<CheckboxEmitsOptions>;
 
 /**
- * **PrimeVue - Checkbox**
+ * **primevue-lab - Checkbox**
  *
  * _Accordion groups a collection of contents in tabs._
  *
- * [Live Demo](https://www.primevue.org/checkbox/)
+ * [Live Demo](https://www.primevue-lab.org/checkbox/)
  * --- ---
- * ![PrimeVue](https://primefaces.org/cdn/primevue/images/logo-100.png)
+ * ![primevue-lab](https://primefaces.org/cdn/primevue-lab/images/logo-100.png)
  *
  * @group Component
  *

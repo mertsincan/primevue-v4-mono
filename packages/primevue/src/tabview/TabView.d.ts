@@ -3,7 +3,7 @@
  *
  * TabView is a container component to group content with tabs.
  *
- * [Live Demo](https://www.primevue.org/tabview/)
+ * [Live Demo](https://www.primevue-lab.org/tabview/)
  *
  * @module tabview
  *
@@ -265,13 +265,13 @@ export declare type TabViewEmits = EmitFn<TabViewEmitsOptions>;
 /**
  * @deprecated since v4. Use Tabs component instead.
  *
- * **PrimeVue - TabView**
+ * **primevue-lab - TabView**
  *
  * _TabView is a container component to group content with tabs._
  *
- * [Live Demo](https://www.primevue.org/tabview/)
+ * [Live Demo](https://www.primevue-lab.org/tabview/)
  * --- ---
- * ![PrimeVue](https://primefaces.org/cdn/primevue/images/logo-100.png)
+ * ![primevue-lab](https://primefaces.org/cdn/primevue-lab/images/logo-100.png)
  *
  * @group Component
  *

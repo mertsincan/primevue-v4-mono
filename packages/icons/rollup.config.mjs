@@ -19,17 +19,17 @@ const GLOBALS = {
 
 // externals
 const GLOBAL_EXTERNALS = ['vue'];
-const INLINE_EXTERNALS = [/@primevue\/core\/.*/];
+const INLINE_EXTERNALS = [/@primevue-lab\/core\/.*/];
 const EXTERNALS = [...GLOBAL_EXTERNALS, ...INLINE_EXTERNALS];
 
 // alias
 const ALIAS_ENTRIES = [
     {
-        find: /^@primevue\/icons\/(.*)$/,
+        find: /^@primevue-lab\/icons\/(.*)$/,
         replacement: path.resolve(__dirname, './src/$1/index.vue')
     },
-    { find: '@primevue/icons/baseicon/style', replacement: path.resolve(__dirname, './src/baseicon/style/BaseIconStyle.js') },
-    { find: '@primevue/icons/baseicon', replacement: path.resolve(__dirname, './src/baseicon/BaseIcon.vue') }
+    { find: '@primevue-lab/icons/baseicon/style', replacement: path.resolve(__dirname, './src/baseicon/style/BaseIconStyle.js') },
+    { find: '@primevue-lab/icons/baseicon', replacement: path.resolve(__dirname, './src/baseicon/BaseIcon.vue') }
 ];
 
 // plugins
@@ -128,7 +128,7 @@ const ENTRY = {
                 output: [
                     {
                         format: 'umd',
-                        name: name ?? 'PrimeVue',
+                        name: name ?? 'primevue-lab',
                         file: `${output}${minify ? '.min' : ''}.js`,
                         globals: GLOBALS,
                         exports: 'auto'

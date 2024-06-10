@@ -1,6 +1,6 @@
 <script>
-import BaseComponent from '@primevue/core/basecomponent';
-import FieldsetStyle from 'primevue/fieldset/style';
+import BaseComponent from '@primevue-lab/core/basecomponent';
+import FieldsetStyle from 'primevue-lab/fieldset/style';
 
 export default {
     name: 'BaseFieldset',

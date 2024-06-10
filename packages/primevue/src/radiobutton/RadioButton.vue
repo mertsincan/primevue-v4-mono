@@ -26,7 +26,7 @@
 </template>
 
 <script>
-import { ObjectUtils } from '@primevue/core/utils';
+import { ObjectUtils } from '@primevue-lab/core/utils';
 import BaseRadioButton from './BaseRadioButton.vue';
 
 export default {

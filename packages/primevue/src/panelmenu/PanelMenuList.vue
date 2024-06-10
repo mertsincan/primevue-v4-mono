@@ -22,8 +22,8 @@
 </template>
 
 <script>
-import BaseComponent from '@primevue/core/basecomponent';
-import { DomHandler, ObjectUtils } from '@primevue/core/utils';
+import BaseComponent from '@primevue-lab/core/basecomponent';
+import { DomHandler, ObjectUtils } from '@primevue-lab/core/utils';
 import PanelMenuSub from './PanelMenuSub.vue';
 
 export default {

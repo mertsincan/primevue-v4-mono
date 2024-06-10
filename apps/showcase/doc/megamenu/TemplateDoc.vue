@@ -39,7 +39,7 @@
                 </div>
             </template>
             <template #end>
-                <Avatar image="https://primefaces.org/cdn/primevue/images/avatar/amyelsner.png" shape="circle" />
+                <Avatar image="https://primefaces.org/cdn/primevue-lab/images/avatar/amyelsner.png" shape="circle" />
             </template>
         </MegaMenu>
     </div>
@@ -84,7 +84,7 @@ export default {
                         ],
                         [
                             {
-                                items: [{ image: 'https://primefaces.org/cdn/primevue/images/uikit/uikit-system.png', label: 'GET STARTED', subtext: 'Build spectacular apps in no time.' }]
+                                items: [{ image: 'https://primefaces.org/cdn/primevue-lab/images/uikit/uikit-system.png', label: 'GET STARTED', subtext: 'Build spectacular apps in no time.' }]
                             }
                         ]
                     ]
@@ -169,7 +169,7 @@ export default {
                 </div>
             </template>
             <template #end>
-                <Avatar image="https://primefaces.org/cdn/primevue/images/avatar/amyelsner.png" shape="circle" />
+                <Avatar image="https://primefaces.org/cdn/primevue-lab/images/avatar/amyelsner.png" shape="circle" />
             </template>
         </MegaMenu>
     </div>
@@ -213,7 +213,7 @@ export default {
                         ],
                         [
                             {
-                                items: [{ image: 'https://primefaces.org/cdn/primevue/images/uikit/uikit-system.png', label: 'GET STARTED', subtext: 'Build spectacular apps in no time.' }]
+                                items: [{ image: 'https://primefaces.org/cdn/primevue-lab/images/uikit/uikit-system.png', label: 'GET STARTED', subtext: 'Build spectacular apps in no time.' }]
                             }
                         ]
                     ]
@@ -269,7 +269,7 @@ export default {
                 </div>
             </template>
             <template #end>
-                <Avatar image="https://primefaces.org/cdn/primevue/images/avatar/amyelsner.png" shape="circle" />
+                <Avatar image="https://primefaces.org/cdn/primevue-lab/images/avatar/amyelsner.png" shape="circle" />
             </template>
         </MegaMenu>
     </div>
@@ -312,7 +312,7 @@ const items = ref([
             ],
             [
                 {
-                    items: [{ image: 'https://primefaces.org/cdn/primevue/images/uikit/uikit-system.png', label: 'GET STARTED', subtext: 'Build spectacular apps in no time.' }]
+                    items: [{ image: 'https://primefaces.org/cdn/primevue-lab/images/uikit/uikit-system.png', label: 'GET STARTED', subtext: 'Build spectacular apps in no time.' }]
                 }
             ]
         ]

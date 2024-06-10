@@ -2,7 +2,7 @@
  *
  * TieredMenu displays submenus in nested overlays.
  *
- * [Live Demo](https://www.primevue.org/menu/)
+ * [Live Demo](https://www.primevue-lab.org/menu/)
  *
  * @module tieredmenustyle
  *

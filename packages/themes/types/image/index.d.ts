@@ -2,7 +2,7 @@
  *
  * Image Design Tokens
  *
- * [Live Demo](https://www.primevue.org/image/)
+ * [Live Demo](https://www.primevue-lab.org/image/)
  *
  * @module themes/image
  *

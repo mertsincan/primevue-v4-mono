@@ -2,7 +2,7 @@
  *
  * Button Design Tokens
  *
- * [Live Demo](https://www.primevue.org/button/)
+ * [Live Demo](https://www.primevue-lab.org/button/)
  *
  * @module themes/button
  *

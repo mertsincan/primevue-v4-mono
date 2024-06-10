@@ -7,13 +7,13 @@ describe('InputText.vue', () => {
 
         expect(wrapper.find('.p-inputtext.p-component').exists()).toBe(true);
 
-        await wrapper.setProps({ modelValue: 'PrimeVue' });
+        await wrapper.setProps({ modelValue: 'primevue-lab' });
 
         expect(wrapper.find('.p-filled').exists()).toBe(true);
 
         const input = wrapper.find('input');
 
-        expect(input.element.value).toEqual('PrimeVue');
+        expect(input.element.value).toEqual('primevue-lab');
     });
 
     it('input event', async () => {

@@ -2,7 +2,7 @@
  *
  * Ripple Design Tokens
  *
- * [Live Demo](https://www.primevue.org/ripple/)
+ * [Live Demo](https://www.primevue-lab.org/ripple/)
  *
  * @module themes/ripple
  *

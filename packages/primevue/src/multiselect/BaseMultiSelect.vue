@@ -1,6 +1,6 @@
 <script>
-import BaseComponent from '@primevue/core/basecomponent';
-import MultiSelectStyle from 'primevue/multiselect/style';
+import BaseComponent from '@primevue-lab/core/basecomponent';
+import MultiSelectStyle from 'primevue-lab/multiselect/style';
 
 export default {
     name: 'BaseMultiSelect',

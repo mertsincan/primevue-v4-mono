@@ -58,7 +58,7 @@ export default defineNuxtModule<ModuleOptions>({
 ${registered.styles.map((style: any) => `import ${style.as} from '${style.from}';`).join('\n')}
 ${
     hasTheme
-        ? `import { Theme } from '@primevue/themes';
+        ? `import { Theme } from '@primevue-lab/themes';
 import ${importTheme.as} from '${normalize(importTheme.from)}';\n`
         : ''
 }

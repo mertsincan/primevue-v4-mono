@@ -2,7 +2,7 @@
  *
  * DataTable displays data in tabular format.
  *
- * [Live Demo](https://www.primevue.org/datatable/)
+ * [Live Demo](https://www.primevue-lab.org/datatable/)
  *
  * @module datatable
  *
@@ -1617,13 +1617,13 @@ export interface DataTableMethods {
 }
 
 /**
- * **PrimeVue - DataTable**
+ * **primevue-lab - DataTable**
  *
  *  * _DataTable displays data in tabular format._
  *
- * [Live Demo](https://www.primevue.org/datatable/)
+ * [Live Demo](https://www.primevue-lab.org/datatable/)
  * --- ---
- * ![PrimeVue](https://primefaces.org/cdn/primevue/images/logo-100.png)
+ * ![primevue-lab](https://primefaces.org/cdn/primevue-lab/images/logo-100.png)
  *
  * @group Component
  *

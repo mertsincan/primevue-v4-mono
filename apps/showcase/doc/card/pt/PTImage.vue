@@ -3,6 +3,6 @@
         <p>{{ $attrs.description }}</p>
     </DocSectionText>
     <div class="card">
-        <img class="w-full" src="https://primefaces.org/cdn/primevue/images/pt/card.jpg" />
+        <img class="w-full" src="https://primefaces.org/cdn/primevue-lab/images/pt/card.jpg" />
     </div>
 </template>

@@ -2,7 +2,7 @@
  *
  * ConfirmPopup displays a confirmation overlay displayed relatively to its target.
  *
- * [Live Demo](https://www.primevue.org/confirmpopup)
+ * [Live Demo](https://www.primevue-lab.org/confirmpopup)
  *
  * @module confirmpopupstyle
  *

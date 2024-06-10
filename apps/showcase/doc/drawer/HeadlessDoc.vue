@@ -180,7 +180,7 @@
                     <div class="mt-auto">
                         <hr class="mb-4 mx-4 border-t border-0 border-surface-200 dark:border-surface-700" />
                         <a v-ripple class="m-4 flex items-center cursor-pointer p-4 gap-2 rounded text-surface-700 hover:bg-surface-100 dark:text-surface-0 dark:hover:bg-surface-800 duration-150 transition-colors p-ripple">
-                            <Avatar image="https://primefaces.org/cdn/primevue/images/avatar/amyelsner.png" shape="circle" />
+                            <Avatar image="https://primefaces.org/cdn/primevue-lab/images/avatar/amyelsner.png" shape="circle" />
                             <span class="font-bold">Amy Elsner</span>
                         </a>
                     </div>
@@ -559,7 +559,7 @@ export default {
                     <div class="mt-auto">
                         <hr class="mb-4 mx-4 border-t border-0 border-surface-200 dark:border-surface-700" />
                         <a v-ripple class="m-4 flex items-center cursor-pointer p-4 gap-2 rounded text-surface-700 hover:bg-surface-100 dark:text-surface-0 dark:hover:bg-surface-800 duration-150 transition-colors p-ripple">
-                            <Avatar image="https://primefaces.org/cdn/primevue/images/avatar/amyelsner.png" shape="circle" />
+                            <Avatar image="https://primefaces.org/cdn/primevue-lab/images/avatar/amyelsner.png" shape="circle" />
                             <span class="font-bold">Amy Elsner</span>
                         </a>
                     </div>
@@ -760,7 +760,7 @@ export default {
                     <div class="mt-auto">
                         <hr class="mb-4 mx-4 border-t border-0 border-surface-200 dark:border-surface-700" />
                         <a v-ripple class="m-4 flex items-center cursor-pointer p-4 gap-2 rounded text-surface-700 hover:bg-surface-100 dark:text-surface-0 dark:hover:bg-surface-800 duration-150 transition-colors p-ripple">
-                            <Avatar image="https://primefaces.org/cdn/primevue/images/avatar/amyelsner.png" shape="circle" />
+                            <Avatar image="https://primefaces.org/cdn/primevue-lab/images/avatar/amyelsner.png" shape="circle" />
                             <span class="font-bold">Amy Elsner</span>
                         </a>
                     </div>

@@ -2,7 +2,7 @@
  *
  * IconField Design Tokens
  *
- * [Live Demo](https://www.primevue.org/iconfield/)
+ * [Live Demo](https://www.primevue-lab.org/iconfield/)
  *
  * @module themes/iconfield
  *

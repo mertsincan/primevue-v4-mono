@@ -2,7 +2,7 @@
  *
  * StepperPanel is a helper component for Stepper component.
  *
- * [Live Demo](https://www.primevue.org/stepper/)
+ * [Live Demo](https://www.primevue-lab.org/stepper/)
  *
  * @module stepperpanel
  *
@@ -268,13 +268,13 @@ export declare type StepperPanelEmits = EmitFn<StepperPanelEmitsOptions>;
 /**
  * @deprecated since v4. Use the new structure of Stepper instead.
  *
- * **PrimeVue - StepperPanel**
+ * **primevue-lab - StepperPanel**
  *
  * _StepperPanel is a helper component for Stepper component._
  *
- * [Live Demo](https://www.primevue.org/stepper/)
+ * [Live Demo](https://www.primevue-lab.org/stepper/)
  * --- ---
- * ![PrimeVue](https://primefaces.org/cdn/primevue/images/logo-100.png)
+ * ![primevue-lab](https://primefaces.org/cdn/primevue-lab/images/logo-100.png)
  *
  * @group Component
  *

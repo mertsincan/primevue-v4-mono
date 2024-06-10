@@ -2,7 +2,7 @@
  *
  * PanelMenu Design Tokens
  *
- * [Live Demo](https://www.primevue.org/panelmenu/)
+ * [Live Demo](https://www.primevue-lab.org/panelmenu/)
  *
  * @module themes/panelmenu
  *

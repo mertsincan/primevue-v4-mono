@@ -1,5 +1,5 @@
 name: Bug report
-description: Create a report to help PrimeVue improve.
+description: Create a report to help primevue-lab improve.
 title: 'Component Name: Issue Title'
 labels: 'Status: Needs Triage'
 body:
@@ -7,7 +7,7 @@ body:
       attributes:
           # yamllint disable rule:line-length
           value: >
-              ### There is no guarantee in receiving an immediate response in GitHub Issue Tracker, If you'd like to secure our response, you may consider *PrimeVue PRO Support* where support is provided within 4 business hours
+              ### There is no guarantee in receiving an immediate response in GitHub Issue Tracker, If you'd like to secure our response, you may consider *primevue-lab PRO Support* where support is provided within 4 business hours
           # yamllint enable rule:line-length
     - type: textarea
       id: description
@@ -20,20 +20,20 @@ body:
       id: reproducer
       attributes:
           label: Reproducer
-          placeholder: https://stackblitz.com/edit/primevue-create-vue-issue-template
+          placeholder: https://stackblitz.com/edit/primevue-lab-create-vue-issue-template
           description: |
               Please fork one of the issue template
-              [PrimeVue 3 Issue Template](https://stackblitz.com/edit/primevue-create-vue-issue-template)
-              [PrimeVue TypeScript Issue Template](https://stackblitz.com/edit/primevue-create-vue-typescript-issue-template)
-              [PrimeVue Nuxt Issue Template](https://stackblitz.com/edit/primevue-nuxt-issue-template)
-              [PrimeVue 2 Issue Template](https://codesandbox.io/s/primevue-2-issue-template-dw7jd7)
+              [primevue-lab 3 Issue Template](https://stackblitz.com/edit/primevue-lab-create-vue-issue-template)
+              [primevue-lab TypeScript Issue Template](https://stackblitz.com/edit/primevue-lab-create-vue-typescript-issue-template)
+              [primevue-lab Nuxt Issue Template](https://stackblitz.com/edit/primevue-lab-nuxt-issue-template)
+              [primevue-lab 2 Issue Template](https://codesandbox.io/s/primevue-lab-2-issue-template-dw7jd7)
               and create a case demonstrating your bug report. Issues **without** a Stackblitz have much less possibility to be reviewed.
       validations:
           required: true
     - type: input
       id: pr-version
       attributes:
-          label: PrimeVue version
+          label: primevue-lab version
           placeholder: x.x.x
       validations:
           required: true

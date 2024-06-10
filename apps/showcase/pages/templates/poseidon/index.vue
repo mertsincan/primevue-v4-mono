@@ -31,7 +31,7 @@
         </TemplateHero>
         <PoseidonSeparator />
         <div class="hidden">
-            <TemplateYoutube imgSrc="https://primefaces.org/cdn/primevue/images/templates/apollo/apollo-youtube-screen.png"></TemplateYoutube>
+            <TemplateYoutube imgSrc="https://primefaces.org/cdn/primevue-lab/images/templates/apollo/apollo-youtube-screen.png"></TemplateYoutube>
             <PoseidonSeparator />
         </div>
         <TemplateLicense :license="license"></TemplateLicense>
@@ -55,24 +55,24 @@ export default {
     data() {
         return {
             templateHeroData: {
-                pattern: 'https://primefaces.org/cdn/primevue/images/templates/poseidon/hero-background.png',
-                dashboard1: 'https://primefaces.org/cdn/primevue/images/templates/poseidon/poseidon-hero-dashboard1.png',
-                dashboard2: 'https://primefaces.org/cdn/primevue/images/templates/poseidon/poseidon-hero-dashboard2.png',
+                pattern: 'https://primefaces.org/cdn/primevue-lab/images/templates/poseidon/hero-background.png',
+                dashboard1: 'https://primefaces.org/cdn/primevue-lab/images/templates/poseidon/poseidon-hero-dashboard1.png',
+                dashboard2: 'https://primefaces.org/cdn/primevue-lab/images/templates/poseidon/poseidon-hero-dashboard2.png',
                 description: 'A modern and easy to use premium application template with various color schemes.Based on flat design language, it is fully responsive, touch optimized, built with SASS, CSS3 and HTML5.',
-                liveHref: 'https://poseidon.primevue.org',
-                docHref: 'https://poseidon.primevue.org/documentation'
+                liveHref: 'https://poseidon.primevue-lab.org',
+                docHref: 'https://poseidon.primevue-lab.org/documentation'
             },
             relatedData: [
                 {
-                    src: 'https://primefaces.org/cdn/primevue/images/layouts/diamond-vue.jpg',
+                    src: 'https://primefaces.org/cdn/primevue-lab/images/layouts/diamond-vue.jpg',
                     href: '/templates/diamond'
                 },
                 {
-                    src: 'https://primefaces.org/cdn/primevue/images/layouts/freya-vue.png',
+                    src: 'https://primefaces.org/cdn/primevue-lab/images/layouts/freya-vue.png',
                     href: '/templates/freya'
                 },
                 {
-                    src: 'https://primefaces.org/cdn/primevue/images/layouts/ultima-vue.jpg',
+                    src: 'https://primefaces.org/cdn/primevue-lab/images/layouts/ultima-vue.jpg',
                     href: '/templates/ultima'
                 }
             ],
@@ -80,35 +80,35 @@ export default {
                 {
                     title: 'Fully Responsive',
                     description: 'Apollo is crafted to provide optimal viewing and interaction experience for a wide range of devices.',
-                    src: 'https://primefaces.org/cdn/primevue/images/templates/poseidon/poseidon-features2-responsive.png'
+                    src: 'https://primefaces.org/cdn/primevue-lab/images/templates/poseidon/poseidon-features2-responsive.png'
                 },
                 {
                     title: 'Lifetime Support',
                     description: 'Apollo has a dedicated forum where lifetime support is delivered by engineers at PrimeTek in a timely manner.',
-                    src: 'https://primefaces.org/cdn/primevue/images/templates/apollo/apollo-features2-lifetime.png'
+                    src: 'https://primefaces.org/cdn/primevue-lab/images/templates/apollo/apollo-features2-lifetime.png'
                 },
                 {
                     title: 'Top Notch Quality',
                     description: 'Superior standards with 100% compatibility for strict mode and linting tools.',
-                    src: 'https://primefaces.org/cdn/primevue/images/templates/apollo/apollo-features2-quality.png',
-                    darkSrc: 'https://primefaces.org/cdn/primevue/images/templates/apollo/apollo-features2-quality-dark.png'
+                    src: 'https://primefaces.org/cdn/primevue-lab/images/templates/apollo/apollo-features2-quality.png',
+                    darkSrc: 'https://primefaces.org/cdn/primevue-lab/images/templates/apollo/apollo-features2-quality-dark.png'
                 },
                 {
                     title: 'Cross Browser Compatible',
                     description: 'First class support for Firefox, Safari, Chrome and Edge.',
-                    src: 'https://primefaces.org/cdn/primevue/images/templates/apollo/apollo-features2-compatible.png',
-                    darkSrc: 'https://primefaces.org/cdn/primevue/images/templates/apollo/apollo-features2-compatible-dark.png'
+                    src: 'https://primefaces.org/cdn/primevue-lab/images/templates/apollo/apollo-features2-compatible.png',
+                    darkSrc: 'https://primefaces.org/cdn/primevue-lab/images/templates/apollo/apollo-features2-compatible-dark.png'
                 },
                 {
                     title: 'Customizable Design',
                     description: 'Fully customizable with a mixture of Sass and CSS variables.',
-                    src: 'https://primefaces.org/cdn/primevue/images/templates/apollo/apollo-features2-customizable.png',
-                    darkSrc: 'https://primefaces.org/cdn/primevue/images/templates/apollo/apollo-features2-customizable-dark.png'
+                    src: 'https://primefaces.org/cdn/primevue-lab/images/templates/apollo/apollo-features2-customizable.png',
+                    darkSrc: 'https://primefaces.org/cdn/primevue-lab/images/templates/apollo/apollo-features2-customizable-dark.png'
                 },
                 {
                     title: 'Mobile Experience',
                     description: 'Touch optimized enhanced mobile experience with responsive design.',
-                    src: 'https://primefaces.org/cdn/primevue/images/templates/apollo/apollo-features2-mobile.png'
+                    src: 'https://primefaces.org/cdn/primevue-lab/images/templates/apollo/apollo-features2-mobile.png'
                 }
             ],
             animationFeaturesData1: [
@@ -116,19 +116,19 @@ export default {
                     id: 1,
                     title: 'PrimeFlex CSS Utilities',
                     description: 'PrimeFlex is a CSS utility library featuring various helpers such as a grid system, flexbox, spacing, elevation and more.',
-                    src: 'https://primefaces.org/cdn/primevue/images/templates/poseidon/features-animation-utilities.png'
+                    src: 'https://primefaces.org/cdn/primevue-lab/images/templates/poseidon/features-animation-utilities.png'
                 },
                 {
                     id: 2,
                     title: 'PrimeBlocks',
                     description: 'Fully compatible with PrimeBlocks, choose from the wide range of blocks and customize the way you like. Note that PrimeBlocks is not included in the template and requires a separate purchase.',
-                    src: 'https://primefaces.org/cdn/primevue/images/templates/poseidon/features-animation-blocks.png'
+                    src: 'https://primefaces.org/cdn/primevue-lab/images/templates/poseidon/features-animation-blocks.png'
                 },
                 {
                     id: 3,
                     title: 'PrimeIcons',
                     description: 'Poseidon ships with PrimeIcons, PrimeTek’s modern icon library including a wide range of icons for your applications.',
-                    src: 'https://primefaces.org/cdn/primevue/images/templates/poseidon/features-animation-icons.png'
+                    src: 'https://primefaces.org/cdn/primevue-lab/images/templates/poseidon/features-animation-icons.png'
                 }
             ],
             animationFeaturesData2: [
@@ -136,41 +136,41 @@ export default {
                     id: 1,
                     title: 'Light / Dark / Dim Modes',
                     description: 'Poseidon offers you 3 uniquely designed layout modes to choose from; Light, Dim, and Dark.',
-                    src: 'https://primefaces.org/cdn/primevue/images/templates/poseidon/features-animation-darkmode.png'
+                    src: 'https://primefaces.org/cdn/primevue-lab/images/templates/poseidon/features-animation-darkmode.png'
                 },
                 {
                     id: 2,
                     title: 'Component Themes',
                     description: 'Poseidon offers 12 built-in component themes with dark, light and dim options. Also if you wanna create your own theme you can do it by just defining couple SASS variables.',
-                    src: 'https://primefaces.org/cdn/primevue/images/templates/poseidon/features-animation-component-themes.png'
+                    src: 'https://primefaces.org/cdn/primevue-lab/images/templates/poseidon/features-animation-component-themes.png'
                 },
                 {
                     id: 3,
                     title: '3 Menu Orientations',
                     description: 'Poseidon has 3 menu layouts to choose from; Static, Overlay and Horizontal.',
-                    src: 'https://primefaces.org/cdn/primevue/images/templates/poseidon/features-animation-orientations.png',
+                    src: 'https://primefaces.org/cdn/primevue-lab/images/templates/poseidon/features-animation-orientations.png',
                     type: 'inline-animation',
                     inlineFeaturesData: [
                         {
                             id: 1,
                             title: 'Static',
-                            src: 'https://primefaces.org/cdn/primevue/images/templates/poseidon/Static.png'
+                            src: 'https://primefaces.org/cdn/primevue-lab/images/templates/poseidon/Static.png'
                         },
                         {
                             id: 2,
                             title: 'Overlay',
-                            src: 'https://primefaces.org/cdn/primevue/images/templates/poseidon/Overlay.png'
+                            src: 'https://primefaces.org/cdn/primevue-lab/images/templates/poseidon/Overlay.png'
                         },
                         {
                             id: 3,
                             title: 'Horizontal',
-                            src: 'https://primefaces.org/cdn/primevue/images/templates/poseidon/Horizontal.png'
+                            src: 'https://primefaces.org/cdn/primevue-lab/images/templates/poseidon/Horizontal.png'
                         }
                     ]
                 }
             ],
             license: {
-                documentLink: 'https://poseidon.primevue.org/documentation/',
+                documentLink: 'https://poseidon.primevue-lab.org/documentation/',
                 description: 'The download package is a Vite-based project containing all application source codes deployed at the live demo. The project code is written in JavaScript.',
                 showDiscount: false,
                 licenseDetails: [

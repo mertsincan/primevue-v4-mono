@@ -2,7 +2,7 @@
  *
  * ToggleSwitch is used to select a boolean value.
  *
- * [Live Demo](https://www.primevue.org/toggleswitch/)
+ * [Live Demo](https://www.primevue-lab.org/toggleswitch/)
  *
  * @module toggleswitchstyle
  *

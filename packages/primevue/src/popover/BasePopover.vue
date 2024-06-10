@@ -1,6 +1,6 @@
 <script>
-import BaseComponent from '@primevue/core/basecomponent';
-import PopoverStyle from 'primevue/popover/style';
+import BaseComponent from '@primevue-lab/core/basecomponent';
+import PopoverStyle from 'primevue-lab/popover/style';
 
 export default {
     name: 'BasePopover',

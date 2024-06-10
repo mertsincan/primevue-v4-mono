@@ -12,7 +12,7 @@
                     <p>&gt; npm run dev <span class="text-gray-500">or yarn dev</span></p>
                     <br />
                     <br />
-                    <img class="template-configuration-screen-bottom-logo" src="https://primefaces.org/cdn/primevue/images/templates/vue-3d-logo.png" alt="Vue 3D Logo" />
+                    <img class="template-configuration-screen-bottom-logo" src="https://primefaces.org/cdn/primevue-lab/images/templates/vue-3d-logo.png" alt="Vue 3D Logo" />
                 </div>
             </div>
             <h3 class="template-configuration-title">{{ title }}</h3>

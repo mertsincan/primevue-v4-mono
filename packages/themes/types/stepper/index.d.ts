@@ -2,7 +2,7 @@
  *
  * Stepper Design Tokens
  *
- * [Live Demo](https://www.primevue.org/stepper/)
+ * [Live Demo](https://www.primevue-lab.org/stepper/)
  *
  * @module themes/stepper
  *

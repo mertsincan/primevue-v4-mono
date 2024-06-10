@@ -2,7 +2,7 @@
  *
  * Tooltip Design Tokens
  *
- * [Live Demo](https://www.primevue.org/tooltip/)
+ * [Live Demo](https://www.primevue-lab.org/tooltip/)
  *
  * @module themes/tooltip
  *

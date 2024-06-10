@@ -2,7 +2,7 @@
  *
  * Toolbar is a grouping component for buttons and other content.
  *
- * [Live Demo](https://www.primevue.org/toolbar/)
+ * [Live Demo](https://www.primevue-lab.org/toolbar/)
  *
  * @module toolbar
  *
@@ -131,13 +131,13 @@ export interface ToolbarEmitsOptions {}
 export declare type ToolbarEmits = EmitFn<ToolbarEmitsOptions>;
 
 /**
- * **PrimeVue - Toolbar**
+ * **primevue-lab - Toolbar**
  *
  * _Toolbar is a grouping component for buttons and other content._
  *
- * [Live Demo](https://www.primevue.org/toolbar/)
+ * [Live Demo](https://www.primevue-lab.org/toolbar/)
  * --- ---
- * ![PrimeVue](https://primefaces.org/cdn/primevue/images/logo-100.png)
+ * ![primevue-lab](https://primefaces.org/cdn/primevue-lab/images/logo-100.png)
  *
  * @group Component
  *

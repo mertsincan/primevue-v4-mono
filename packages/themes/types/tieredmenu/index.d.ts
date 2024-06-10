@@ -2,7 +2,7 @@
  *
  * TieredMenu Design Tokens
  *
- * [Live Demo](https://www.primevue.org/tieredmenu/)
+ * [Live Demo](https://www.primevue-lab.org/tieredmenu/)
  *
  * @module themes/tieredmenu
  *

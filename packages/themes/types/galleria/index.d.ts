@@ -2,7 +2,7 @@
  *
  * Galleria Design Tokens
  *
- * [Live Demo](https://www.primevue.org/galleria/)
+ * [Live Demo](https://www.primevue-lab.org/galleria/)
  *
  * @module themes/galleria
  *

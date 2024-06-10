@@ -2,7 +2,7 @@
  *
  * TabPanel is a helper component for Tabs component.
  *
- * [Live Demo](https://www.primevue.org/tabs/)
+ * [Live Demo](https://www.primevue-lab.org/tabs/)
  *
  * @module tabpanel
  *
@@ -214,13 +214,13 @@ export interface TabPanelEmitsOptions {}
 export declare type TabPanelEmits = EmitFn<TabPanelEmitsOptions>;
 
 /**
- * **PrimeVue - TabPanel**
+ * **primevue-lab - TabPanel**
  *
  * _TabPanel is a helper component for Tabs component._
  *
- * [Live Demo](https://www.primevue.org/tabs/)
+ * [Live Demo](https://www.primevue-lab.org/tabs/)
  * --- ---
- * ![PrimeVue](https://primefaces.org/cdn/primevue/images/logo-100.png)
+ * ![primevue-lab](https://primefaces.org/cdn/primevue-lab/images/logo-100.png)
  *
  * @group Component
  *

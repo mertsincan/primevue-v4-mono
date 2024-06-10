@@ -1,6 +1,6 @@
 <script>
-import BaseComponent from '@primevue/core/basecomponent';
-import InplaceStyle from 'primevue/inplace/style';
+import BaseComponent from '@primevue-lab/core/basecomponent';
+import InplaceStyle from 'primevue-lab/inplace/style';
 
 export default {
     name: 'BaseInplace',

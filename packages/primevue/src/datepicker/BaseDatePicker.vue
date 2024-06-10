@@ -1,6 +1,6 @@
 <script>
-import BaseComponent from '@primevue/core/basecomponent';
-import DatePickerStyle from 'primevue/datepicker/style';
+import BaseComponent from '@primevue-lab/core/basecomponent';
+import DatePickerStyle from 'primevue-lab/datepicker/style';
 
 export default {
     name: 'BaseDatePicker',

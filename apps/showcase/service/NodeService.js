@@ -377,7 +377,7 @@ export const NodeService = {
                     {
                         key: '7-1',
                         data: {
-                            name: 'primevue.png',
+                            name: 'primevue-lab.png',
                             size: '30kb',
                             type: 'Picture'
                         }

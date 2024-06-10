@@ -1,7 +1,7 @@
 import { mount } from '@vue/test-utils';
-import PrimeVue from 'primevue/config';
 import { nextTick } from 'vue';
 import AutoComplete from './AutoComplete.vue';
+import primevue-lab from 'primevue-lab/config';
 
 describe('AutoComplete.vue', () => {
     let wrapper;
@@ -9,7 +9,7 @@ describe('AutoComplete.vue', () => {
     beforeEach(async () => {
         wrapper = mount(AutoComplete, {
             global: {
-                plugins: [PrimeVue],
+                plugins: [primevue-lab],
                 stubs: {
                     teleport: true
                 }

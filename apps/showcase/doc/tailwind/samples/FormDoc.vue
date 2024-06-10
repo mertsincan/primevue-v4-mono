@@ -1,6 +1,6 @@
 <template>
     <DocSectionText v-bind="$attrs">
-        <p>Using Tailwind utilities for the responsive layout of a form with PrimeVue components.</p>
+        <p>Using Tailwind utilities for the responsive layout of a form with primevue-lab components.</p>
     </DocSectionText>
     <div class="card flex sm:justify-center">
         <div class="flex flex-col gap-6 w-full sm:w-auto">
@@ -24,7 +24,7 @@
                     <Select v-model="selectedCountry" inputId="country" :options="countries" optionLabel="name" placeholder="Select a Country" class="w-full">
                         <template #value="slotProps">
                             <div v-if="slotProps.value" class="flex items-center">
-                                <img :alt="slotProps.value.label" src="https://primefaces.org/cdn/primevue/images/flag/flag_placeholder.png" :class="`mr-2 flag flag-${slotProps.value.code.toLowerCase()}`" style="width: 18px" />
+                                <img :alt="slotProps.value.label" src="https://primefaces.org/cdn/primevue-lab/images/flag/flag_placeholder.png" :class="`mr-2 flag flag-${slotProps.value.code.toLowerCase()}`" style="width: 18px" />
                                 <div>{{ slotProps.value.name }}</div>
                             </div>
                             <span v-else>
@@ -33,7 +33,7 @@
                         </template>
                         <template #option="slotProps">
                             <div class="flex items-center">
-                                <img :alt="slotProps.option.label" src="https://primefaces.org/cdn/primevue/images/flag/flag_placeholder.png" :class="`mr-2 flag flag-${slotProps.option.code.toLowerCase()}`" style="width: 18px" />
+                                <img :alt="slotProps.option.label" src="https://primefaces.org/cdn/primevue-lab/images/flag/flag_placeholder.png" :class="`mr-2 flag flag-${slotProps.option.code.toLowerCase()}`" style="width: 18px" />
                                 <div>{{ slotProps.option.name }}</div>
                             </div>
                         </template>
@@ -89,7 +89,7 @@ export default {
             <Select v-model="selectedCountry" inputId="country" :options="countries" optionLabel="name" placeholder="Select a Country" class="w-full">
                 <template #value="slotProps">
                     <div v-if="slotProps.value" class="flex items-center">
-                        <img :alt="slotProps.value.label" src="https://primefaces.org/cdn/primevue/images/flag/flag_placeholder.png" :class="\`mr-2 flag flag-\${slotProps.value.code.toLowerCase()}\`" style="width: 18px" />
+                        <img :alt="slotProps.value.label" src="https://primefaces.org/cdn/primevue-lab/images/flag/flag_placeholder.png" :class="\`mr-2 flag flag-\${slotProps.value.code.toLowerCase()}\`" style="width: 18px" />
                         <div>{{ slotProps.value.name }}</div>
                     </div>
                     <span v-else>
@@ -98,7 +98,7 @@ export default {
                 </template>
                 <template #option="slotProps">
                     <div class="flex items-center">
-                        <img :alt="slotProps.option.label" src="https://primefaces.org/cdn/primevue/images/flag/flag_placeholder.png" :class="\`mr-2 flag flag-\${slotProps.option.code.toLowerCase()}\`" style="width: 18px" />
+                        <img :alt="slotProps.option.label" src="https://primefaces.org/cdn/primevue-lab/images/flag/flag_placeholder.png" :class="\`mr-2 flag flag-\${slotProps.option.code.toLowerCase()}\`" style="width: 18px" />
                         <div>{{ slotProps.option.name }}</div>
                     </div>
                 </template>

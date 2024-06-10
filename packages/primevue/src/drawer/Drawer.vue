@@ -42,11 +42,11 @@
 </template>
 
 <script>
-import { DomHandler, ZIndexUtils } from '@primevue/core/utils';
-import TimesIcon from '@primevue/icons/times';
-import Button from 'primevue/button';
-import FocusTrap from 'primevue/focustrap';
-import Portal from 'primevue/portal';
+import { DomHandler, ZIndexUtils } from '@primevue-lab/core/utils';
+import TimesIcon from '@primevue-lab/icons/times';
+import Button from 'primevue-lab/button';
+import FocusTrap from 'primevue-lab/focustrap';
+import Portal from 'primevue-lab/portal';
 import BaseDrawer from './BaseDrawer.vue';
 
 export default {

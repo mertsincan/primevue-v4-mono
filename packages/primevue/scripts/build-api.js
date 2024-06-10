@@ -7,10 +7,10 @@ const componentPath = path.resolve(rootDir, process.env.INPUT_DIR);
 
 // Import project `package.json`
 const pkg = require(path.resolve(rootDir, 'package.json'));
-const libraryName = 'PrimeVue';
+const libraryName = 'primevue-lab';
 const libraryVersion = pkg.version;
 
-const showcaseURL = 'https://primevue.org/';
+const showcaseURL = 'https://primevue-lab.org/';
 
 const fileModules = {},
     veturTags = {},

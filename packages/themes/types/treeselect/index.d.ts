@@ -2,7 +2,7 @@
  *
  * TreeSelect Design Tokens
  *
- * [Live Demo](https://www.primevue.org/treeselect/)
+ * [Live Demo](https://www.primevue-lab.org/treeselect/)
  *
  * @module themes/treeselect
  *

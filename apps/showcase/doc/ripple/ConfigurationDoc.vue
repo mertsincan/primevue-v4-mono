@@ -21,11 +21,11 @@ mounted() {
 }
 `,
                 composition: `
-import { usePrimeVue } from 'primevue/config';
+import { useprimevue-lab } from 'primevue-lab/config';
 
-const PrimeVue = usePrimeVue();
+const primevue-lab = useprimevue-lab();
 
-PrimeVue.config.ripple = true;
+primevue-lab.config.ripple = true;
 `
             }
         };

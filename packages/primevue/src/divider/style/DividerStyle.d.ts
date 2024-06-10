@@ -2,7 +2,7 @@
  *
  * Divider is used to separate contents.
  *
- * [Live Demo](https://primevue.org/divider)
+ * [Live Demo](https://primevue-lab.org/divider)
  *
  * @module dividerstyle
  *

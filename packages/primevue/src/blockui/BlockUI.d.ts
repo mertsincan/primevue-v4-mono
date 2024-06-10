@@ -2,7 +2,7 @@
  *
  * BlockUI represents people using icons, labels and images.
  *
- * [Live Demo](https://www.primevue.org/blockui)
+ * [Live Demo](https://www.primevue-lab.org/blockui)
  *
  * @module blockui
  *
@@ -154,13 +154,13 @@ export interface BlockUIEmitsOptions {
 export declare type BlockUIEmits = EmitFn<BlockUIEmitsOptions>;
 
 /**
- * **PrimeVue - BlockUI**
+ * **primevue-lab - BlockUI**
  *
  * _BlockUI represents people using icons, labels and images._
  *
- * [Live Demo](https://www.primevue.org/blockui/)
+ * [Live Demo](https://www.primevue-lab.org/blockui/)
  * --- ---
- * ![PrimeVue](https://primefaces.org/cdn/primevue/images/logo-100.png)
+ * ![primevue-lab](https://primefaces.org/cdn/primevue-lab/images/logo-100.png)
  *
  * @group Component
  *

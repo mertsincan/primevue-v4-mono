@@ -35,7 +35,7 @@ export * from './animateonscroll/style/AnimateOnScrollStyle.js';
 export { default as AnimateOnScrollStyle } from './animateonscroll/style/AnimateOnScrollStyle.js';
 
 // Api
-export * from '@primevue/core/api';
+export * from '@primevue-lab/core/api';
 
 // AutoComplete
 export * from './autocomplete/AutoComplete.vue';
@@ -68,26 +68,26 @@ export * from './badgedirective/style/BadgeDirectiveStyle.js';
 export { default as BadgeDirectiveStyle } from './badgedirective/style/BadgeDirectiveStyle.js';
 
 // Base
-export * from '@primevue/core/base';
-export { default as Base } from '@primevue/core/base';
-export * from '@primevue/core/base/style';
-export { default as BaseStyle } from '@primevue/core/base/style';
+export * from '@primevue-lab/core/base';
+export { default as Base } from '@primevue-lab/core/base';
+export * from '@primevue-lab/core/base/style';
+export { default as BaseStyle } from '@primevue-lab/core/base/style';
 
 // BaseComponent
-export * from '@primevue/core/basecomponent';
-export { default as BaseComponent } from '@primevue/core/basecomponent';
-export * from '@primevue/core/basecomponent/style';
-export { default as BaseComponentStyle } from '@primevue/core/basecomponent/style';
+export * from '@primevue-lab/core/basecomponent';
+export { default as BaseComponent } from '@primevue-lab/core/basecomponent';
+export * from '@primevue-lab/core/basecomponent/style';
+export { default as BaseComponentStyle } from '@primevue-lab/core/basecomponent/style';
 
 // BaseDirective
-export * from '@primevue/core/basedirective';
-export { default as BaseDirective } from '@primevue/core/basedirective';
+export * from '@primevue-lab/core/basedirective';
+export { default as BaseDirective } from '@primevue-lab/core/basedirective';
 
 // BaseIcon
-export * from '@primevue/icons/baseicon';
-export { default as BaseIcon } from '@primevue/icons/baseicon';
-export * from '@primevue/icons/baseicon/style';
-export { default as BaseIconStyle } from '@primevue/icons/baseicon/style';
+export * from '@primevue-lab/icons/baseicon';
+export { default as BaseIcon } from '@primevue-lab/icons/baseicon';
+export * from '@primevue-lab/icons/baseicon/style';
+export { default as BaseIconStyle } from '@primevue-lab/icons/baseicon/style';
 
 // BlockUI
 export * from './blockui/BlockUI.vue';
@@ -180,8 +180,8 @@ export * from './columngroup/style/ColumnGroupStyle.js';
 export { default as ColumnGroupStyle } from './columngroup/style/ColumnGroupStyle.js';
 
 // Config
-export * from '@primevue/core/config';
-export { default as Config } from '@primevue/core/config';
+export * from '@primevue-lab/core/config';
+export { default as Config } from '@primevue-lab/core/config';
 
 // ConfirmationEventBus
 export * from './confirmationeventbus/ConfirmationEventBus.js';
@@ -560,9 +560,9 @@ export { default as SelectButton } from './selectbutton/SelectButton.vue';
 export * from './selectbutton/style/SelectButtonStyle.js';
 export { default as SelectButtonStyle } from './selectbutton/style/SelectButtonStyle.js';
 
-// PrimeVueService
-export * from '@primevue/core/service';
-export { default as PrimeVueService } from '@primevue/core/service';
+// primevue-labService
+export * from '@primevue-lab/core/service';
+export { default as primevue-labService } from '@primevue-lab/core/service';
 
 // Sidebar
 export * from './sidebar/Sidebar.vue';
@@ -784,4 +784,4 @@ export * from './virtualscroller/style/VirtualScrollerStyle.js';
 export { default as VirtualScrollerStyle } from './virtualscroller/style/VirtualScrollerStyle.js';
 
 // Themes
-export * from '@primevue/themes';
+export * from '@primevue-lab/themes';

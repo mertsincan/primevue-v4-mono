@@ -12,11 +12,11 @@ export default {
             code: {
                 basic: `
 import { createApp } from 'vue';
-import PrimeVue from 'primevue/config';
-import Aura from '@primevue/themes/aura';
+import primevue-lab from 'primevue-lab/config';
+import Aura from '@primevue-lab/themes/aura';
 
 const app = createApp(App);
-app.use(PrimeVue, {
+app.use(primevue-lab, {
     theme: {
         preset: Aura
     }

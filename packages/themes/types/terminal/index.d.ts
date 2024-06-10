@@ -2,7 +2,7 @@
  *
  * Terminal Design Tokens
  *
- * [Live Demo](https://www.primevue.org/terminal/)
+ * [Live Demo](https://www.primevue-lab.org/terminal/)
  *
  * @module themes/terminal
  *

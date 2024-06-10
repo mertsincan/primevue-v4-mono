@@ -2,7 +2,7 @@
  *
  * Splitter Design Tokens
  *
- * [Live Demo](https://www.primevue.org/splitter/)
+ * [Live Demo](https://www.primevue-lab.org/splitter/)
  *
  * @module themes/splitter
  *

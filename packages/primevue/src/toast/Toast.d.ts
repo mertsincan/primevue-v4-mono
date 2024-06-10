@@ -2,7 +2,7 @@
  *
  * Toast is used to display messages in an overlay.
  *
- * [Live Demo](https://www.primevue.org/toast/)
+ * [Live Demo](https://www.primevue-lab.org/toast/)
  *
  * @module toast
  *
@@ -332,13 +332,13 @@ export interface ToastEmitsOptions {
 export declare type ToastEmits = EmitFn<ToastEmitsOptions>;
 
 /**
- * **PrimeVue - Toast**
+ * **primevue-lab - Toast**
  *
  * _Toast is used to display messages in an overlay._
  *
- * [Live Demo](https://www.primevue.org/toast/)
+ * [Live Demo](https://www.primevue-lab.org/toast/)
  * --- ---
- * ![PrimeVue](https://primefaces.org/cdn/primevue/images/logo-100.png)
+ * ![primevue-lab](https://primefaces.org/cdn/primevue-lab/images/logo-100.png)
  *
  * @group Component
  *

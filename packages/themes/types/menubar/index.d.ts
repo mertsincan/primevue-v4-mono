@@ -2,7 +2,7 @@
  *
  * Menubar Design Tokens
  *
- * [Live Demo](https://www.primevue.org/menubar/)
+ * [Live Demo](https://www.primevue-lab.org/menubar/)
  *
  * @module themes/menubar
  *

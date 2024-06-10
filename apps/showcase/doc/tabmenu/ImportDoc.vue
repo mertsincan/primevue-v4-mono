@@ -9,7 +9,7 @@ export default {
         return {
             code: {
                 basic: `
-import TabMenu from 'primevue/tabmenu';
+import TabMenu from 'primevue-lab/tabmenu';
 `
             }
         };

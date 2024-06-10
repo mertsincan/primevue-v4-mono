@@ -1,6 +1,6 @@
 <template>
     <Head>
-        <Title>PrimeFlex - PrimeVue</Title>
+        <Title>PrimeFlex - primevue-lab</Title>
         <Meta name="description" content="Moving from PrimeFlex to Tailwind CSS." />
     </Head>
     <div class="doc">

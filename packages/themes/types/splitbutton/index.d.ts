@@ -2,7 +2,7 @@
  *
  * SplitButton Design Tokens
  *
- * [Live Demo](https://www.primevue.org/splitbutton/)
+ * [Live Demo](https://www.primevue-lab.org/splitbutton/)
  *
  * @module themes/splitbutton
  *

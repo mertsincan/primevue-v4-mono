@@ -16,8 +16,8 @@
         "incremental": true,
         "baseUrl": ".",
         "paths": {
-            "@primevue/core/*": ["./src/*"],
-            "@primevue/themes/*": ["../../packages/themes/src/*"]
+            "@primevue-lab/core/*": ["./src/*"],
+            "@primevue-lab/themes/*": ["../../packages/themes/src/*"]
         }
     },
     "include": ["**/*.ts", "src/*"],

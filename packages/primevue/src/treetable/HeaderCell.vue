@@ -26,12 +26,12 @@
 </template>
 
 <script>
-import BaseComponent from '@primevue/core/basecomponent';
-import { DomHandler, ObjectUtils } from '@primevue/core/utils';
-import SortAltIcon from '@primevue/icons/sortalt';
-import SortAmountDownIcon from '@primevue/icons/sortamountdown';
-import SortAmountUpAltIcon from '@primevue/icons/sortamountupalt';
-import Badge from 'primevue/badge';
+import BaseComponent from '@primevue-lab/core/basecomponent';
+import { DomHandler, ObjectUtils } from '@primevue-lab/core/utils';
+import SortAltIcon from '@primevue-lab/icons/sortalt';
+import SortAmountDownIcon from '@primevue-lab/icons/sortamountdown';
+import SortAmountUpAltIcon from '@primevue-lab/icons/sortamountupalt';
+import Badge from 'primevue-lab/badge';
 import { mergeProps } from 'vue';
 
 export default {

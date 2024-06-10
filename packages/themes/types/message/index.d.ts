@@ -2,7 +2,7 @@
  *
  * Message Design Tokens
  *
- * [Live Demo](https://www.primevue.org/message/)
+ * [Live Demo](https://www.primevue-lab.org/message/)
  *
  * @module themes/message
  *

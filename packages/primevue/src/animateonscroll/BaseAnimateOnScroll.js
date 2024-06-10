@@ -1,5 +1,5 @@
-import BaseDirective from '@primevue/core/basedirective';
-import AnimateOnScrollStyle from 'primevue/animateonscroll/style';
+import BaseDirective from '@primevue-lab/core/basedirective';
+import AnimateOnScrollStyle from 'primevue-lab/animateonscroll/style';
 
 const BaseAnimateOnScroll = BaseDirective.extend({
     style: AnimateOnScrollStyle

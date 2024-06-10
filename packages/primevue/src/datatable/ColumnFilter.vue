@@ -164,18 +164,18 @@
 </template>
 
 <script>
-import { FilterOperator } from '@primevue/core/api';
-import BaseComponent from '@primevue/core/basecomponent';
-import { ConnectedOverlayScrollHandler, DomHandler, UniqueComponentId, ZIndexUtils } from '@primevue/core/utils';
-import FilterIcon from '@primevue/icons/filter';
-import FilterSlashIcon from '@primevue/icons/filterslash';
-import PlusIcon from '@primevue/icons/plus';
-import TrashIcon from '@primevue/icons/trash';
-import Button from 'primevue/button';
-import FocusTrap from 'primevue/focustrap';
-import OverlayEventBus from 'primevue/overlayeventbus';
-import Portal from 'primevue/portal';
-import Select from 'primevue/select';
+import { FilterOperator } from '@primevue-lab/core/api';
+import BaseComponent from '@primevue-lab/core/basecomponent';
+import { ConnectedOverlayScrollHandler, DomHandler, UniqueComponentId, ZIndexUtils } from '@primevue-lab/core/utils';
+import FilterIcon from '@primevue-lab/icons/filter';
+import FilterSlashIcon from '@primevue-lab/icons/filterslash';
+import PlusIcon from '@primevue-lab/icons/plus';
+import TrashIcon from '@primevue-lab/icons/trash';
+import Button from 'primevue-lab/button';
+import FocusTrap from 'primevue-lab/focustrap';
+import OverlayEventBus from 'primevue-lab/overlayeventbus';
+import Portal from 'primevue-lab/portal';
+import Select from 'primevue-lab/select';
 import { mergeProps } from 'vue';
 
 export default {
@@ -650,9 +650,10 @@ export default {
         matchModes() {
             return (
                 this.matchModeOptions ||
-                this.$primevue.config.filterMatchModeOptions[this.type].map((key) => {
-                    return { label: this.$primevue.config.locale[key], value: key };
-                })
+                this.$primevue -
+                    lab.config.filterMatchModeOptions[this.type].map((key) => {
+                        return { label: this.$primevue.config.locale[key], value: key };
+                    })
             );
         },
         isShowMatchModes() {

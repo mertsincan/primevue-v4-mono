@@ -21,14 +21,14 @@ describe('InputChips.vue', () => {
     it('should add item', async () => {
         const addItem = vi.spyOn(wrapper.vm, 'addItem');
 
-        await wrapper.vm.addItem({}, 'PrimeVue', false);
+        await wrapper.vm.addItem({}, 'primevue-lab', false);
 
-        await wrapper.setProps({ modelValue: ['PrimeVue'] });
+        await wrapper.setProps({ modelValue: ['primevue-lab'] });
 
         expect(addItem).toHaveBeenCalled();
         expect(wrapper.findAll('.p-inputchips-token').length).toBe(1);
         expect(wrapper.find('.p-inputchips-token-label').exists()).toBe(true);
-        expect(wrapper.find('.p-inputchips-token-label').text()).toBe('PrimeVue');
+        expect(wrapper.find('.p-inputchips-token-label').text()).toBe('primevue-lab');
     });
 
     it('should have correct custom chip removal icon', async () => {

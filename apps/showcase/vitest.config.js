@@ -18,11 +18,11 @@ export default mergeConfig(
                 provider: 'istanbul',
                 reporter: ['text', 'json', 'html']
             },
-            setupFiles: [path.resolve(__dirname, './components/lib/config/PrimeVue.spec.js')]
+            setupFiles: [path.resolve(__dirname, './components/lib/config/primevue-lab.spec.js')]
         },
         resolve: {
             alias: {
-                //'primevue/config': path.resolve(__dirname, './components/lib/config/PrimeVue.js')
+                //'primevue-lab/config': path.resolve(__dirname, './components/lib/config/primevue-lab.js')
             }
         }
     })

@@ -11,7 +11,7 @@ export default {
         return {
             code: {
                 basic: `
-import { updateSurfacePalette } from '@primevue/themes';
+import { updateSurfacePalette } from '@primevue-lab/themes';
 
 const changeSurfaces() {
     //changes surfaces both in light and dark mode

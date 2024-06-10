@@ -12,7 +12,7 @@
 </template>
 
 <script>
-import { ObjectUtils } from '@primevue/core/utils';
+import { ObjectUtils } from '@primevue-lab/core/utils';
 import { mergeProps } from 'vue';
 import BaseTabPanel from './BaseTabPanel.vue';
 

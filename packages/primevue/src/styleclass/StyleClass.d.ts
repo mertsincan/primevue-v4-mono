@@ -2,7 +2,7 @@
  *
  * StyleClass manages CSS classes declaratively to during enter/leave animations or just to toggle classes on an element.
  *
- * [Live Demo](https://primevue.org/styleclass)
+ * [Live Demo](https://primevue-lab.org/styleclass)
  *
  * @module styleclass
  *
@@ -91,13 +91,13 @@ export interface StyleClassDirectiveBinding extends Omit<DirectiveBinding, 'modi
 }
 
 /**
- * **PrimeVue - StyleClass**
+ * **primevue-lab - StyleClass**
  *
  * _StyleClass manages css classes declaratively to during enter/leave animations or just to toggle classes on an element._
  *
- * [Live Demo](https://www.primevue.org/styleclass/)
+ * [Live Demo](https://www.primevue-lab.org/styleclass/)
  * --- ---
- * ![PrimeVue](https://primefaces.org/cdn/primevue/images/logo-100.png)
+ * ![primevue-lab](https://primefaces.org/cdn/primevue-lab/images/logo-100.png)
  *
  */
 declare const StyleClass: ObjectDirective;

@@ -2,7 +2,7 @@
  *
  * Breadcrumb provides contextual information about page hierarchy.
  *
- * [Live Demo](https://www.primevue.org/breadcrumb/)
+ * [Live Demo](https://www.primevue-lab.org/breadcrumb/)
  *
  * @module breadcrumbstyle
  *

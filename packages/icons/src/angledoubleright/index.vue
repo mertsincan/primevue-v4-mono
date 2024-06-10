@@ -9,7 +9,7 @@
     </svg>
 </template>
 <script>
-import BaseIcon from '@primevue/icons/baseicon';
+import BaseIcon from '@primevue-lab/icons/baseicon';
 
 export default {
     name: 'AngleDoubleRightIcon',

@@ -180,15 +180,15 @@
 </template>
 
 <script>
-import { ConnectedOverlayScrollHandler, DomHandler, ObjectUtils, UniqueComponentId, ZIndexUtils } from '@primevue/core/utils';
-import ChevronDownIcon from '@primevue/icons/chevrondown';
-import SpinnerIcon from '@primevue/icons/spinner';
-import Chip from 'primevue/chip';
-import InputText from 'primevue/inputtext';
-import OverlayEventBus from 'primevue/overlayeventbus';
-import Portal from 'primevue/portal';
-import Ripple from 'primevue/ripple';
-import VirtualScroller from 'primevue/virtualscroller';
+import { ConnectedOverlayScrollHandler, DomHandler, ObjectUtils, UniqueComponentId, ZIndexUtils } from '@primevue-lab/core/utils';
+import ChevronDownIcon from '@primevue-lab/icons/chevrondown';
+import SpinnerIcon from '@primevue-lab/icons/spinner';
+import Chip from 'primevue-lab/chip';
+import InputText from 'primevue-lab/inputtext';
+import OverlayEventBus from 'primevue-lab/overlayeventbus';
+import Portal from 'primevue-lab/portal';
+import Ripple from 'primevue-lab/ripple';
+import VirtualScroller from 'primevue-lab/virtualscroller';
 import BaseAutoComplete from './BaseAutoComplete.vue';
 
 export default {

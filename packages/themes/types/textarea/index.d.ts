@@ -2,7 +2,7 @@
  *
  * Textarea Design Tokens
  *
- * [Live Demo](https://www.primevue.org/textarea/)
+ * [Live Demo](https://www.primevue-lab.org/textarea/)
  *
  * @module themes/textarea
  *

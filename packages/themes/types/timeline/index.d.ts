@@ -2,7 +2,7 @@
  *
  * Timeline Design Tokens
  *
- * [Live Demo](https://www.primevue.org/timeline/)
+ * [Live Demo](https://www.primevue-lab.org/timeline/)
  *
  * @module themes/timeline
  *

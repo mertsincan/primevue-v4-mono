@@ -20,13 +20,13 @@
 </template>
 
 <script>
-import BaseComponent from '@primevue/core/basecomponent';
-import CheckIcon from '@primevue/icons/check';
-import ExclamationTriangleIcon from '@primevue/icons/exclamationtriangle';
-import InfoCircleIcon from '@primevue/icons/infocircle';
-import TimesIcon from '@primevue/icons/times';
-import TimesCircleIcon from '@primevue/icons/timescircle';
-import Ripple from 'primevue/ripple';
+import BaseComponent from '@primevue-lab/core/basecomponent';
+import CheckIcon from '@primevue-lab/icons/check';
+import ExclamationTriangleIcon from '@primevue-lab/icons/exclamationtriangle';
+import InfoCircleIcon from '@primevue-lab/icons/infocircle';
+import TimesIcon from '@primevue-lab/icons/times';
+import TimesCircleIcon from '@primevue-lab/icons/timescircle';
+import Ripple from 'primevue-lab/ripple';
 
 export default {
     name: 'ToastMessage',

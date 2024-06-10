@@ -2,7 +2,7 @@
  *
  * Tag component is used to categorize content.
  *
- * [Live Demo](https://www.primevue.org/tag)
+ * [Live Demo](https://www.primevue-lab.org/tag)
  *
  * @module tagstyle
  *

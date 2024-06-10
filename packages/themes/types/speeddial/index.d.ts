@@ -2,7 +2,7 @@
  *
  * SpeedDial Design Tokens
  *
- * [Live Demo](https://www.primevue.org/speeddial/)
+ * [Live Demo](https://www.primevue-lab.org/speeddial/)
  *
  * @module themes/speeddial
  *

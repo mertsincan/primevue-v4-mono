@@ -2,7 +2,7 @@
  *
  * Checkbox Design Tokens
  *
- * [Live Demo](https://www.primevue.org/checkbox/)
+ * [Live Demo](https://www.primevue-lab.org/checkbox/)
  *
  * @module themes/checkbox
  *

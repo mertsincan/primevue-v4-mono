@@ -2,7 +2,7 @@
  *
  * Dock Design Tokens
  *
- * [Live Demo](https://www.primevue.org/dock/)
+ * [Live Demo](https://www.primevue-lab.org/dock/)
  *
  * @module themes/dock
  *

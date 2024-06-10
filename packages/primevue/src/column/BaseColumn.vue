@@ -1,6 +1,6 @@
 <script>
-import BaseComponent from '@primevue/core/basecomponent';
-import ColumnStyle from 'primevue/column/style';
+import BaseComponent from '@primevue-lab/core/basecomponent';
+import ColumnStyle from 'primevue-lab/column/style';
 
 export default {
     name: 'BaseColumn',

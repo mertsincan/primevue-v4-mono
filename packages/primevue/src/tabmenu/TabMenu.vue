@@ -29,8 +29,8 @@
 </template>
 
 <script>
-import { DomHandler } from '@primevue/core/utils';
-import Ripple from 'primevue/ripple';
+import { DomHandler } from '@primevue-lab/core/utils';
+import Ripple from 'primevue-lab/ripple';
 import { mergeProps } from 'vue';
 import BaseTabMenu from './BaseTabMenu.vue';
 

@@ -2,7 +2,7 @@
  *
  * InputChips Design Tokens
  *
- * [Live Demo](https://www.primevue.org/inputchips/)
+ * [Live Demo](https://www.primevue-lab.org/inputchips/)
  *
  * @module themes/inputchips
  *

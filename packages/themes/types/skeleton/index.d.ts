@@ -2,7 +2,7 @@
  *
  * Skeleton Design Tokens
  *
- * [Live Demo](https://www.primevue.org/skeleton/)
+ * [Live Demo](https://www.primevue-lab.org/skeleton/)
  *
  * @module themes/skeleton
  *

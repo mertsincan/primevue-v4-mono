@@ -1,6 +1,6 @@
 <script>
-import BaseComponent from '@primevue/core/basecomponent';
-import InputOtpStyle from 'primevue/inputotp/style';
+import BaseComponent from '@primevue-lab/core/basecomponent';
+import InputOtpStyle from 'primevue-lab/inputotp/style';
 
 export default {
     name: 'BaseInputOtp',

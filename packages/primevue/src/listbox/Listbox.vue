@@ -132,16 +132,16 @@
 </template>
 
 <script>
-import { FilterService } from '@primevue/core/api';
-import { DomHandler, ObjectUtils, UniqueComponentId } from '@primevue/core/utils';
-import BlankIcon from '@primevue/icons/blank';
-import CheckIcon from '@primevue/icons/check';
-import SearchIcon from '@primevue/icons/search';
-import IconField from 'primevue/iconfield';
-import InputIcon from 'primevue/inputicon';
-import InputText from 'primevue/inputtext';
-import Ripple from 'primevue/ripple';
-import VirtualScroller from 'primevue/virtualscroller';
+import { FilterService } from '@primevue-lab/core/api';
+import { DomHandler, ObjectUtils, UniqueComponentId } from '@primevue-lab/core/utils';
+import BlankIcon from '@primevue-lab/icons/blank';
+import CheckIcon from '@primevue-lab/icons/check';
+import SearchIcon from '@primevue-lab/icons/search';
+import IconField from 'primevue-lab/iconfield';
+import InputIcon from 'primevue-lab/inputicon';
+import InputText from 'primevue-lab/inputtext';
+import Ripple from 'primevue-lab/ripple';
+import VirtualScroller from 'primevue-lab/virtualscroller';
 import BaseListbox from './BaseListbox.vue';
 
 export default {

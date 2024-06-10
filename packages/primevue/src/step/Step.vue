@@ -12,7 +12,7 @@
 </template>
 
 <script>
-import { DomHandler, ObjectUtils } from '@primevue/core/utils';
+import { DomHandler, ObjectUtils } from '@primevue-lab/core/utils';
 import StepperSeparator from '../stepper/StepperSeparator.vue';
 import BaseStep from './BaseStep.vue';
 

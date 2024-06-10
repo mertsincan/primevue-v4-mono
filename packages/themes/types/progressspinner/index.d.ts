@@ -2,7 +2,7 @@
  *
  * ProgressSpinner Design Tokens
  *
- * [Live Demo](https://www.primevue.org/progressspinner/)
+ * [Live Demo](https://www.primevue-lab.org/progressspinner/)
  *
  * @module themes/progressspinner
  *

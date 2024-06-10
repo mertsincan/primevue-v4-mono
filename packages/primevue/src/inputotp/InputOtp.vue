@@ -26,7 +26,7 @@
 </template>
 
 <script>
-import InputText from 'primevue/inputtext';
+import InputText from 'primevue-lab/inputtext';
 import BaseInputOtp from './BaseInputOtp.vue';
 
 export default {

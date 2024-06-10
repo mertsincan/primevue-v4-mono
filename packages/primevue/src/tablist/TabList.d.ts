@@ -2,7 +2,7 @@
  *
  * TabList is a helper component for Tabs component.
  *
- * [Live Demo](https://www.primevue.org/tabs/)
+ * [Live Demo](https://www.primevue-lab.org/tabs/)
  *
  * @module tablist
  *
@@ -122,13 +122,13 @@ export interface TabListEmitsOptions {}
 export declare type TabListEmits = EmitFn<TabListEmitsOptions>;
 
 /**
- * **PrimeVue - TabList**
+ * **primevue-lab - TabList**
  *
  * _TabList is a helper component for Tabs component._
  *
- * [Live Demo](https://www.primevue.org/tabs/)
+ * [Live Demo](https://www.primevue-lab.org/tabs/)
  * --- ---
- * ![PrimeVue](https://primefaces.org/cdn/primevue/images/logo-100.png)
+ * ![primevue-lab](https://primefaces.org/cdn/primevue-lab/images/logo-100.png)
  *
  * @group Component
  *

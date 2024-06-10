@@ -2,7 +2,7 @@
  *
  * DataView Design Tokens
  *
- * [Live Demo](https://www.primevue.org/dataview/)
+ * [Live Demo](https://www.primevue-lab.org/dataview/)
  *
  * @module themes/dataview
  *

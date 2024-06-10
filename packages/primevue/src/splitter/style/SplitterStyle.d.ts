@@ -2,7 +2,7 @@
  *
  * Splitter is utilized to separate and resize panels.
  *
- * [Live Demo](https://www.primevue.org/splitter/)
+ * [Live Demo](https://www.primevue-lab.org/splitter/)
  *
  * @module splitterstyle
  *

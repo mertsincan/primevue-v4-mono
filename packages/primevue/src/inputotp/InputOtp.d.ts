@@ -2,7 +2,7 @@
  *
  * InputOtp is used to enter one time passwords.
  *
- * [Live Demo](https://www.primevue.org/inputotp/)
+ * [Live Demo](https://www.primevue-lab.org/inputotp/)
  *
  * @module inputotp
  *
@@ -259,13 +259,13 @@ export interface InputOtpEmitsOptions {
 export declare type InputOtpEmits = EmitFn<InputOtpEmitsOptions>;
 
 /**
- * **PrimeVue - InputOtp**
+ * **primevue-lab - InputOtp**
  *
  * _InputOtp  is used to enter one time passwords._
  *
- * [Live Demo](https://www.primevue.org/inputotp/)
+ * [Live Demo](https://www.primevue-lab.org/inputotp/)
  * --- ---
- * ![PrimeVue](https://primefaces.org/cdn/primevue/images/logo-100.png)
+ * ![primevue-lab](https://primefaces.org/cdn/primevue-lab/images/logo-100.png)
  *
  * @group Component
  *

@@ -2,7 +2,7 @@
  *
  * DataTable Design Tokens
  *
- * [Live Demo](https://www.primevue.org/datatable/)
+ * [Live Demo](https://www.primevue-lab.org/datatable/)
  *
  * @module themes/datatable
  *

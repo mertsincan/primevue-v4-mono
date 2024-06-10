@@ -2,7 +2,7 @@
  *
  * Badge Design Tokens
  *
- * [Live Demo](https://www.primevue.org/badge/)
+ * [Live Demo](https://www.primevue-lab.org/badge/)
  *
  * @module themes/badge
  *

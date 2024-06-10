@@ -2,7 +2,7 @@
  *
  * CascadeSelect Design Tokens
  *
- * [Live Demo](https://www.primevue.org/cascadeselect/)
+ * [Live Demo](https://www.primevue-lab.org/cascadeselect/)
  *
  * @module themes/cascadeselect
  *

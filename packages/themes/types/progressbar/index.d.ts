@@ -2,7 +2,7 @@
  *
  * ProgressBar Design Tokens
  *
- * [Live Demo](https://www.primevue.org/progressbar/)
+ * [Live Demo](https://www.primevue-lab.org/progressbar/)
  *
  * @module themes/progressbar
  *

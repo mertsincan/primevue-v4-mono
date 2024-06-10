@@ -60,10 +60,10 @@
 </template>
 
 <script>
-import BaseComponent from '@primevue/core/basecomponent';
-import { UniqueComponentId } from '@primevue/core/utils';
-import TimesIcon from '@primevue/icons/times';
-import Ripple from 'primevue/ripple';
+import BaseComponent from '@primevue-lab/core/basecomponent';
+import { UniqueComponentId } from '@primevue-lab/core/utils';
+import TimesIcon from '@primevue-lab/icons/times';
+import Ripple from 'primevue-lab/ripple';
 import GalleriaItem from './GalleriaItem.vue';
 import GalleriaThumbnails from './GalleriaThumbnails.vue';
 

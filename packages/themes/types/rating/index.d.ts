@@ -2,7 +2,7 @@
  *
  * Rating Design Tokens
  *
- * [Live Demo](https://www.primevue.org/rating/)
+ * [Live Demo](https://www.primevue-lab.org/rating/)
  *
  * @module themes/rating
  *

@@ -2,7 +2,7 @@
  *
  * OverlayBadge represents people using icon, label, image and badge.
  *
- * [Live Demo](https://www.primevue.org/badge)
+ * [Live Demo](https://www.primevue-lab.org/badge)
  *
  * @module overlaybadge
  *
@@ -130,13 +130,13 @@ export interface OverlayBadgeEmitsOptions {}
 export declare type OverlayBadgeEmits = EmitFn<OverlayBadgeEmitsOptions>;
 
 /**
- * **PrimeVue - OverlayBadge**
+ * **primevue-lab - OverlayBadge**
  *
  * _OverlayBadge represents people using icon, label, image and badge._
  *
- * [Live Demo](https://www.primevue.org/badge/)
+ * [Live Demo](https://www.primevue-lab.org/badge/)
  * --- ---
- * ![PrimeVue](https://primefaces.org/cdn/primevue/images/logo-100.png)
+ * ![primevue-lab](https://primefaces.org/cdn/primevue-lab/images/logo-100.png)
  *
  * @group Component
  *

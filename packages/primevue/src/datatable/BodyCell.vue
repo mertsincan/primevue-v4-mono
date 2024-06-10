@@ -127,17 +127,17 @@
 </template>
 
 <script>
-import BaseComponent from '@primevue/core/basecomponent';
-import { DomHandler, ObjectUtils } from '@primevue/core/utils';
-import BarsIcon from '@primevue/icons/bars';
-import CheckIcon from '@primevue/icons/check';
-import ChevronDownIcon from '@primevue/icons/chevrondown';
-import ChevronRightIcon from '@primevue/icons/chevronright';
-import PencilIcon from '@primevue/icons/pencil';
-import TimesIcon from '@primevue/icons/times';
-import Button from 'primevue/button';
-import OverlayEventBus from 'primevue/overlayeventbus';
-import Ripple from 'primevue/ripple';
+import BaseComponent from '@primevue-lab/core/basecomponent';
+import { DomHandler, ObjectUtils } from '@primevue-lab/core/utils';
+import BarsIcon from '@primevue-lab/icons/bars';
+import CheckIcon from '@primevue-lab/icons/check';
+import ChevronDownIcon from '@primevue-lab/icons/chevrondown';
+import ChevronRightIcon from '@primevue-lab/icons/chevronright';
+import PencilIcon from '@primevue-lab/icons/pencil';
+import TimesIcon from '@primevue-lab/icons/times';
+import Button from 'primevue-lab/button';
+import OverlayEventBus from 'primevue-lab/overlayeventbus';
+import Ripple from 'primevue-lab/ripple';
 import { mergeProps } from 'vue';
 import RowCheckbox from './RowCheckbox.vue';
 import RowRadioButton from './RowRadioButton.vue';

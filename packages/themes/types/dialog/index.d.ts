@@ -2,7 +2,7 @@
  *
  * Dialog Design Tokens
  *
- * [Live Demo](https://www.primevue.org/dialog/)
+ * [Live Demo](https://www.primevue-lab.org/dialog/)
  *
  * @module themes/dialog
  *

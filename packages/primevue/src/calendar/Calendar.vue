@@ -1,5 +1,5 @@
 <script>
-import DatePicker from 'primevue/datepicker';
+import DatePicker from 'primevue-lab/datepicker';
 
 export default {
     name: 'Calendar',

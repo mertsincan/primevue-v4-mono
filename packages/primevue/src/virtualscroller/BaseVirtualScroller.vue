@@ -1,6 +1,6 @@
 <script>
-import BaseComponent from '@primevue/core/basecomponent';
-import VirtualScrollerStyle from 'primevue/virtualscroller/style';
+import BaseComponent from '@primevue-lab/core/basecomponent';
+import VirtualScrollerStyle from 'primevue-lab/virtualscroller/style';
 
 export default {
     name: 'BaseVirtualScroller',

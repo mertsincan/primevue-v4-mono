@@ -2,7 +2,7 @@
  *
  * InputNumber Design Tokens
  *
- * [Live Demo](https://www.primevue.org/inputnumber/)
+ * [Live Demo](https://www.primevue-lab.org/inputnumber/)
  *
  * @module themes/inputnumber
  *

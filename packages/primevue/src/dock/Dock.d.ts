@@ -2,7 +2,7 @@
  *
  * Dock is a navigation component consisting of menuitems.
  *
- * [Live Demo](https://www.primevue.org/dock/)
+ * [Live Demo](https://www.primevue-lab.org/dock/)
  *
  * @module dock
  *
@@ -309,13 +309,13 @@ export interface DockEmitsOptions {
 export declare type DockEmits = EmitFn<DockEmitsOptions>;
 
 /**
- * **PrimeVue - Dock**
+ * **primevue-lab - Dock**
  *
  * _Dock is a navigation component consisting of menuitems._
  *
- * [Live Demo](https://www.primevue.org/dock/)
+ * [Live Demo](https://www.primevue-lab.org/dock/)
  * --- ---
- * ![PrimeVue](https://primefaces.org/cdn/primevue/images/logo-100.png)
+ * ![primevue-lab](https://primefaces.org/cdn/primevue-lab/images/logo-100.png)
  *
  * @group Component
  *

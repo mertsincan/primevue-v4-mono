@@ -128,8 +128,8 @@ const responsiveOptions = ref([
                 data: `
 /* PhotoService */
 {
-    itemImageSrc: 'https://primefaces.org/cdn/primevue/images/galleria/galleria1.jpg',
-    thumbnailImageSrc: 'https://primefaces.org/cdn/primevue/images/galleria/galleria1s.jpg',
+    itemImageSrc: 'https://primefaces.org/cdn/primevue-lab/images/galleria/galleria1.jpg',
+    thumbnailImageSrc: 'https://primefaces.org/cdn/primevue-lab/images/galleria/galleria1s.jpg',
     alt: 'Description for Image 1',
     title: 'Title 1'
 },

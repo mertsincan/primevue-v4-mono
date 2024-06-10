@@ -121,7 +121,7 @@ data() {
 
 <script setup>
 import { ref } from 'vue';
-import { useToast } from 'primevue/usetoast';
+import { useToast } from 'primevue-lab/usetoast';
 import { useRouter } from 'vue-router';
 
 const toast = useToast();

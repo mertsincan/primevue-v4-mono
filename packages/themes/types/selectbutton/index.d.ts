@@ -2,7 +2,7 @@
  *
  * SelectButton Design Tokens
  *
- * [Live Demo](https://www.primevue.org/selectbutton/)
+ * [Live Demo](https://www.primevue-lab.org/selectbutton/)
  *
  * @module themes/selectbutton
  *

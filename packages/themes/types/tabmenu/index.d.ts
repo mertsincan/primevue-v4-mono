@@ -2,7 +2,7 @@
  *
  * Tabmenu Design Tokens
  *
- * [Live Demo](https://www.primevue.org/tabmenu/)
+ * [Live Demo](https://www.primevue-lab.org/tabmenu/)
  *
  * @module themes/tabmenu
  *

@@ -1,6 +1,6 @@
 <script>
-import BaseComponent from '@primevue/core/basecomponent';
-import InputChipsStyle from 'primevue/inputchips/style';
+import BaseComponent from '@primevue-lab/core/basecomponent';
+import InputChipsStyle from 'primevue-lab/inputchips/style';
 
 export default {
     name: 'BaseInputChips',

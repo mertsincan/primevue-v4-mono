@@ -1,6 +1,6 @@
 <script>
-import BaseComponent from '@primevue/core/basecomponent';
-import ListboxStyle from 'primevue/listbox/style';
+import BaseComponent from '@primevue-lab/core/basecomponent';
+import ListboxStyle from 'primevue-lab/listbox/style';
 
 export default {
     name: 'BaseListbox',

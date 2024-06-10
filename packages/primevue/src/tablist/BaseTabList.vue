@@ -1,6 +1,6 @@
 <script>
-import BaseComponent from '@primevue/core/basecomponent';
-import TabListStyle from 'primevue/tablist/style';
+import BaseComponent from '@primevue-lab/core/basecomponent';
+import TabListStyle from 'primevue-lab/tablist/style';
 
 export default {
     name: 'BaseTabList',

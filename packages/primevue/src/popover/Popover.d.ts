@@ -2,7 +2,7 @@
  *
  * Popover is a container component positioned as connected to its target.
  *
- * [Live Demo](https://primevue.org/popover)
+ * [Live Demo](https://primevue-lab.org/popover)
  *
  * @module popover
  *
@@ -235,13 +235,13 @@ export interface PopoverMethods {
 }
 
 /**
- * **PrimeVue - Popover**
+ * **primevue-lab - Popover**
  *
  * _Popover, also known as Popover, is a container component that can overlay other components on page._
  *
- * [Live Demo](https://www.primevue.org/popover/)
+ * [Live Demo](https://www.primevue-lab.org/popover/)
  * --- ---
- * ![PrimeVue](https://primefaces.org/cdn/primevue/images/logo-100.png)
+ * ![primevue-lab](https://primefaces.org/cdn/primevue-lab/images/logo-100.png)
  *
  * @group Component
  *

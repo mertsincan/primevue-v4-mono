@@ -2,7 +2,7 @@
  *
  * MeterGroup Design Tokens
  *
- * [Live Demo](https://www.primevue.org/metergroup/)
+ * [Live Demo](https://www.primevue-lab.org/metergroup/)
  *
  * @module themes/metergroup
  *

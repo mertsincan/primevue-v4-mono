@@ -1,6 +1,6 @@
 <script>
-import BaseComponent from '@primevue/core/basecomponent';
-import SelectStyle from 'primevue/select/style';
+import BaseComponent from '@primevue-lab/core/basecomponent';
+import SelectStyle from 'primevue-lab/select/style';
 
 export default {
     name: 'BaseSelect',

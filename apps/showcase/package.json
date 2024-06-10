@@ -1,10 +1,10 @@
 {
     "name": "showcase",
     "version": "4.0.0-beta.4",
-    "homepage": "https://primevue.org/",
+    "homepage": "https://primevue-lab.org/",
     "repository": {
         "type": "git",
-        "url": "https://github.com/primefaces/primevue.git",
+        "url": "https://github.com/primefaces/primevue-lab.git",
         "directory": "apps/showcase"
     },
     "license": "MIT",
@@ -30,7 +30,7 @@
         "themedoc": "node ./api-generator/build-tokens.js"
     },
     "keywords": [
-        "primevue",
+        "primevue-lab",
         "vue",
         "vue.js",
         "vue2",
@@ -76,10 +76,10 @@
         "typedoc": "0.23.23",
         "typescript": "^4.9.4",
         "vitest": "^0.29.8",
-        "primevue": "workspace:*",
-        "@primevue/core": "workspace:*",
-        "@primevue/nuxt-module": "workspace:*",
-        "@primevue/themes": "workspace:*"
+        "primevue-lab": "workspace:*",
+        "@primevue-lab/core": "workspace:*",
+        "@primevue-lab/nuxt-module": "workspace:*",
+        "@primevue-lab/themes": "workspace:*"
     },
     "dependencies": {
         "@docsearch/js": "^3.3.3",

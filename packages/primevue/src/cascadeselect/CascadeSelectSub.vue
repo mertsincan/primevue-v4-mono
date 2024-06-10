@@ -54,10 +54,10 @@
 </template>
 
 <script>
-import BaseComponent from '@primevue/core/basecomponent';
-import { DomHandler, ObjectUtils } from '@primevue/core/utils';
-import AngleRightIcon from '@primevue/icons/angleright';
-import Ripple from 'primevue/ripple';
+import BaseComponent from '@primevue-lab/core/basecomponent';
+import { DomHandler, ObjectUtils } from '@primevue-lab/core/utils';
+import AngleRightIcon from '@primevue-lab/icons/angleright';
+import Ripple from 'primevue-lab/ripple';
 
 export default {
     name: 'CascadeSelectSub',

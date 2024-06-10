@@ -296,10 +296,10 @@ export default {
 
 <script setup>
 import { ref } from 'vue';
-import { usePrimeVue } from 'primevue/config';
-import { useToast } from "primevue/usetoast";
+import { useprimevue-lab } from 'primevue-lab/config';
+import { useToast } from "primevue-lab/usetoast";
 
-const $primevue = usePrimeVue();
+const $primevue-lab = useprimevue-lab();
 const toast = useToast();
 
 const totalSize = ref(0);
@@ -337,7 +337,7 @@ const onTemplatedUpload = () => {
 const formatSize = (bytes) => {
     const k = 1024;
     const dm = 3;
-    const sizes = $primevue.config.locale.fileSizeTypes;
+    const sizes = $primevue-lab.config.locale.fileSizeTypes;
 
     if (bytes === 0) {
         return \`0 \${sizes[0]}\`;

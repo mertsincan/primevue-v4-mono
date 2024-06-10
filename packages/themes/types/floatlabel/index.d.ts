@@ -2,7 +2,7 @@
  *
  * FloatLabel Design Tokens
  *
- * [Live Demo](https://www.primevue.org/floatlabel/)
+ * [Live Demo](https://www.primevue-lab.org/floatlabel/)
  *
  * @module themes/floatlabel
  *

@@ -6,7 +6,7 @@
         <Message severity="info" icon="pi pi-send">Info Message</Message>
         <Message severity="success">
             <template #messageicon>
-                <Avatar image="https://primefaces.org/cdn/primevue/images/avatar/amyelsner.png" shape="circle" />
+                <Avatar image="https://primefaces.org/cdn/primevue-lab/images/avatar/amyelsner.png" shape="circle" />
             </template>
             <span class="ml-2">How may I help you?</span>
         </Message>
@@ -34,7 +34,7 @@ export default {
         <Message severity="info" icon="pi pi-send">Info Message</Message>
         <Message severity="success">
             <template #messageicon>
-                <Avatar image="https://primefaces.org/cdn/primevue/images/avatar/amyelsner.png" shape="circle" />
+                <Avatar image="https://primefaces.org/cdn/primevue-lab/images/avatar/amyelsner.png" shape="circle" />
             </template>
             <span class="ml-2">How may I help you?</span>
         </Message>
@@ -50,7 +50,7 @@ export default {
         <Message severity="info" icon="pi pi-send">Info Message</Message>
         <Message severity="success">
             <template #messageicon>
-                <Avatar image="https://primefaces.org/cdn/primevue/images/avatar/amyelsner.png" shape="circle" />
+                <Avatar image="https://primefaces.org/cdn/primevue-lab/images/avatar/amyelsner.png" shape="circle" />
             </template>
             <span class="ml-2">How may I help you?</span>
         </Message>

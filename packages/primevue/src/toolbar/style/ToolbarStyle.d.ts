@@ -2,7 +2,7 @@
  *
  * Toolbar is a grouping component for buttons and other content.
  *
- * [Live Demo](https://www.primevue.org/toolbar/)
+ * [Live Demo](https://www.primevue-lab.org/toolbar/)
  *
  * @module toolbarstyle
  *

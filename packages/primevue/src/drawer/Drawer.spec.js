@@ -1,8 +1,8 @@
 import { mount } from '@vue/test-utils';
-import PrimeVue from 'primevue/config';
 import { describe, expect, it } from 'vitest';
 import DomHandler from '../utils/DomHandler';
 import Drawer from './Drawer.vue';
+import primevue-lab from 'primevue-lab/config';
 
 describe('Drawer.vue', () => {
     let wrapper;
@@ -10,7 +10,7 @@ describe('Drawer.vue', () => {
     beforeEach(async () => {
         wrapper = mount(Drawer, {
             global: {
-                plugins: [PrimeVue],
+                plugins: [primevue-lab],
                 stubs: {
                     teleport: true
                 }

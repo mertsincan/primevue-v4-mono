@@ -42,11 +42,11 @@
 </template>
 
 <script>
-import { UniqueComponentId } from '@primevue/core/utils';
-import MinusIcon from '@primevue/icons/minus';
-import PlusIcon from '@primevue/icons/plus';
-import Button from 'primevue/button';
-import Ripple from 'primevue/ripple';
+import { UniqueComponentId } from '@primevue-lab/core/utils';
+import MinusIcon from '@primevue-lab/icons/minus';
+import PlusIcon from '@primevue-lab/icons/plus';
+import Button from 'primevue-lab/button';
+import Ripple from 'primevue-lab/ripple';
 import BasePanel from './BasePanel.vue';
 
 export default {

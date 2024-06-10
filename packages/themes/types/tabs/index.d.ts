@@ -2,7 +2,7 @@
  *
  * Tabs Design Tokens
  *
- * [Live Demo](https://www.primevue.org/tabs/)
+ * [Live Demo](https://www.primevue-lab.org/tabs/)
  *
  * @module themes/tabs
  *

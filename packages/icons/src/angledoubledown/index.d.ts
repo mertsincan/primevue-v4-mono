@@ -1,4 +1,4 @@
-import { GlobalComponentConstructor } from '../../../primevue/src/ts-helpers';
+import { GlobalComponentConstructor } from '../../../primevue-lab/src/ts-helpers';
 import { Icon } from '../index';
 
 declare class AngleDoubleDownIcon extends Icon {}

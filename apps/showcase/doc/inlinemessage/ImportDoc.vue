@@ -9,7 +9,7 @@ export default {
         return {
             code: {
                 basic: `
-import InlineMessage from 'primevue/inlinemessage';
+import InlineMessage from 'primevue-lab/inlinemessage';
 `
             }
         };

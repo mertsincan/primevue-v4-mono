@@ -1,5 +1,5 @@
 {
-    "name": "@primevue/core",
+    "name": "@primevue-lab/core",
     "version": "1.0.0",
     "description": "",
     "keywords": [],
@@ -12,7 +12,7 @@
         "build:clear": "node ./scripts/build-clear.mjs"
     },
     "dependencies": {
-        "@primevue/themes": "workspace:*"
+        "@primevue-lab/themes": "workspace:*"
     },
     "devDependencies": {
         "@babel/preset-env": "^7.21.5",

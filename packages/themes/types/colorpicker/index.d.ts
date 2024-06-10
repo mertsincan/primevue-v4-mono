@@ -2,7 +2,7 @@
  *
  * ColorPicker Design Tokens
  *
- * [Live Demo](https://www.primevue.org/colorpicker/)
+ * [Live Demo](https://www.primevue-lab.org/colorpicker/)
  *
  * @module themes/colorpicker
  *

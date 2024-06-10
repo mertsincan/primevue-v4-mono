@@ -4,14 +4,14 @@
             <div class="w-full xl:w-6/12 flex flex-col justify-center lg:pr-20 items-center xl:items-stretch">
                 <h1 class="text-5xl font-bold text-center xl:text-left leading-tight">The Next-Gen UI Suite for <span class="font-bold text-primary">Vue.js</span></h1>
                 <p class="xl:text-left text-center px-0 mt-0 mb-8 text-surface-500 dark:text-surface-400 font-medium text-xl leading-relaxed">
-                    Enhance your web applications with PrimeVue's comprehensive suite of customizable, feature-rich UI components. With PrimeVue, turning your development vision into reality has never been easier.
+                    Enhance your web applications with primevue-lab's comprehensive suite of customizable, feature-rich UI components. With primevue-lab, turning your development vision into reality has never been easier.
                 </p>
                 <div class="flex items-center gap-4">
                     <PrimeVueNuxtLink to="/setup" class="linkbox linkbox-primary">
                         <span>Get Started</span>
                         <i class="pi pi-arrow-right ml-4"></i>
                     </PrimeVueNuxtLink>
-                    <a href="https://github.com/primefaces/primevue" target="_blank" rel="noopener noreferrer" class="linkbox">
+                    <a href="https://github.com/primefaces/primevue-lab" target="_blank" rel="noopener noreferrer" class="linkbox">
                         <span>Give a Star</span>
                         <i class="pi pi-star-fill ml-4 text-yellow-500"></i>
                     </a>
@@ -31,7 +31,7 @@
                                     <Select v-model="user" :options="users" optionLabel="name" placeholder="Select a User" class="w-full">
                                         <template #option="slotProps">
                                             <div class="flex items-center gap-2">
-                                                <img :alt="slotProps.option.name" :src="`https://primefaces.org/cdn/primevue/images/avatar/${slotProps.option.image}`" width="28" />
+                                                <img :alt="slotProps.option.name" :src="`https://primefaces.org/cdn/primevue-lab/images/avatar/${slotProps.option.image}`" width="28" />
                                                 <span>{{ slotProps.option.name }}</span>
                                             </div>
                                         </template>
@@ -72,7 +72,7 @@
                     <div class="flex flex-col w-6/12 gap-8 pl-4">
                         <div class="box p-6 animate-fadein animate-duration-500">
                             <div class="mb-6 w-full text-center p-8" style="border-radius: '10px'">
-                                <img src="https://primefaces.org/cdn/primevue/images/landing/air-jordan-noir.png" alt="Watch" class="w-40" />
+                                <img src="https://primefaces.org/cdn/primevue-lab/images/landing/air-jordan-noir.png" alt="Watch" class="w-40" />
                             </div>
                             <div class="flex items-center mb-6">
                                 <div class="flex flex-col">

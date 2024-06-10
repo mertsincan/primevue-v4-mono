@@ -529,17 +529,17 @@
 </template>
 
 <script>
-import { ConnectedOverlayScrollHandler, DomHandler, UniqueComponentId, ZIndexUtils } from '@primevue/core/utils';
-import CalendarIcon from '@primevue/icons/calendar';
-import ChevronDownIcon from '@primevue/icons/chevrondown';
-import ChevronLeftIcon from '@primevue/icons/chevronleft';
-import ChevronRightIcon from '@primevue/icons/chevronright';
-import ChevronUpIcon from '@primevue/icons/chevronup';
-import Button from 'primevue/button';
-import InputText from 'primevue/inputtext';
-import OverlayEventBus from 'primevue/overlayeventbus';
-import Portal from 'primevue/portal';
-import Ripple from 'primevue/ripple';
+import { ConnectedOverlayScrollHandler, DomHandler, UniqueComponentId, ZIndexUtils } from '@primevue-lab/core/utils';
+import CalendarIcon from '@primevue-lab/icons/calendar';
+import ChevronDownIcon from '@primevue-lab/icons/chevrondown';
+import ChevronLeftIcon from '@primevue-lab/icons/chevronleft';
+import ChevronRightIcon from '@primevue-lab/icons/chevronright';
+import ChevronUpIcon from '@primevue-lab/icons/chevronup';
+import Button from 'primevue-lab/button';
+import InputText from 'primevue-lab/inputtext';
+import OverlayEventBus from 'primevue-lab/overlayeventbus';
+import Portal from 'primevue-lab/portal';
+import Ripple from 'primevue-lab/ripple';
 import BaseDatePicker from './BaseDatePicker.vue';
 
 export default {

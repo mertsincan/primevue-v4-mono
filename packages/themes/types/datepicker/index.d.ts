@@ -2,7 +2,7 @@
  *
  * DatePicker Design Tokens
  *
- * [Live Demo](https://www.primevue.org/datepicker/)
+ * [Live Demo](https://www.primevue-lab.org/datepicker/)
  *
  * @module themes/datepicker
  *

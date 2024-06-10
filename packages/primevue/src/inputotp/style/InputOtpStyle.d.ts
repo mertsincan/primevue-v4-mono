@@ -2,7 +2,7 @@
  *
  * InputOtp is used to enter one time passwords.
  *
- * [Live Demo](https://www.primevue.org/inputotp/)
+ * [Live Demo](https://www.primevue-lab.org/inputotp/)
  *
  * @module inputotpstyle
  *

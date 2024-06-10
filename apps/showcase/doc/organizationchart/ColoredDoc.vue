@@ -30,7 +30,7 @@ export default {
                 type: 'person',
                 styleClass: 'bg-indigo-100 text-indigo-900 rounded-xl',
                 data: {
-                    image: 'https://primefaces.org/cdn/primevue/images/avatar/amyelsner.png',
+                    image: 'https://primefaces.org/cdn/primevue-lab/images/avatar/amyelsner.png',
                     name: 'Amy Elsner',
                     title: 'CEO'
                 },
@@ -40,7 +40,7 @@ export default {
                         type: 'person',
                         styleClass: 'bg-purple-100 text-purple-900 rounded-xl',
                         data: {
-                            image: 'https://primefaces.org/cdn/primevue/images/avatar/annafali.png',
+                            image: 'https://primefaces.org/cdn/primevue-lab/images/avatar/annafali.png',
                             name: 'Anna Fali',
                             title: 'CMO'
                         },
@@ -60,7 +60,7 @@ export default {
                         type: 'person',
                         styleClass: 'bg-teal-100 text-teal-900 rounded-xl',
                         data: {
-                            image: 'https://primefaces.org/cdn/primevue/images/avatar/stephenshaw.png',
+                            image: 'https://primefaces.org/cdn/primevue-lab/images/avatar/stephenshaw.png',
                             name: 'Stephen Shaw',
                             title: 'CTO'
                         },
@@ -123,7 +123,7 @@ export default {
                 type: 'person',
                 styleClass: 'bg-indigo-100 text-white rounded-xl',
                 data: {
-                    image: 'https://primefaces.org/cdn/primevue/images/avatar/amyelsner.png',
+                    image: 'https://primefaces.org/cdn/primevue-lab/images/avatar/amyelsner.png',
                     name: 'Amy Elsner',
                     title: 'CEO'
                 },
@@ -133,7 +133,7 @@ export default {
                         type: 'person',
                         styleClass: 'bg-purple-100 text-white rounded-xl',
                         data: {
-                            image: 'https://primefaces.org/cdn/primevue/images/avatar/annafali.png',
+                            image: 'https://primefaces.org/cdn/primevue-lab/images/avatar/annafali.png',
                             name: 'Anna Fali',
                             title: 'CMO'
                         },
@@ -153,7 +153,7 @@ export default {
                         type: 'person',
                         styleClass: 'bg-teal-100 text-white rounded-xl',
                         data: {
-                            image: 'https://primefaces.org/cdn/primevue/images/avatar/stephenshaw.png',
+                            image: 'https://primefaces.org/cdn/primevue-lab/images/avatar/stephenshaw.png',
                             name: 'Stephen Shaw',
                             title: 'CTO'
                         },
@@ -203,7 +203,7 @@ const data = ref({
     type: 'person',
     styleClass: 'bg-indigo-100 text-white rounded-xl',
     data: {
-        image: 'https://primefaces.org/cdn/primevue/images/avatar/amyelsner.png',
+        image: 'https://primefaces.org/cdn/primevue-lab/images/avatar/amyelsner.png',
         name: 'Amy Elsner',
         title: 'CEO'
     },
@@ -213,7 +213,7 @@ const data = ref({
             type: 'person',
             styleClass: 'bg-purple-100 text-white rounded-xl',
             data: {
-                image: 'https://primefaces.org/cdn/primevue/images/avatar/annafali.png',
+                image: 'https://primefaces.org/cdn/primevue-lab/images/avatar/annafali.png',
                 name: 'Anna Fali',
                 title: 'CMO'
             },
@@ -233,7 +233,7 @@ const data = ref({
             type: 'person',
             styleClass: 'bg-teal-100 text-white rounded-xl',
             data: {
-                image: 'https://primefaces.org/cdn/primevue/images/avatar/stephenshaw.png',
+                image: 'https://primefaces.org/cdn/primevue-lab/images/avatar/stephenshaw.png',
                 name: 'Stephen Shaw',
                 title: 'CTO'
             },

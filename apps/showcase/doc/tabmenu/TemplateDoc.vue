@@ -6,7 +6,7 @@
         <TabMenu :model="items">
             <template #item="{ item, props }">
                 <a v-ripple v-bind="props.action" class="flex items-center gap-2">
-                    <img :alt="item.name" :src="`https://primefaces.org/cdn/primevue/images/avatar/${item.image}`" style="width: 32px" />
+                    <img :alt="item.name" :src="`https://primefaces.org/cdn/primevue-lab/images/avatar/${item.image}`" style="width: 32px" />
                     <span class="font-bold">{{ item.name }}</span>
                 </a>
             </template>
@@ -41,7 +41,7 @@ export default {
         <TabMenu :model="items">
             <template #item="{ item, props }">
                 <a v-ripple v-bind="props.action" class="flex items-center gap-2">
-                    <img :alt="item.name" :src="\`https://primefaces.org/cdn/primevue/images/avatar/\${item.image}\`" style="width: 32px" />
+                    <img :alt="item.name" :src="\`https://primefaces.org/cdn/primevue-lab/images/avatar/\${item.image}\`" style="width: 32px" />
                     <span class="font-bold">{{ item.name }}</span>
                 </a>
             </template>
@@ -69,7 +69,7 @@ export default {
         <TabMenu :model="items">
             <template #item="{ item, props }">
                 <a v-ripple v-bind="props.action" class="flex items-center gap-2">
-                    <img :alt="item.name" :src="\`https://primefaces.org/cdn/primevue/images/avatar/\${item.image}\`" style="width: 32px" />
+                    <img :alt="item.name" :src="\`https://primefaces.org/cdn/primevue-lab/images/avatar/\${item.image}\`" style="width: 32px" />
                     <span class="font-bold">{{ item.name }}</span>
                 </a>
             </template>

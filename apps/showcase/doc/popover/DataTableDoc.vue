@@ -8,7 +8,7 @@
 
         <div v-if="selectedProduct" class="p-8 bg-surface-0 dark:bg-surface-900 rounded border border-surface-200 dark:border-surface-700">
             <div class="relative">
-                <img :src="`https://primefaces.org/cdn/primevue/images/product/${selectedProduct.image}`" :alt="selectedProduct.name" class="w-full sm:w-80" />
+                <img :src="`https://primefaces.org/cdn/primevue-lab/images/product/${selectedProduct.image}`" :alt="selectedProduct.name" class="w-full sm:w-80" />
             </div>
             <div class="flex items-center justify-between mt-4 mb-2">
                 <span class="font-semibold text-xl">{{ selectedProduct.name }}</span>
@@ -22,7 +22,7 @@
                 <Column field="name" header="Name" sortable style="min-width: 12rem"></Column>
                 <Column header="Image">
                     <template #body="slotProps">
-                        <img :src="`https://primefaces.org/cdn/primevue/images/product/${slotProps.data.image}`" :alt="slotProps.data.image" class="w-16 shadow-sm" />
+                        <img :src="`https://primefaces.org/cdn/primevue-lab/images/product/${slotProps.data.image}`" :alt="slotProps.data.image" class="w-16 shadow-sm" />
                     </template>
                 </Column>
                 <Column field="price" header="Price" sortable style="min-width: 8rem">
@@ -81,7 +81,7 @@ export default {
 
         <div v-if="selectedProduct" class="p-8 bg-surface-0 dark:bg-surface-900 rounded border border-surface-200 dark:border-surface-700">
             <div class="relative">
-                <img :src="\`https://primefaces.org/cdn/primevue/images/product/\${selectedProduct.image}\`" :alt="selectedProduct.name" class="w-full sm:w-80" />
+                <img :src="\`https://primefaces.org/cdn/primevue-lab/images/product/\${selectedProduct.image}\`" :alt="selectedProduct.name" class="w-full sm:w-80" />
             </div>
             <div class="flex items-center justify-between mt-4 mb-2">
                 <span class="font-semibold text-xl">{{ selectedProduct.name }}</span>
@@ -95,7 +95,7 @@ export default {
                 <Column field="name" header="Name" sortable style="min-width: 12rem"></Column>
                 <Column header="Image">
                     <template #body="slotProps">
-                        <img :src="\`https://primefaces.org/cdn/primevue/images/product/\${selectedProduct.image}\`" :alt="slotProps.data.image" class="w-16 shadow-sm" />
+                        <img :src="\`https://primefaces.org/cdn/primevue-lab/images/product/\${selectedProduct.image}\`" :alt="slotProps.data.image" class="w-16 shadow-sm" />
                     </template>
                 </Column>
                 <Column field="price" header="Price" sortable style="min-width: 8rem">
@@ -143,7 +143,7 @@ export default {
 
         <div v-if="selectedProduct" class="p-8 bg-surface-0 dark:bg-surface-900 rounded border border-surface-200 dark:border-surface-700">
             <div class="relative">
-                <img :src="\`https://primefaces.org/cdn/primevue/images/product/\${selectedProduct.image}\`" :alt="selectedProduct.name" class="w-full sm:w-80" />
+                <img :src="\`https://primefaces.org/cdn/primevue-lab/images/product/\${selectedProduct.image}\`" :alt="selectedProduct.name" class="w-full sm:w-80" />
             </div>
             <div class="flex items-center justify-between mt-4 mb-2">
                 <span class="font-semibold text-xl">{{ selectedProduct.name }}</span>
@@ -157,7 +157,7 @@ export default {
                 <Column field="name" header="Name" sortable style="min-width: 12rem"></Column>
                 <Column header="Image">
                     <template #body="slotProps">
-                        <img :src="\`https://primefaces.org/cdn/primevue/images/product/\${selectedProduct.image}\`" :alt="slotProps.data.image" class="w-16 shadow-sm" />
+                        <img :src="\`https://primefaces.org/cdn/primevue-lab/images/product/\${selectedProduct.image}\`" :alt="slotProps.data.image" class="w-16 shadow-sm" />
                     </template>
                 </Column>
                 <Column field="price" header="Price" sortable style="min-width: 8rem">
@@ -172,7 +172,7 @@ export default {
 
 <script setup>
 import { ref, onMounted } from "vue";
-import { useToast } from "primevue/usetoast";
+import { useToast } from "primevue-lab/usetoast";
 import { ProductService } from '@/service/ProductService';
 
 onMounted(() => {

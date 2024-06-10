@@ -1,6 +1,6 @@
 <script>
-import BaseComponent from '@primevue/core/basecomponent';
-import ScrollPanelStyle from 'primevue/scrollpanel/style';
+import BaseComponent from '@primevue-lab/core/basecomponent';
+import ScrollPanelStyle from 'primevue-lab/scrollpanel/style';
 
 export default {
     name: 'BaseScrollPanel',

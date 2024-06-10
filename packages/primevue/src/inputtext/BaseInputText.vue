@@ -1,6 +1,6 @@
 <script>
-import BaseComponent from '@primevue/core/basecomponent';
-import InputTextStyle from 'primevue/inputtext/style';
+import BaseComponent from '@primevue-lab/core/basecomponent';
+import InputTextStyle from 'primevue-lab/inputtext/style';
 
 export default {
     name: 'BaseInputText',

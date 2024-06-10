@@ -1,4 +1,3 @@
-import type { ComponentResolver } from 'unplugin-vue-components/types';
 
 const components = [
     'Accordion',
@@ -109,11 +108,11 @@ const components = [
     'VirtualScroller'
 ];
 
-export interface PrimeVueResolverOptions {
+export interface primevue-labResolverOptions {
     prefix?: string;
 }
 
-export function PrimeVueResolver(options: PrimeVueResolverOptions = {}): ComponentResolver {
+export function primevue-labResolver(options: primevue-labResolverOptions = {}): ComponentResolver {
     return {
         type: 'component',
         resolve: (name: string) => {
@@ -125,7 +124,7 @@ export function PrimeVueResolver(options: PrimeVueResolverOptions = {}): Compone
 
             if (components.includes(name)) {
                 return {
-                    from: `primevue/${name.toLowerCase()}`
+                    from: `primevue-lab/${name.toLowerCase()}`
                 };
             }
         }

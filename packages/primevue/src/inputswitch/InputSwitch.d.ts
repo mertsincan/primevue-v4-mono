@@ -2,7 +2,7 @@
  *
  * InputSwitch is used to select a boolean value.
  *
- * [Live Demo](https://www.primevue.org/toggleswitch/)
+ * [Live Demo](https://www.primevue-lab.org/toggleswitch/)
  *
  * @module inputswitch
  *
@@ -47,13 +47,13 @@ export declare type InputSwitchEmits = EmitFn<InputSwitchEmitsOptions> & ToggleS
 /**
  * @deprecated since v4. Use ToggleSwitch component instead.
  *
- * **PrimeVue - InputSwitch**
+ * **primevue-lab - InputSwitch**
  *
  * _InputSwitch is used to select a boolean value._
  *
- * [Live Demo](https://www.primevue.org/toggleswitch/)
+ * [Live Demo](https://www.primevue-lab.org/toggleswitch/)
  * --- ---
- * ![PrimeVue](https://primefaces.org/cdn/primevue/images/logo-100.png)
+ * ![primevue-lab](https://primefaces.org/cdn/primevue-lab/images/logo-100.png)
  *
  * @group Component
  *

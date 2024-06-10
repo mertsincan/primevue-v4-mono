@@ -2,7 +2,7 @@
  *
  * Divider Design Tokens
  *
- * [Live Demo](https://www.primevue.org/divider/)
+ * [Live Demo](https://www.primevue-lab.org/divider/)
  *
  * @module themes/divider
  *

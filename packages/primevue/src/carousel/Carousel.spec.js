@@ -1,12 +1,12 @@
 import { mount } from '@vue/test-utils';
-import PrimeVue from 'primevue/config';
+import primevue-lab from 'primevue-lab/config';
 import Carousel from './Carousel.vue';
 
 describe('Carousel.vue', () => {
     it('should exist', async () => {
         const wrapper = mount(Carousel, {
             global: {
-                plugins: [PrimeVue]
+                plugins: [primevue-lab]
             },
             props: {
                 value: [

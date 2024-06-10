@@ -2,7 +2,7 @@
  *
  * Editor Design Tokens
  *
- * [Live Demo](https://www.primevue.org/editor/)
+ * [Live Demo](https://www.primevue-lab.org/editor/)
  *
  * @module themes/editor
  *

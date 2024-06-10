@@ -8,7 +8,7 @@
         <Dialog v-model:visible="visible" modal header="Edit Profile" :style="{ width: '25rem' }">
             <template #header>
                 <div class="inline-flex items-center justify-center gap-2">
-                    <Avatar image="https://primefaces.org/cdn/primevue/images/avatar/amyelsner.png" shape="circle" />
+                    <Avatar image="https://primefaces.org/cdn/primevue-lab/images/avatar/amyelsner.png" shape="circle" />
                     <span class="font-bold whitespace-nowrap">Amy Elsner</span>
                 </div>
             </template>
@@ -42,7 +42,7 @@ export default {
 <Dialog v-model:visible="visible" modal header="Edit Profile" :style="{ width: '25rem' }">
     <template #header>
         <div class="inline-flex items-center justify-center gap-2">
-            <Avatar image="https://primefaces.org/cdn/primevue/images/avatar/amyelsner.png" shape="circle" />
+            <Avatar image="https://primefaces.org/cdn/primevue-lab/images/avatar/amyelsner.png" shape="circle" />
             <span class="font-bold whitespace-nowrap">Amy Elsner</span>
         </div>
     </template>
@@ -68,7 +68,7 @@ export default {
         <Dialog v-model:visible="visible" modal header="Edit Profile" :style="{ width: '25rem' }">
             <template #header>
                 <div class="inline-flex items-center justify-center gap-2">
-                    <Avatar image="https://primefaces.org/cdn/primevue/images/avatar/amyelsner.png" shape="circle" />
+                    <Avatar image="https://primefaces.org/cdn/primevue-lab/images/avatar/amyelsner.png" shape="circle" />
                     <span class="font-bold whitespace-nowrap">Amy Elsner</span>
                 </div>
             </template>
@@ -106,7 +106,7 @@ export default {
         <Dialog v-model:visible="visible" modal header="Edit Profile" :style="{ width: '25rem' }">
             <template #header>
                 <div class="inline-flex items-center justify-center gap-2">
-                    <Avatar image="https://primefaces.org/cdn/primevue/images/avatar/amyelsner.png" shape="circle" />
+                    <Avatar image="https://primefaces.org/cdn/primevue-lab/images/avatar/amyelsner.png" shape="circle" />
                     <span class="font-bold whitespace-nowrap">Amy Elsner</span>
                 </div>
             </template>

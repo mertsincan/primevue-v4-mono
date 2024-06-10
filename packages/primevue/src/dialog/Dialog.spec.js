@@ -1,4 +1,4 @@
-import PrimeVue from 'primevue/config';
+import primevue-lab from 'primevue-lab/config';
 import { mount } from '@vue/test-utils';
 import Dialog from './Dialog.vue';
 
@@ -6,7 +6,7 @@ describe('Dialog.vue', () => {
     it('is Dialog element exist', async () => {
         const wrapper = mount(Dialog, {
             global: {
-                plugins: [PrimeVue],
+                plugins: [primevue-lab],
                 stubs: {
                     teleport: true,
                     transition: false
@@ -32,7 +32,7 @@ describe('Dialog.vue', () => {
     it('slot checks', async () => {
         const wrapper = mount(Dialog, {
             global: {
-                plugins: [PrimeVue],
+                plugins: [primevue-lab],
                 stubs: {
                     teleport: true
                 }
@@ -59,7 +59,7 @@ describe('closable', () => {
     it('should have custom close icon when provided', async () => {
         const wrapper = mount(Dialog, {
             global: {
-                plugins: [PrimeVue],
+                plugins: [primevue-lab],
                 stubs: {
                     teleport: true
                 }
@@ -89,7 +89,7 @@ describe('maximizable', () => {
     it('should have custom maximize and minimize icons when provided', async () => {
         const wrapper = mount(Dialog, {
             global: {
-                plugins: [PrimeVue],
+                plugins: [primevue-lab],
                 stubs: {
                     teleport: true
                 }

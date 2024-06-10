@@ -71,13 +71,13 @@
 </template>
 
 <script>
-import BaseComponent from '@primevue/core/basecomponent';
-import { DomHandler, ObjectUtils } from '@primevue/core/utils';
-import ChevronDownIcon from '@primevue/icons/chevrondown';
-import ChevronLeftIcon from '@primevue/icons/chevronleft';
-import ChevronRightIcon from '@primevue/icons/chevronright';
-import ChevronUpIcon from '@primevue/icons/chevronup';
-import Ripple from 'primevue/ripple';
+import BaseComponent from '@primevue-lab/core/basecomponent';
+import { DomHandler, ObjectUtils } from '@primevue-lab/core/utils';
+import ChevronDownIcon from '@primevue-lab/icons/chevrondown';
+import ChevronLeftIcon from '@primevue-lab/icons/chevronleft';
+import ChevronRightIcon from '@primevue-lab/icons/chevronright';
+import ChevronUpIcon from '@primevue-lab/icons/chevronup';
+import Ripple from 'primevue-lab/ripple';
 
 export default {
     name: 'GalleriaThumbnails',

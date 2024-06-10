@@ -1,5 +1,5 @@
 import { mount } from '@vue/test-utils';
-import PrimeVue from 'primevue/config';
+import primevue-lab from 'primevue-lab/config';
 import Menu from './Menu.vue';
 
 describe('Menu.vue', () => {
@@ -8,7 +8,7 @@ describe('Menu.vue', () => {
     beforeEach(() => {
         wrapper = mount(Menu, {
             global: {
-                plugins: [PrimeVue],
+                plugins: [primevue-lab],
                 stubs: {
                     'router-link': true,
                     teleport: true

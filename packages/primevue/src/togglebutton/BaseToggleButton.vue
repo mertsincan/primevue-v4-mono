@@ -1,6 +1,6 @@
 <script>
-import BaseComponent from '@primevue/core/basecomponent';
-import ToggleButtonStyle from 'primevue/togglebutton/style';
+import BaseComponent from '@primevue-lab/core/basecomponent';
+import ToggleButtonStyle from 'primevue-lab/togglebutton/style';
 
 export default {
     name: 'BaseToggleButton',

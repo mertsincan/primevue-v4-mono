@@ -5,8 +5,8 @@
     <div class="card flex justify-center">
         <SplitButton :model="items" @click="save" severity="contrast">
             <span class="flex items-center font-bold">
-                <img alt="logo" src="https://primefaces.org/cdn/primevue/images/logo.svg" style="height: 1rem; margin-right: 0.5rem" />
-                <span>PrimeVue</span>
+                <img alt="logo" src="https://primefaces.org/cdn/primevue-lab/images/logo.svg" style="height: 1rem; margin-right: 0.5rem" />
+                <span>primevue-lab</span>
             </span>
         </SplitButton>
     </div>
@@ -45,8 +45,8 @@ export default {
                 basic: `
 <SplitButton :model="items" @click="save" severity="contrast">
     <span class="flex items-center font-bold">
-        <img alt="logo" src="https://primefaces.org/cdn/primevue/images/logo.svg" style="height: 1rem; margin-right: 0.5rem" />
-        <span>PrimeVue</span>
+        <img alt="logo" src="https://primefaces.org/cdn/primevue-lab/images/logo.svg" style="height: 1rem; margin-right: 0.5rem" />
+        <span>primevue-lab</span>
     </span>
 </SplitButton>
 `,
@@ -56,8 +56,8 @@ export default {
         <Toast />
         <SplitButton :model="items" @click="save" severity="contrast">
             <span class="flex items-center font-bold">
-                <img alt="logo" src="https://primefaces.org/cdn/primevue/images/logo.svg" style="height: 1rem; margin-right: 0.5rem" />
-                <span>PrimeVue</span>
+                <img alt="logo" src="https://primefaces.org/cdn/primevue-lab/images/logo.svg" style="height: 1rem; margin-right: 0.5rem" />
+                <span>primevue-lab</span>
             </span>
         </SplitButton>
     </div>
@@ -107,15 +107,15 @@ export default {
         <Toast />
         <SplitButton :model="items" @click="save" severity="contrast">
             <span class="flex items-center font-bold">
-                <img alt="logo" src="https://primefaces.org/cdn/primevue/images/logo.svg" style="height: 1rem; margin-right: 0.5rem" />
-                <span>PrimeVue</span>
+                <img alt="logo" src="https://primefaces.org/cdn/primevue-lab/images/logo.svg" style="height: 1rem; margin-right: 0.5rem" />
+                <span>primevue-lab</span>
             </span>
         </SplitButton>
     </div>
 </template>
 
 <script setup>
-import { useToast } from "primevue/usetoast";
+import { useToast } from "primevue-lab/usetoast";
 const toast = useToast();
 
 const items = [

@@ -22,9 +22,9 @@
 </template>
 
 <script>
-import { DomHandler, ObjectUtils, UniqueComponentId, ZIndexUtils } from '@primevue/core/utils';
-import Portal from 'primevue/portal';
-import ToastEventBus from 'primevue/toasteventbus';
+import { DomHandler, ObjectUtils, UniqueComponentId, ZIndexUtils } from '@primevue-lab/core/utils';
+import Portal from 'primevue-lab/portal';
+import ToastEventBus from 'primevue-lab/toasteventbus';
 import BaseToast from './BaseToast.vue';
 import ToastMessage from './ToastMessage.vue';
 

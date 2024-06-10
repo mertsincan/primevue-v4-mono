@@ -2,7 +2,7 @@
  *
  * Card Design Tokens
  *
- * [Live Demo](https://www.primevue.org/card/)
+ * [Live Demo](https://www.primevue-lab.org/card/)
  *
  * @module themes/card
  *

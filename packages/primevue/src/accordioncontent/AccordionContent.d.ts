@@ -2,7 +2,7 @@
  *
  * AccordionContent is a helper component for Accordion component.
  *
- * [Live Demo](https://www.primevue.org/accordion/)
+ * [Live Demo](https://www.primevue-lab.org/accordion/)
  *
  * @module accordioncontent
  *
@@ -127,13 +127,13 @@ export interface AccordionContentEmitsOptions {}
 export declare type AccordionContentEmits = EmitFn<AccordionContentEmitsOptions>;
 
 /**
- * **PrimeVue - AccordionContent**
+ * **primevue-lab - AccordionContent**
  *
  * _AccordionContent is a helper component for Accordion component._
  *
- * [Live Demo](https://www.primevue.org/accordion/)
+ * [Live Demo](https://www.primevue-lab.org/accordion/)
  * --- ---
- * ![PrimeVue](https://primefaces.org/cdn/primevue/images/logo-100.png)
+ * ![primevue-lab](https://primefaces.org/cdn/primevue-lab/images/logo-100.png)
  *
  * @group Component
  *

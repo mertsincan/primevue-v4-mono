@@ -61,10 +61,10 @@
 </template>
 
 <script>
-import { UniqueComponentId } from '@primevue/core/utils';
-import ChevronDownIcon from '@primevue/icons/chevrondown';
-import Button from 'primevue/button';
-import TieredMenu from 'primevue/tieredmenu';
+import { UniqueComponentId } from '@primevue-lab/core/utils';
+import ChevronDownIcon from '@primevue-lab/icons/chevrondown';
+import Button from 'primevue-lab/button';
+import TieredMenu from 'primevue-lab/tieredmenu';
 import BaseSplitButton from './BaseSplitButton.vue';
 
 export default {

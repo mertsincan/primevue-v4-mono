@@ -1,6 +1,6 @@
 <script>
-import BaseComponent from '@primevue/core/basecomponent';
-import IconFieldStyle from 'primevue/iconfield/style';
+import BaseComponent from '@primevue-lab/core/basecomponent';
+import IconFieldStyle from 'primevue-lab/iconfield/style';
 
 export default {
     name: 'BaseIconField',

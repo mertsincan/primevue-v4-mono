@@ -3,8 +3,8 @@
 </template>
 
 <script>
-import BaseComponent from '@primevue/core/basecomponent';
-import InputNumber from 'primevue/inputnumber';
+import BaseComponent from '@primevue-lab/core/basecomponent';
+import InputNumber from 'primevue-lab/inputnumber';
 
 export default {
     name: 'JumpToPageInput',

@@ -2,7 +2,7 @@
  *
  * ToggleButton is used to select a boolean value using a button.
  *
- * [Live Demo](https://www.primevue.org/togglebutton/)
+ * [Live Demo](https://www.primevue-lab.org/togglebutton/)
  *
  * @module togglebutton
  *
@@ -228,13 +228,13 @@ export interface ToggleButtonEmitsOptions {
 export declare type ToggleButtonEmits = EmitFn<ToggleButtonEmitsOptions>;
 
 /**
- * **PrimeVue - ToggleButton**
+ * **primevue-lab - ToggleButton**
  *
  * _ToggleButton is used to select a boolean value using a button._
  *
- * [Live Demo](https://www.primevue.org/togglebutton/)
+ * [Live Demo](https://www.primevue-lab.org/togglebutton/)
  * --- ---
- * ![PrimeVue](https://primefaces.org/cdn/primevue/images/logo-100.png)
+ * ![primevue-lab](https://primefaces.org/cdn/primevue-lab/images/logo-100.png)
  *
  * @group Component
  *

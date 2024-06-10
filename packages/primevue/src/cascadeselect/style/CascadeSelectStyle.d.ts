@@ -2,7 +2,7 @@
  *
  * CascadeSelect is a form component to select a value from a nested structure of options.
  *
- * [Live Demo](https://www.primevue.org/cascadeselect/)
+ * [Live Demo](https://www.primevue-lab.org/cascadeselect/)
  *
  * @module cascadeselectstyle
  *

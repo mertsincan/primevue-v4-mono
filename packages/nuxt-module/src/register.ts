@@ -29,7 +29,7 @@ function registerConfig(resolvePath: any) {
         {
             name: 'PrimeVue',
             as: 'PrimeVue',
-            from: resolvePath({ name: 'PrimeVue', as: 'PrimeVue', from: `primevue/config`, type: 'config' })
+            from: resolvePath({ name: 'PrimeVue', as: 'PrimeVue', from: `primevue-lab/config`, type: 'config' })
         }
     ];
 }
@@ -38,7 +38,7 @@ function registerComponents(resolvePath: any, options: ComponentsType = {}) {
     const items: ComponentType[] = registerItems(components, options, { components });
 
     return items.map((item: ComponentType) => {
-        const _item = { ...item, name: item.name, as: item.name, from: `primevue/${item.name.toLowerCase()}` };
+        const _item = { ...item, name: item.name, as: item.name, from: `primevue-lab/${item.name.toLowerCase()}` };
         const name = Utils.object.getName(_item, options);
         const from = resolvePath({ name, as: _item.as, from: _item.from, type: 'component' });
         const opt = {
@@ -97,7 +97,7 @@ function registerServices(resolvePath: any, registered: any) {
     return [...services].map((service) => ({
         name: service,
         as: service,
-        from: resolvePath({ name: service, as: service, from: `primevue/${service.toLowerCase()}`, type: 'service' })
+        from: resolvePath({ name: service, as: service, from: `primevue-lab/${service.toLowerCase()}`, type: 'service' })
     }));
 }
 
@@ -106,7 +106,7 @@ function registerStyles(resolvePath: any, registered: any, options: any) {
         {
             name: 'BaseStyle',
             as: 'BaseStyle',
-            from: resolvePath({ name: 'BaseStyle', as: 'BaseStyle', from: '@primevue/core/base/style', type: 'style' })
+            from: resolvePath({ name: 'BaseStyle', as: 'BaseStyle', from: '@primevue-lab/core/base/style', type: 'style' })
         }
     ];
 
@@ -115,7 +115,7 @@ function registerStyles(resolvePath: any, registered: any, options: any) {
             styles.push({
                 name: 'BaseComponentStyle',
                 as: 'BaseComponentStyle',
-                from: resolvePath({ name: 'BaseComponentStyle', as: 'BaseComponentStyle', from: '@primevue/core/basecomponent/style', type: 'style' })
+                from: resolvePath({ name: 'BaseComponentStyle', as: 'BaseComponentStyle', from: '@primevue-lab/core/basecomponent/style', type: 'style' })
             });
         }
 
@@ -126,7 +126,7 @@ function registerStyles(resolvePath: any, registered: any, options: any) {
                 styles.push({
                     name: `${item.as}Style`,
                     as: `${item.as}Style`,
-                    from: resolvePath({ name: `${item.as}Style`, as: `${item.as}Style`, from: `primevue/${item.as.toLowerCase()}/style`, type: 'style' })
+                    from: resolvePath({ name: `${item.as}Style`, as: `${item.as}Style`, from: `primevue-lab/${item.as.toLowerCase()}/style`, type: 'style' })
                 })
             );
     }

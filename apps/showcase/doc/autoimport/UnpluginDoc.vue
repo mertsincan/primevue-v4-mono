@@ -1,11 +1,11 @@
 <template>
     <DocSectionText v-bind="$attrs">
         <p>
-            The <a href="https://github.com/unplugin/unplugin-vue-components" target="_blank" rel="noopener noreferrer">unplugin-vue-components</a> library can automatically import and register PrimeVue components with the built-in resolver. Let's
-            begin with installing the library.
+            The <a href="https://github.com/unplugin/unplugin-vue-components" target="_blank" rel="noopener noreferrer">unplugin-vue-components</a> library can automatically import and register primevue-lab components with the built-in resolver.
+            Let's begin with installing the library.
         </p>
         <DocSectionCode :code="code1" hideToggleCode importCode hideStackBlitz />
-        <p>Next step would be adding the <i>PrimeVueResolver</i> at vite.config using the <i>Components</i> plugin.</p>
+        <p>Next step would be adding the <i>primevue-labResolver</i> at vite.config using the <i>Components</i> plugin.</p>
         <DocSectionCode :code="code2" hideToggleCode importCode hideStackBlitz />
         <p>
             That's it, now the initialization code can be refactored as the following. For configuration like namespacing, visit the
@@ -29,7 +29,7 @@ npm i unplugin-vue-components -D
 import { defineConfig } from 'vite'
 import vue from '@vitejs/plugin-vue'
 import Components from 'unplugin-vue-components/vite';
-import {PrimeVueResolver} from 'unplugin-vue-components/resolvers';
+import {primevue-labResolver} from 'unplugin-vue-components/resolvers';
 
 // https://vitejs.dev/config/
 export default defineConfig({
@@ -37,7 +37,7 @@ export default defineConfig({
     vue(),
     Components({
       resolvers: [
-        PrimeVueResolver()
+        primevue-labResolver()
       ]
     })]
 })
@@ -46,11 +46,11 @@ export default defineConfig({
             code3: {
                 basic: `
 import { createApp } from "vue";
-import PrimeVue from "primevue/config";
+import primevue-lab from "primevue-lab/config";
 import App from './App.vue'
 const app = createApp(App);
 
-app.use(PrimeVue);
+app.use(primevue-lab);
 `
             }
         };

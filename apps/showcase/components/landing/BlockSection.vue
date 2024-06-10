@@ -3,7 +3,7 @@
         <div class="section-header relative z-30">Blocks</div>
         <p class="section-detail relative z-30">400+ ready to copy-paste UI blocks to build spectacular applications in no time.</p>
         <div class="flex justify-center mt-6 relative z-30">
-            <a href="https://blocks.primevue.org" class="linkbox linkbox-primary">
+            <a href="https://blocks.primevue-lab.org" class="linkbox linkbox-primary">
                 <span>Explore All</span>
                 <i class="pi pi-arrow-right ml-2"></i>
             </a>
@@ -13,7 +13,7 @@
                 <div class="prime-block flex self-stretch p-1">
                     <div class="block-sidebar w-1/12 p-4">
                         <div class="logo">
-                            <img src="https://primefaces.org/cdn/primevue/images/landing/blocks/logo-1.svg" alt="block logo" />
+                            <img src="https://primefaces.org/cdn/primevue-lab/images/landing/blocks/logo-1.svg" alt="block logo" />
                         </div>
                         <div class="sidebar-menu mt-8">
                             <div class="bar w-8/12 my-4"></div>
@@ -106,7 +106,7 @@
                 <div class="prime-block p-1 flex self-stretch flex-col">
                     <div class="block-header py-4 px-6 flex justify-between items-center">
                         <div class="logo pr-8">
-                            <img src="https://primefaces.org/cdn/primevue/images/landing/blocks/logo-1.svg" alt="block logo" />
+                            <img src="https://primefaces.org/cdn/primevue-lab/images/landing/blocks/logo-1.svg" alt="block logo" />
                         </div>
                         <div class="flex-auto sidebar-menu flex">
                             <div class="bar w-8 mx-2"></div>
@@ -148,7 +148,7 @@
                 <div class="prime-block flex self-stretch p-1">
                     <div class="block-sidebar p-4">
                         <div class="logo">
-                            <img src="https://primefaces.org/cdn/primevue/images/landing/blocks/logo-2.svg" alt="block logo" />
+                            <img src="https://primefaces.org/cdn/primevue-lab/images/landing/blocks/logo-2.svg" alt="block logo" />
                         </div>
                         <div class="sidebar-menu mt-8">
                             <div class="circle my-4"></div>
@@ -214,7 +214,7 @@
                 <div class="prime-block flex self-stretch p-1">
                     <div class="block-sidebar w-1/12 p-4">
                         <div class="logo">
-                            <img src="https://primefaces.org/cdn/primevue/images/landing/blocks/logo-1.svg" alt="block logo" />
+                            <img src="https://primefaces.org/cdn/primevue-lab/images/landing/blocks/logo-1.svg" alt="block logo" />
                         </div>
                         <div class="sidebar-menu mt-8">
                             <div class="bar w-8/12 my-4"></div>
@@ -278,7 +278,7 @@
                 <div class="prime-block flex self-stretch p-1">
                     <div class="block-sidebar p-4">
                         <div class="logo">
-                            <img src="https://primefaces.org/cdn/primevue/images/landing/blocks/logo-2.svg" alt="block logo" />
+                            <img src="https://primefaces.org/cdn/primevue-lab/images/landing/blocks/logo-2.svg" alt="block logo" />
                         </div>
                         <div class="sidebar-menu mt-8">
                             <div class="circle my-4"></div>
@@ -341,7 +341,7 @@
                 <div class="prime-block p-1 flex self-stretch flex-col">
                     <div class="block-header py-4 px-6 flex justify-between items-center">
                         <div class="logo pr-8">
-                            <img src="https://primefaces.org/cdn/primevue/images/landing/blocks/logo-1.svg" alt="block logo" />
+                            <img src="https://primefaces.org/cdn/primevue-lab/images/landing/blocks/logo-1.svg" alt="block logo" />
                         </div>
                         <div class="flex-auto sidebar-menu flex">
                             <div class="bar w-8 mx-2"></div>
@@ -356,7 +356,7 @@
                         <div class="block-main h-full flex justify-center items-center flex-col">
                             <div class="block-item block-item-active animation-2 mx-4 w-32 text-center flex flex-col items-center overflow-visible">
                                 <div class="-mt-6">
-                                    <img src="https://primefaces.org/cdn/primevue/images/landing/blocks/question.svg" alt="question mark" />
+                                    <img src="https://primefaces.org/cdn/primevue-lab/images/landing/blocks/question.svg" alt="question mark" />
                                 </div>
                                 <div class="bar w-8 mt-2"></div>
                                 <div class="bar w-24 mt-2"></div>

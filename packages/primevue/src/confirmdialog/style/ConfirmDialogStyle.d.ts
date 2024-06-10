@@ -2,7 +2,7 @@
  *
  * ConfirmDialog uses a Dialog UI with confirmDialog method or <ConfirmDialog> tag.
  *
- * [Live Demo](https://www.primevue.org/confirmdialog)
+ * [Live Demo](https://www.primevue-lab.org/confirmdialog)
  *
  * @module confirmdialogstyle
  *

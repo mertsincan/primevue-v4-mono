@@ -2,7 +2,7 @@
  *
  * Carousel Design Tokens
  *
- * [Live Demo](https://www.primevue.org/carousel/)
+ * [Live Demo](https://www.primevue-lab.org/carousel/)
  *
  * @module themes/carousel
  *

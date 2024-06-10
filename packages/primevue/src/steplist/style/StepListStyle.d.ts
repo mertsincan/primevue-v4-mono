@@ -2,7 +2,7 @@
  *
  * StepList is a helper component for Stepper component.
  *
- * [Live Demo](https://www.primevue.org/stepper/)
+ * [Live Demo](https://www.primevue-lab.org/stepper/)
  *
  * @module stepliststyle
  *

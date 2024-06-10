@@ -65,8 +65,8 @@
 </template>
 
 <script>
-import { ObjectUtils } from '@primevue/core/utils';
-import Paginator from 'primevue/paginator';
+import { ObjectUtils } from '@primevue-lab/core/utils';
+import Paginator from 'primevue-lab/paginator';
 import BaseDataView from './BaseDataView.vue';
 
 export default {

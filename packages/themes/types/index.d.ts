@@ -1,6 +1,6 @@
 /**
  *
- * [Live Demo](https://www.primevue.org/)
+ * [Live Demo](https://www.primevue-lab.org/)
  *
  * @module themes
  *

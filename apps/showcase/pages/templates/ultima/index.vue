@@ -30,7 +30,7 @@
         </TemplateHero>
         <UltimaSeparator />
         <div class="hidden">
-            <TemplateYoutube imgSrc="https://primefaces.org/cdn/primevue/images/templates/ultima/ultima-youtube-screen.png" />
+            <TemplateYoutube imgSrc="https://primefaces.org/cdn/primevue-lab/images/templates/ultima/ultima-youtube-screen.png" />
             <UltimaSeparator />
         </div>
         <TemplateLicense :license="license" />
@@ -41,13 +41,13 @@
         <UltimaSeparator />
         <TemplateFeaturesAnimation :featuresData="animationFeaturesData1">
             <template #description2>
-                Fully compatible with <a href="https://blocks.primevue.org/">PrimeBlocks</a>, choose from the wide range of blocks and customize the way you like. Note that <a href="https://blocks.primevue.org/">PrimeBlocks</a> is not included in the
-                template and requires a separate purchase.
+                Fully compatible with <a href="https://blocks.primevue-lab.org/">PrimeBlocks</a>, choose from the wide range of blocks and customize the way you like. Note that <a href="https://blocks.primevue-lab.org/">PrimeBlocks</a> is not
+                included in the template and requires a separate purchase.
             </template>
             <template #description4>
                 Ultima uses Figma as the design tool. It will be possible to download the Figma file after your purchase. You can
-                <a href="https://www.figma.com/file/ijQrxq13lxacgkb6XHlLxA/Preview-%7C-Ultima-2022?node-id=354%3A7715&t=gjWHprUDE5RJIg78-1">preview the Figma file</a> before the purchase. Note that PrimeVue UI components are excluded from the Ultima
-                Figma file as they are available in <PrimeVueNuxtLink to="/uikit">PrimeOne for Figma</PrimeVueNuxtLink> only.
+                <a href="https://www.figma.com/file/ijQrxq13lxacgkb6XHlLxA/Preview-%7C-Ultima-2022?node-id=354%3A7715&t=gjWHprUDE5RJIg78-1">preview the Figma file</a> before the purchase. Note that primevue-lab UI components are excluded from the
+                Ultima Figma file as they are available in <PrimeVueNuxtLink to="/uikit">PrimeOne for Figma</PrimeVueNuxtLink> only.
             </template>
         </TemplateFeaturesAnimation>
         <UltimaSeparator />
@@ -64,58 +64,58 @@ export default {
     data() {
         return {
             templateHeroData: {
-                pattern: 'https://primefaces.org/cdn/primevue/images/templates/ultima/ultima-hero-pattern.png',
+                pattern: 'https://primefaces.org/cdn/primevue-lab/images/templates/ultima/ultima-hero-pattern.png',
                 description: 'A highly customizable premium application template featuring 4 menu modes, 13 themes, light and dark modes. Based on material design language, it is fully responsive, touch optimized, built with SASS, CSS3 and HTML5.',
-                dashboard1: 'https://primefaces.org/cdn/primevue/images/templates/ultima/ultima-hero-dashboard1.png',
-                dashboard2: 'https://primefaces.org/cdn/primevue/images/templates/ultima/ultima-hero-dashboard2.png',
-                liveHref: 'https://ultima.primevue.org',
-                docHref: 'https://ultima.primevue.org/documentation'
+                dashboard1: 'https://primefaces.org/cdn/primevue-lab/images/templates/ultima/ultima-hero-dashboard1.png',
+                dashboard2: 'https://primefaces.org/cdn/primevue-lab/images/templates/ultima/ultima-hero-dashboard2.png',
+                liveHref: 'https://ultima.primevue-lab.org',
+                docHref: 'https://ultima.primevue-lab.org/documentation'
             },
             features2Data: [
                 {
                     title: 'Fully Responsive',
                     description: 'Ultima is crafted to provide optimal viewing and interaction experience for a wide range of devices.',
-                    src: 'https://primefaces.org/cdn/primevue/images/templates/ultima/ultima-features2-responsive.png'
+                    src: 'https://primefaces.org/cdn/primevue-lab/images/templates/ultima/ultima-features2-responsive.png'
                 },
                 {
                     title: 'Cross Browser Compatible',
                     description: 'First class support for Firefox, Safari, Chrome and Edge.',
-                    src: 'https://primefaces.org/cdn/primevue/images/templates/apollo/apollo-features2-compatible.png',
-                    darkSrc: 'https://primefaces.org/cdn/primevue/images/templates/apollo/apollo-features2-compatible-dark.png'
+                    src: 'https://primefaces.org/cdn/primevue-lab/images/templates/apollo/apollo-features2-compatible.png',
+                    darkSrc: 'https://primefaces.org/cdn/primevue-lab/images/templates/apollo/apollo-features2-compatible-dark.png'
                 },
                 {
                     title: 'Lifetime Support',
                     description: 'Ultima has a dedicated forum where lifetime support is delivered by engineers at PrimeTek in a timely manner.',
-                    src: 'https://primefaces.org/cdn/primevue/images/templates/apollo/apollo-features2-lifetime.png'
+                    src: 'https://primefaces.org/cdn/primevue-lab/images/templates/apollo/apollo-features2-lifetime.png'
                 },
                 {
                     title: 'Customizable Design',
                     description: 'Fully customizable with a mixture of Sass and CSS variables.',
-                    src: 'https://primefaces.org/cdn/primevue/images/templates/apollo/apollo-features2-customizable.png',
-                    darkSrc: 'https://primefaces.org/cdn/primevue/images/templates/apollo/apollo-features2-customizable-dark.png'
+                    src: 'https://primefaces.org/cdn/primevue-lab/images/templates/apollo/apollo-features2-customizable.png',
+                    darkSrc: 'https://primefaces.org/cdn/primevue-lab/images/templates/apollo/apollo-features2-customizable-dark.png'
                 },
                 {
                     title: 'Ready to Use Pages',
                     description: 'Everything is ready for you to start and build your app in no time. Landing, login, invoice, help, and error pages are provided as template pages.',
-                    src: 'https://primefaces.org/cdn/primevue/images/templates/ultima/ultima-features2-ready.png'
+                    src: 'https://primefaces.org/cdn/primevue-lab/images/templates/ultima/ultima-features2-ready.png'
                 },
                 {
                     title: 'Mobile Experience',
                     description: 'Touch optimized enhanced mobile experience with responsive design.',
-                    src: 'https://primefaces.org/cdn/primevue/images/templates/ultima/ultima-features2-mobile.png'
+                    src: 'https://primefaces.org/cdn/primevue-lab/images/templates/ultima/ultima-features2-mobile.png'
                 }
             ],
             relatedData: [
                 {
-                    src: 'https://primefaces.org/cdn/primevue/images/templates/diamond-vue.jpg',
+                    src: 'https://primefaces.org/cdn/primevue-lab/images/templates/diamond-vue.jpg',
                     href: '/templates/diamond'
                 },
                 {
-                    src: 'https://primefaces.org/cdn/primevue/images/templates/apollo-vue.jpg',
+                    src: 'https://primefaces.org/cdn/primevue-lab/images/templates/apollo-vue.jpg',
                     href: '/templates/apollo'
                 },
                 {
-                    src: 'https://primefaces.org/cdn/primevue/images/templates/freya-vue.png',
+                    src: 'https://primefaces.org/cdn/primevue-lab/images/templates/freya-vue.png',
                     href: '/templates/freya'
                 }
             ],
@@ -124,25 +124,25 @@ export default {
                     id: 1,
                     title: 'PrimeFlex CSS Utilities',
                     description: 'PrimeFlex is a CSS utility library featuring various helpers such as a grid system, flexbox, spacing, elevation and more.',
-                    src: 'https://primefaces.org/cdn/primevue/images/templates/apollo/features-animation-utilities.png'
+                    src: 'https://primefaces.org/cdn/primevue-lab/images/templates/apollo/features-animation-utilities.png'
                 },
                 {
                     id: 2,
                     title: 'PrimeBlocks',
                     slotType: 'description2',
-                    src: 'https://primefaces.org/cdn/primevue/images/templates/apollo/features-animation-blocks.png'
+                    src: 'https://primefaces.org/cdn/primevue-lab/images/templates/apollo/features-animation-blocks.png'
                 },
                 {
                     id: 3,
                     title: 'PrimeIcons',
                     description: 'Ultima ships with PrimeIcons, PrimeTek’s modern icon library including a wide range of icons for your applications.',
-                    src: 'https://primefaces.org/cdn/primevue/images/templates/apollo/features-animation-icons.png'
+                    src: 'https://primefaces.org/cdn/primevue-lab/images/templates/apollo/features-animation-icons.png'
                 },
                 {
                     id: 4,
                     title: 'Figma File',
                     slotType: 'description4',
-                    src: 'https://primefaces.org/cdn/primevue/images/templates/ultima/features-animation-figma.png'
+                    src: 'https://primefaces.org/cdn/primevue-lab/images/templates/ultima/features-animation-figma.png'
                 }
             ],
             animationFeaturesData2: [
@@ -150,61 +150,61 @@ export default {
                     id: 1,
                     title: 'Light and Dark Modes',
                     description: 'Ultima offers you 2 uniquely designed layout modes to choose from; Light and Dark.',
-                    src: 'https://primefaces.org/cdn/primevue/images/templates/ultima/features-animation-darkmode.png'
+                    src: 'https://primefaces.org/cdn/primevue-lab/images/templates/ultima/features-animation-darkmode.png'
                 },
                 {
                     id: 2,
                     title: 'Component Themes',
                     description: 'Ultima offers 17 built-in component themes with dark and light options. Also if you wanna create your own theme you can do it by just defining couple SASS variables.',
-                    src: 'https://primefaces.org/cdn/primevue/images/templates/ultima/features-animation-component-themes.png'
+                    src: 'https://primefaces.org/cdn/primevue-lab/images/templates/ultima/features-animation-component-themes.png'
                 },
                 {
                     id: 3,
                     title: '7 Menu Orientations',
                     description: 'Static, Overlay, Slim, Slim+, Reveal, Drawer and Horizontal are the available menu layouts depending on your preference.',
-                    src: 'https://primefaces.org/cdn/primevue/images/templates/atlantis/features-animation-orientations.png',
+                    src: 'https://primefaces.org/cdn/primevue-lab/images/templates/atlantis/features-animation-orientations.png',
                     type: 'inline-animation',
                     inlineFeaturesData: [
                         {
                             id: 1,
                             title: 'Static',
-                            src: 'https://primefaces.org/cdn/primevue/images/templates/ultima/Static.png'
+                            src: 'https://primefaces.org/cdn/primevue-lab/images/templates/ultima/Static.png'
                         },
                         {
                             id: 2,
                             title: 'Slim',
-                            src: 'https://primefaces.org/cdn/primevue/images/templates/ultima/Slim.png'
+                            src: 'https://primefaces.org/cdn/primevue-lab/images/templates/ultima/Slim.png'
                         },
                         {
                             id: 3,
                             title: 'Reveal',
-                            src: 'https://primefaces.org/cdn/primevue/images/templates/ultima/Reveal.png'
+                            src: 'https://primefaces.org/cdn/primevue-lab/images/templates/ultima/Reveal.png'
                         },
                         {
                             id: 4,
                             title: 'Horizontal',
-                            src: 'https://primefaces.org/cdn/primevue/images/templates/ultima/Horizontal.png'
+                            src: 'https://primefaces.org/cdn/primevue-lab/images/templates/ultima/Horizontal.png'
                         },
                         {
                             id: 5,
                             title: 'Overlay',
-                            src: 'https://primefaces.org/cdn/primevue/images/templates/ultima/Overlay.png'
+                            src: 'https://primefaces.org/cdn/primevue-lab/images/templates/ultima/Overlay.png'
                         },
                         {
                             id: 6,
                             title: 'Slim+',
-                            src: 'https://primefaces.org/cdn/primevue/images/templates/ultima/Slim+.png'
+                            src: 'https://primefaces.org/cdn/primevue-lab/images/templates/ultima/Slim+.png'
                         },
                         {
                             id: 7,
                             title: 'Drawer',
-                            src: 'https://primefaces.org/cdn/primevue/images/templates/ultima/Drawer.png'
+                            src: 'https://primefaces.org/cdn/primevue-lab/images/templates/ultima/Drawer.png'
                         }
                     ]
                 }
             ],
             license: {
-                documentLink: 'https://ultima.primevue.org/documentation/',
+                documentLink: 'https://ultima.primevue-lab.org/documentation/',
                 description: 'The download package is a Vite-based project containing all application source codes deployed at the live demo. The project code is written in JavaScript.',
                 showDiscount: false,
                 licenseDetails: [

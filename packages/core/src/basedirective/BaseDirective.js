@@ -1,8 +1,8 @@
-import Base from '@primevue/core/base';
-import BaseStyle from '@primevue/core/base/style';
-import PrimeVueService from '@primevue/core/service';
-import { ObjectUtils, UniqueComponentId } from '@primevue/core/utils';
-import { Theme, ThemeService } from '@primevue/themes';
+import Base from '@primevue-lab/core/base';
+import BaseStyle from '@primevue-lab/core/base/style';
+import PrimeVueService from '@primevue-lab/core/service';
+import { ObjectUtils, UniqueComponentId } from '@primevue-lab/core/utils';
+import { Theme, ThemeService } from '@primevue-lab/themes';
 import { mergeProps } from 'vue';
 
 const BaseDirective = {

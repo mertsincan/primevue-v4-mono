@@ -2,7 +2,7 @@
  *
  * TreeSelect is a form component to choose from hierarchical data.
  *
- * [Live Demo](https://www.primevue.org/treeselect/)
+ * [Live Demo](https://www.primevue-lab.org/treeselect/)
  *
  * @module treeselect
  *
@@ -214,7 +214,7 @@ export interface TreeSelectProps {
      */
     appendTo?: HintedString<'body' | 'self'> | undefined | HTMLElement;
     /**
-     * Text to display when there are no options available. Defaults to value from PrimeVue locale configuration.
+     * Text to display when there are no options available. Defaults to value from primevue-lab locale configuration.
      * @defaultValue No results found
      */
     emptyMessage?: string | undefined;
@@ -460,13 +460,13 @@ export interface TreeSelectMethods {
 }
 
 /**
- * **PrimeVue - TreeSelect**
+ * **primevue-lab - TreeSelect**
  *
  * _TreeSelect is a form component to choose from hierarchical data._
  *
- * [Live Demo](https://www.primevue.org/treeselect/)
+ * [Live Demo](https://www.primevue-lab.org/treeselect/)
  * --- ---
- * ![PrimeVue](https://primefaces.org/cdn/primevue/images/logo-100.png)
+ * ![primevue-lab](https://primefaces.org/cdn/primevue-lab/images/logo-100.png)
  *
  * @group Component
  *

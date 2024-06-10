@@ -76,14 +76,14 @@
 </template>
 
 <script>
-import { DomHandler } from '@primevue/core/utils';
-import PlusIcon from '@primevue/icons/plus';
-import TimesIcon from '@primevue/icons/times';
-import UploadIcon from '@primevue/icons/upload';
-import Button from 'primevue/button';
-import Message from 'primevue/message';
-import ProgressBar from 'primevue/progressbar';
-import Ripple from 'primevue/ripple';
+import { DomHandler } from '@primevue-lab/core/utils';
+import PlusIcon from '@primevue-lab/icons/plus';
+import TimesIcon from '@primevue-lab/icons/times';
+import UploadIcon from '@primevue-lab/icons/upload';
+import Button from 'primevue-lab/button';
+import Message from 'primevue-lab/message';
+import ProgressBar from 'primevue-lab/progressbar';
+import Ripple from 'primevue-lab/ripple';
 import BaseFileUpload from './BaseFileUpload.vue';
 import FileContent from './FileContent.vue';
 

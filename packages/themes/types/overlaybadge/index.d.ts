@@ -2,7 +2,7 @@
  *
  * OverlayBadge Design Tokens
  *
- * [Live Demo](https://www.primevue.org/overlaybadge/)
+ * [Live Demo](https://www.primevue-lab.org/overlaybadge/)
  *
  * @module themes/overlaybadge
  *

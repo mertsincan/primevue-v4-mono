@@ -2,7 +2,7 @@
  *
  * ScrollPanel Design Tokens
  *
- * [Live Demo](https://www.primevue.org/scrollpanel/)
+ * [Live Demo](https://www.primevue-lab.org/scrollpanel/)
  *
  * @module themes/scrollpanel
  *

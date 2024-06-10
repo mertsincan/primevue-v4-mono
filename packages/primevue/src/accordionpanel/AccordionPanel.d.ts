@@ -2,7 +2,7 @@
  *
  * AccordionPanel is a helper component for Accordion component.
  *
- * [Live Demo](https://www.primevue.org/accordion/)
+ * [Live Demo](https://www.primevue-lab.org/accordion/)
  *
  * @module accordionpanel
  *
@@ -125,13 +125,13 @@ export interface AccordionPanelEmitsOptions {}
 export declare type AccordionPanelEmits = EmitFn<AccordionPanelEmitsOptions>;
 
 /**
- * **PrimeVue - AccordionPanel**
+ * **primevue-lab - AccordionPanel**
  *
  * _AccordionPanel is a helper component for Accordion component._
  *
- * [Live Demo](https://www.primevue.org/accordion/)
+ * [Live Demo](https://www.primevue-lab.org/accordion/)
  * --- ---
- * ![PrimeVue](https://primefaces.org/cdn/primevue/images/logo-100.png)
+ * ![primevue-lab](https://primefaces.org/cdn/primevue-lab/images/logo-100.png)
  *
  * @group Component
  *

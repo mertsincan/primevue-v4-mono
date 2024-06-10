@@ -2,7 +2,7 @@
  *
  * ConfirmPopup Design Tokens
  *
- * [Live Demo](https://www.primevue.org/confirmpopup/)
+ * [Live Demo](https://www.primevue-lab.org/confirmpopup/)
  *
  * @module themes/confirmpopup
  *

@@ -2,7 +2,7 @@
  *
  * ContextMenu Design Tokens
  *
- * [Live Demo](https://www.primevue.org/contextmenu/)
+ * [Live Demo](https://www.primevue-lab.org/contextmenu/)
  *
  * @module themes/contextmenu
  *

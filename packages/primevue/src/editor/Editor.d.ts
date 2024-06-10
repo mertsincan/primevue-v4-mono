@@ -2,7 +2,7 @@
  *
  * Editor groups a collection of contents in tabs.
  *
- * [Live Demo](https://www.primevue.org/editor/)
+ * [Live Demo](https://www.primevue-lab.org/editor/)
  *
  * @module editor
  *
@@ -298,13 +298,13 @@ export interface EditorEmitsOptions {
 export declare type EditorEmits = EmitFn<EditorEmitsOptions>;
 
 /**
- * **PrimeVue - Editor**
+ * **primevue-lab - Editor**
  *
  * _Editor groups a collection of contents in tabs._
  *
- * [Live Demo](https://www.primevue.org/editor/)
+ * [Live Demo](https://www.primevue-lab.org/editor/)
  * --- ---
- * ![PrimeVue](https://primefaces.org/cdn/primevue/images/logo-100.png)
+ * ![primevue-lab](https://primefaces.org/cdn/primevue-lab/images/logo-100.png)
  *
  * @group Component
  *

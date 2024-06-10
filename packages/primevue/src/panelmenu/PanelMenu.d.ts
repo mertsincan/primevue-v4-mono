@@ -2,7 +2,7 @@
  *
  * PanelMenu is a hybrid of Accordion and Tree components.
  *
- * [Live Demo](https://www.primevue.org/panelmenu/)
+ * [Live Demo](https://www.primevue-lab.org/panelmenu/)
  *
  * @module panelmenu
  *
@@ -392,13 +392,13 @@ export interface PanelMenuEmitsOptions {
 export declare type PanelMenuEmits = EmitFn<PanelMenuEmitsOptions>;
 
 /**
- * **PrimeVue - PanelMenu**
+ * **primevue-lab - PanelMenu**
  *
  * _PanelMenu is a hybrid of Accordion and Tree components._
  *
- * [Live Demo](https://www.primevue.org/panelmenu/)
+ * [Live Demo](https://www.primevue-lab.org/panelmenu/)
  * --- ---
- * ![PrimeVue](https://primefaces.org/cdn/primevue/images/logo-100.png)
+ * ![primevue-lab](https://primefaces.org/cdn/primevue-lab/images/logo-100.png)
  *
  * @group Component
  *

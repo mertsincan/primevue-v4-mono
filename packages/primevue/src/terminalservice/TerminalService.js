@@ -1,3 +1,3 @@
-import { EventBus } from '@primevue/core/utils';
+import { EventBus } from '@primevue-lab/core/utils';
 
 export default EventBus();

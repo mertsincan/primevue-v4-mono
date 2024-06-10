@@ -1,32 +1,32 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![npm version](https://badge.fury.io/js/primevue.svg)](https://badge.fury.io/js/primevue)
+[![npm version](https://badge.fury.io/js/primevue-lab.svg)](https://badge.fury.io/js/primevue-lab)
 [![Discord Chat](https://img.shields.io/discord/557940238991753223.svg?color=7289da&label=chat&logo=discord)](https://discord.gg/gzKFYnpmCY)
 [![Prime Discussions](https://img.shields.io/github/discussions-search?query=org%3Aprimefaces&logo=github&label=Prime%20Discussions&link=https%3A%2F%2Fgithub.com%2Forgs%2Fprimefaces%2Fdiscussions)](https://github.com/orgs/primefaces/discussions)
 
-[![PrimeVue Hero](https://www.primefaces.org/static/social/primevue-preview.jpg)](https://primevue.org/)
+[![primevue-lab Hero](https://www.primefaces.org/static/social/primevue-lab-preview.jpg)](https://primevue-lab.org/)
 
-# PrimeVue
+# primevue-lab
 
-PrimeVue is a rich set of open source UI Components for Vue. See [PrimeVue homepage](https://primevue.org/) for live showcase and documentation.
+primevue-lab is a rich set of open source UI Components for Vue. See [primevue-lab homepage](https://primevue-lab.org/) for live showcase and documentation.
 
 ## Download
 
-PrimeVue is available at [npm](https://www.npmjs.com/package/primevue).
+primevue-lab is available at [npm](https://www.npmjs.com/package/primevue-lab).
 
 ```
 # Using npm
-npm install primevue
+npm install primevue-lab
 
 # Using yarn
-yarn add primevue
+yarn add primevue-lab
 
 # Using pnpm
-pnpm add primevue
+pnpm add primevue-lab
 ```
 
 ## Plugin
 
-PrimeVue plugin is required to be installed as an application plugin to set up the default configuration. The plugin is lightweight, only sets up the configuration object without affecting your application. PrimeVue has two styling modes; Styled and Unstyled. If you are just getting started, we suggest to using the styled mode.
+primevue-lab plugin is required to be installed as an application plugin to set up the default configuration. The plugin is lightweight, only sets up the configuration object without affecting your application. primevue-lab has two styling modes; Styled and Unstyled. If you are just getting started, we suggest to using the styled mode.
 
 **Styled Mode**
 
@@ -34,22 +34,22 @@ Styled mode provides pre-skinned components, default theme is Aura with emerald 
 
 ```javascript
 import { createApp } from 'vue';
-import PrimeVueStyled from 'primevue/config';
+import primevue-labStyled from 'primevue-lab/config';
 const app = createApp(App);
 
-app.use(PrimeVueStyled);
+app.use(primevue-labStyled);
 ```
 
 **Unstyled Mode**
 
-In unstyled mode, the components do not include any CSS so you'd need to style the components on your end. If you are using Tailwind CSS, visit the [Tailwind Presets](https://tailwind.primevue.org) project to get you started with styling the components with Tailwind utility classes.
+In unstyled mode, the components do not include any CSS so you'd need to style the components on your end. If you are using Tailwind CSS, visit the [Tailwind Presets](https://tailwind.primevue-lab.org) project to get you started with styling the components with Tailwind utility classes.
 
 ```javascript
 import { createApp } from 'vue';
-import PrimeVueUnstyled from 'primevue/config';
+import primevue-labUnstyled from 'primevue-lab/config';
 const app = createApp(App);
 
-app.use(PrimeVueUnstyled);
+app.use(primevue-labUnstyled);
 ```
 
 ## Usage
@@ -57,7 +57,7 @@ app.use(PrimeVueUnstyled);
 Each component can be imported individually so that you only bundle what you use. Import path is available in the documentation of the corresponding component.
 
 ```javascript
-import Button from 'primevue/button';
+import Button from 'primevue-lab/button';
 
 const app = createApp(App);
 app.component('Button', Button);
@@ -77,14 +77,14 @@ Component prop names are described as camel case throughout the documentation ho
 
 ## Nuxt Integration
 
-The [nuxt-primevue](https://www.npmjs.com/package/nuxt-primevue) package is the official module by PrimeTek. See the nuxt documentation for details. [information](https://primevue.org/nuxt)
+The [nuxt-primevue-lab](https://www.npmjs.com/package/nuxt-primevue-lab) package is the official module by PrimeTek. See the nuxt documentation for details. [information](https://primevue-lab.org/nuxt)
 
 ## Example
 
-We've created various samples for the popular options in the Vue ecosystem. Visit the [primevue-examples](https://github.com/primefaces/primevue-examples) repository for the samples.
+We've created various samples for the popular options in the Vue ecosystem. Visit the [primevue-lab-examples](https://github.com/primefaces/primevue-lab-examples) repository for the samples.
 
 ## Contributors
 
-<a href="https://github.com/primefaces/primevue/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=primefaces/primevue" />
+<a href="https://github.com/primefaces/primevue-lab/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=primefaces/primevue-lab" />
 </a>

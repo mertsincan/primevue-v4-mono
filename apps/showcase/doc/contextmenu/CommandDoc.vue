@@ -11,7 +11,7 @@
                 @contextmenu="onRightClick($event, user)"
             >
                 <div class="flex flex-1 items-center gap-2">
-                    <img :alt="user.name" :src="`https://primefaces.org/cdn/primevue/images/avatar/${user.image}`" class="w-8 h-8" />
+                    <img :alt="user.name" :src="`https://primefaces.org/cdn/primevue-lab/images/avatar/${user.image}`" class="w-8 h-8" />
                     <span class="font-bold">{{ user.name }}</span>
                 </div>
                 <Tag :value="user.role" :severity="getBadge(user)" />
@@ -77,7 +77,7 @@ export default {
         @contextmenu="onRightClick($event, user)"
     >
         <div class="flex flex-1 items-center gap-2">
-            <img :alt="user.name" :src="\`https://primefaces.org/cdn/primevue/images/avatar/\${user.image}\`" class="w-8 h-8" />
+            <img :alt="user.name" :src="\`https://primefaces.org/cdn/primevue-lab/images/avatar/\${user.image}\`" class="w-8 h-8" />
             <span class="font-bold">{{ user.name }}</span>
         </div>
         <Tag :value="user.role" :severity="getBadge(user)" />
@@ -97,7 +97,7 @@ export default {
                 @contextmenu="onRightClick($event, user)"
             >
                 <div class="flex flex-1 items-center gap-2">
-                    <img :alt="user.name" :src="\`https://primefaces.org/cdn/primevue/images/avatar/\${user.image}\`" class="w-8 h-8" />
+                    <img :alt="user.name" :src="\`https://primefaces.org/cdn/primevue-lab/images/avatar/\${user.image}\`" class="w-8 h-8" />
                     <span class="font-bold">{{ user.name }}</span>
                 </div>
                 <Tag :value="user.role" :severity="getBadge(user)" />
@@ -180,7 +180,7 @@ export default {
                 @contextmenu="onRightClick($event, user)"
             >
                 <div class="flex flex-1 items-center gap-2">
-                    <img :alt="user.name" :src="\`https://primefaces.org/cdn/primevue/images/avatar/\${user.image}\`" class="w-8 h-8" />
+                    <img :alt="user.name" :src="\`https://primefaces.org/cdn/primevue-lab/images/avatar/\${user.image}\`" class="w-8 h-8" />
                     <span class="font-bold">{{ user.name }}</span>
                 </div>
                 <Tag :value="user.role" :severity="getBadge(user)" />
@@ -193,7 +193,7 @@ export default {
 
 <script setup>
 import { ref } from 'vue';
-import { useToast } from "primevue/usetoast";
+import { useToast } from "primevue-lab/usetoast";
 
 const toast = useToast();
 const selectedUser = ref();

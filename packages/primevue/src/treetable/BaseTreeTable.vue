@@ -1,6 +1,6 @@
 <script>
-import BaseComponent from '@primevue/core/basecomponent';
-import TreeTableStyle from 'primevue/treetable/style';
+import BaseComponent from '@primevue-lab/core/basecomponent';
+import TreeTableStyle from 'primevue-lab/treetable/style';
 
 export default {
     name: 'BaseTreeTable',

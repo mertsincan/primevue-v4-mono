@@ -11,7 +11,7 @@
 </template>
 
 <script>
-import BaseComponent from '@primevue/core/basecomponent';
+import BaseComponent from '@primevue-lab/core/basecomponent';
 
 export default {
     name: 'MeterGroupLabel',

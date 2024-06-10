@@ -1,6 +1,6 @@
 <script>
-import BaseComponent from '@primevue/core/basecomponent';
-import DialogStyle from 'primevue/dialog/style';
+import BaseComponent from '@primevue-lab/core/basecomponent';
+import DialogStyle from 'primevue-lab/dialog/style';
 
 export default {
     name: 'BaseDialog',

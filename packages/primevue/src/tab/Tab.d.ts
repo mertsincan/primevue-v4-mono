@@ -2,7 +2,7 @@
  *
  * Tab is a helper component for Tabs component.
  *
- * [Live Demo](https://www.primevue.org/tabs/)
+ * [Live Demo](https://www.primevue-lab.org/tabs/)
  *
  * @module tab
  *
@@ -128,13 +128,13 @@ export interface TabEmitsOptions {}
 export declare type TabEmits = EmitFn<TabEmitsOptions>;
 
 /**
- * **PrimeVue - Tab**
+ * **primevue-lab - Tab**
  *
  * _Tab is a helper component for Tabs component._
  *
- * [Live Demo](https://www.primevue.org/tabs/)
+ * [Live Demo](https://www.primevue-lab.org/tabs/)
  * --- ---
- * ![PrimeVue](https://primefaces.org/cdn/primevue/images/logo-100.png)
+ * ![primevue-lab](https://primefaces.org/cdn/primevue-lab/images/logo-100.png)
  *
  * @group Component
  *

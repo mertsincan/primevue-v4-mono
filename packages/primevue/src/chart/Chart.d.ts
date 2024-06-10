@@ -2,7 +2,7 @@
  *
  * Chart groups a collection of contents in tabs.
  *
- * [Live Demo](https://www.primevue.org/chart/)
+ * [Live Demo](https://www.primevue-lab.org/chart/)
  *
  * @module chart
  *
@@ -189,13 +189,13 @@ export interface ChartMethods {
 }
 
 /**
- * **PrimeVue - Chart**
+ * **primevue-lab - Chart**
  *
  * _Chart groups a collection of contents in tabs._
  *
- * [Live Demo](https://www.primevue.org/chart/)
+ * [Live Demo](https://www.primevue-lab.org/chart/)
  * --- ---
- * ![PrimeVue](https://primefaces.org/cdn/primevue/images/logo-100.png)
+ * ![primevue-lab](https://primefaces.org/cdn/primevue-lab/images/logo-100.png)
  *
  * @group Component
  *

@@ -1,5 +1,5 @@
 import { mount } from '@vue/test-utils';
-import PrimeVue from 'primevue/config';
+import primevue-lab from 'primevue-lab/config';
 import SplitButton from './SplitButton.vue';
 
 describe('SplitButton.vue', () => {
@@ -8,7 +8,7 @@ describe('SplitButton.vue', () => {
     beforeEach(async () => {
         wrapper = mount(SplitButton, {
             global: {
-                plugins: [PrimeVue],
+                plugins: [primevue-lab],
                 stubs: {
                     teleport: true,
                     'router-link': true

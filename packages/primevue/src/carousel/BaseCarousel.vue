@@ -1,6 +1,6 @@
 <script>
-import BaseComponent from '@primevue/core/basecomponent';
-import CarouselStyle from 'primevue/carousel/style';
+import BaseComponent from '@primevue-lab/core/basecomponent';
+import CarouselStyle from 'primevue-lab/carousel/style';
 
 export default {
     name: 'BaseCarousel',

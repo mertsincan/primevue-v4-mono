@@ -2,7 +2,7 @@
  *
  * Toolbar Design Tokens
  *
- * [Live Demo](https://www.primevue.org/toolbar/)
+ * [Live Demo](https://www.primevue-lab.org/toolbar/)
  *
  * @module themes/toolbar
  *

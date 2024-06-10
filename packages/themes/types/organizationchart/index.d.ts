@@ -2,7 +2,7 @@
  *
  * OrganizationChart Design Tokens
  *
- * [Live Demo](https://www.primevue.org/organizationchart/)
+ * [Live Demo](https://www.primevue-lab.org/organizationchart/)
  *
  * @module themes/organizationchart
  *

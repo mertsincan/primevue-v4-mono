@@ -1,6 +1,6 @@
 <script>
-import BaseComponent from '@primevue/core/basecomponent';
-import RatingStyle from 'primevue/rating/style';
+import BaseComponent from '@primevue-lab/core/basecomponent';
+import RatingStyle from 'primevue-lab/rating/style';
 
 export default {
     name: 'BaseRating',

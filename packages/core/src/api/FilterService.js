@@ -1,4 +1,4 @@
-import { ObjectUtils } from '@primevue/core/utils';
+import { ObjectUtils } from '@primevue-lab/core/utils';
 
 const FilterService = {
     filter(value, fields, filterValue, filterMatchMode, filterLocale) {

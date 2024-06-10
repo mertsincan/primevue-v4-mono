@@ -2,7 +2,7 @@
  *
  * Paginator Design Tokens
  *
- * [Live Demo](https://www.primevue.org/paginator/)
+ * [Live Demo](https://www.primevue-lab.org/paginator/)
  *
  * @module themes/paginator
  *

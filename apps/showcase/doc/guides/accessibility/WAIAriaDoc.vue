@@ -2,8 +2,8 @@
     <DocSectionText v-bind="$attrs">
         <p>
             ARIA refers to "Accessible Rich Internet Applications" is a suite to fill the gap where semantic HTML is inadequate. These cases are mainly related to rich UI components/widgets. Although browser support for rich UI components such as a
-            datepicker or colorpicker has been improved over the past years many web developers still utilize UI components derived from standard HTML elements created by them or by other projects like PrimeVue. These types of components must provide
-            keyboard and screen reader support, the latter case is where the WAI-ARIA is utilized.
+            datepicker or colorpicker has been improved over the past years many web developers still utilize UI components derived from standard HTML elements created by them or by other projects like primevue-lab. These types of components must
+            provide keyboard and screen reader support, the latter case is where the WAI-ARIA is utilized.
         </p>
         <p>
             ARIA consists of roles, properties and attributes. <b>Roles</b> define what the element is mainly used for e.g. <i>checkbox</i>, <i>dialog</i>, <i>tablist</i> whereas <b>States</b> and <b>Properties</b> define the metadata of the element
@@ -61,7 +61,7 @@
 </code></pre>
 
     <div class="doc-section-description mt-4">
-        <p>A working sample is the PrimeVue checkbox that is tabbable, keyboard accessible and is compliant with a screen reader. Instead of ARIA roles it relies on a hidden native checkbox.</p>
+        <p>A working sample is the primevue-lab checkbox that is tabbable, keyboard accessible and is compliant with a screen reader. Instead of ARIA roles it relies on a hidden native checkbox.</p>
     </div>
 
     <div class="card flex items-center justify-center">

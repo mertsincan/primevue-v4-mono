@@ -2,7 +2,7 @@
  *
  * TabView Design Tokens
  *
- * [Live Demo](https://www.primevue.org/tabview/)
+ * [Live Demo](https://www.primevue-lab.org/tabview/)
  *
  * @module themes/tabview
  *

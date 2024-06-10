@@ -2,7 +2,7 @@
  *
  * RadioButton Design Tokens
  *
- * [Live Demo](https://www.primevue.org/radiobutton/)
+ * [Live Demo](https://www.primevue-lab.org/radiobutton/)
  *
  * @module themes/radiobutton
  *

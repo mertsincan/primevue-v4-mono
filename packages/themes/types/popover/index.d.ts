@@ -2,7 +2,7 @@
  *
  * Popover Design Tokens
  *
- * [Live Demo](https://www.primevue.org/popover/)
+ * [Live Demo](https://www.primevue-lab.org/popover/)
  *
  * @module themes/popover
  *

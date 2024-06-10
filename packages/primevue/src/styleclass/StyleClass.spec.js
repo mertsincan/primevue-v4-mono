@@ -1,6 +1,6 @@
 import { config, mount } from '@vue/test-utils';
-import Button from 'primevue/button';
-import InputText from 'primevue/inputtext';
+import Button from 'primevue-lab/button';
+import InputText from 'primevue-lab/inputtext';
 import StyleClass from './StyleClass';
 
 config.global.directives = {

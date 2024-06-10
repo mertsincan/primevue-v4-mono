@@ -19,7 +19,7 @@
                     <div v-for="(item, index) in slotProps.items" :key="index">
                         <div class="flex flex-col sm:flex-row sm:items-center p-6 gap-4" :class="{ 'border-t border-surface-200 dark:border-surface-700': index !== 0 }">
                             <div class="md:w-40 relative">
-                                <img class="block xl:block mx-auto rounded w-full" :src="`https://primefaces.org/cdn/primevue/images/product/${item.image}`" :alt="item.name" />
+                                <img class="block xl:block mx-auto rounded w-full" :src="`https://primefaces.org/cdn/primevue-lab/images/product/${item.image}`" :alt="item.name" />
                                 <Tag :value="item.inventoryStatus" :severity="getSeverity(item)" class="absolute dark:!bg-surface-900" style="left: 4px; top: 4px"></Tag>
                             </div>
                             <div class="flex flex-col md:flex-row justify-between md:items-center flex-1 gap-6">
@@ -29,15 +29,7 @@
                                         <div class="text-lg font-medium mt-2">{{ item.name }}</div>
                                     </div>
                                     <div class="bg-surface-100 p-1" style="border-radius: 30px">
-                                        <div
-                                            class="bg-surface-0 flex items-center gap-2 justify-center py-1 px-2"
-                                            style="
-                                                border-radius: 30px;
-                                                box-shadow:
-                                                    0px 1px 2px 0px rgba(0, 0, 0, 0.04),
-                                                    0px 1px 2px 0px rgba(0, 0, 0, 0.06);
-                                            "
-                                        >
+                                        <div class="bg-surface-0 flex items-center gap-2 justify-center py-1 px-2" style="border-radius: 30px; box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.04), 0px 1px 2px 0px rgba(0, 0, 0, 0.06)">
                                             <span class="text-surface-900 font-medium text-sm">{{ item.rating }}</span>
                                             <i class="pi pi-star-fill text-yellow-500"></i>
                                         </div>
@@ -62,7 +54,7 @@
                         <div class="p-6 border border-surface-200 dark:border-surface-700 bg-surface-0 dark:bg-surface-900 rounded flex flex-col">
                             <div class="bg-surface-50 flex justify-center rounded p-4">
                                 <div class="relative mx-auto">
-                                    <img class="rounded w-full" :src="`https://primefaces.org/cdn/primevue/images/product/${item.image}`" :alt="item.name" style="max-width: 300px" />
+                                    <img class="rounded w-full" :src="`https://primefaces.org/cdn/primevue-lab/images/product/${item.image}`" :alt="item.name" style="max-width: 300px" />
                                     <Tag :value="item.inventoryStatus" :severity="getSeverity(item)" class="absolute dark:!bg-surface-900" style="left: 4px; top: 4px"></Tag>
                                 </div>
                             </div>
@@ -73,15 +65,7 @@
                                         <div class="text-lg font-medium mt-1">{{ item.name }}</div>
                                     </div>
                                     <div class="bg-surface-100 p-1" style="border-radius: 30px">
-                                        <div
-                                            class="bg-surface-0 flex items-center gap-2 justify-center py-1 px-2"
-                                            style="
-                                                border-radius: 30px;
-                                                box-shadow:
-                                                    0px 1px 2px 0px rgba(0, 0, 0, 0.04),
-                                                    0px 1px 2px 0px rgba(0, 0, 0, 0.06);
-                                            "
-                                        >
+                                        <div class="bg-surface-0 flex items-center gap-2 justify-center py-1 px-2" style="border-radius: 30px; box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.04), 0px 1px 2px 0px rgba(0, 0, 0, 0.06)">
                                             <span class="text-surface-900 font-medium text-sm">{{ item.rating }}</span>
                                             <i class="pi pi-star-fill text-yellow-500"></i>
                                         </div>
@@ -131,7 +115,7 @@ export default {
             <div v-for="(item, index) in slotProps.items" :key="index">
                 <div class="flex flex-col sm:flex-row sm:items-center p-6 gap-4" :class="{ 'border-t border-surface-200 dark:border-surface-700': index !== 0 }">
                     <div class="md:w-40 relative">
-                        <img class="block xl:block mx-auto rounded w-full" :src="\`https://primefaces.org/cdn/primevue/images/product/\${item.image}\`" :alt="item.name" />
+                        <img class="block xl:block mx-auto rounded w-full" :src="\`https://primefaces.org/cdn/primevue-lab/images/product/\${item.image}\`" :alt="item.name" />
                         <Tag :value="item.inventoryStatus" :severity="getSeverity(item)" class="absolute dark:!bg-surface-900" style="left: 4px; top: 4px"></Tag>
                     </div>
                     <div class="flex flex-col md:flex-row justify-between md:items-center flex-1 gap-6">
@@ -166,7 +150,7 @@ export default {
                 <div class="p-6 border border-surface-200 dark:border-surface-700 bg-surface-0 dark:bg-surface-900 rounded flex flex-col">
                     <div class="bg-surface-50 flex justify-center rounded p-4">
                         <div class="relative mx-auto">
-                            <img class="rounded w-full" :src="\`https://primefaces.org/cdn/primevue/images/product/\${item.image}\`" :alt="item.name" style="max-width: 300px"/>
+                            <img class="rounded w-full" :src="\`https://primefaces.org/cdn/primevue-lab/images/product/\${item.image}\`" :alt="item.name" style="max-width: 300px"/>
                             <Tag :value="item.inventoryStatus" :severity="getSeverity(item)" class="absolute dark:!bg-surface-900" style="left: 4px; top: 4px"></Tag>
                         </div>
                     </div>
@@ -216,7 +200,7 @@ export default {
                     <div v-for="(item, index) in slotProps.items" :key="index">
                         <div class="flex flex-col sm:flex-row sm:items-center p-6 gap-4" :class="{ 'border-t border-surface-200 dark:border-surface-700': index !== 0 }">
                             <div class="md:w-40 relative">
-                                <img class="block xl:block mx-auto rounded w-full" :src="\`https://primefaces.org/cdn/primevue/images/product/\${item.image}\`" :alt="item.name" />
+                                <img class="block xl:block mx-auto rounded w-full" :src="\`https://primefaces.org/cdn/primevue-lab/images/product/\${item.image}\`" :alt="item.name" />
                                 <Tag :value="item.inventoryStatus" :severity="getSeverity(item)" class="absolute dark:!bg-surface-900" style="left: 4px; top: 4px"></Tag>
                             </div>
                             <div class="flex flex-col md:flex-row justify-between md:items-center flex-1 gap-6">
@@ -251,7 +235,7 @@ export default {
                         <div class="p-6 border border-surface-200 dark:border-surface-700 bg-surface-0 dark:bg-surface-900 rounded flex flex-col">
                             <div class="bg-surface-50 flex justify-center rounded p-4">
                                 <div class="relative mx-auto">
-                                    <img class="rounded w-full" :src="\`https://primefaces.org/cdn/primevue/images/product/\${item.image}\`" :alt="item.name" style="max-width: 300px"/>
+                                    <img class="rounded w-full" :src="\`https://primefaces.org/cdn/primevue-lab/images/product/\${item.image}\`" :alt="item.name" style="max-width: 300px"/>
                                     <Tag :value="item.inventoryStatus" :severity="getSeverity(item)" class="absolute dark:!bg-surface-900" style="left: 4px; top: 4px"></Tag>
                                 </div>
                             </div>
@@ -337,7 +321,7 @@ export default {
                     <div v-for="(item, index) in slotProps.items" :key="index"">
                         <div class="flex flex-col sm:flex-row sm:items-center p-6 gap-4" :class="{ 'border-t border-surface-200 dark:border-surface-700': index !== 0 }">
                             <div class="md:w-40 relative">
-                                <img class="block xl:block mx-auto rounded w-full" :src="\`https://primefaces.org/cdn/primevue/images/product/\${item.image}\`" :alt="item.name" />
+                                <img class="block xl:block mx-auto rounded w-full" :src="\`https://primefaces.org/cdn/primevue-lab/images/product/\${item.image}\`" :alt="item.name" />
                                 <Tag :value="item.inventoryStatus" :severity="getSeverity(item)" class="absolute dark:!bg-surface-900" style="left: 4px; top: 4px"></Tag>
                             </div>
                             <div class="flex flex-col md:flex-row justify-between md:items-center flex-1 gap-6">
@@ -372,7 +356,7 @@ export default {
                         <div class="p-6 border border-surface-200 dark:border-surface-700 bg-surface-0 dark:bg-surface-900 rounded flex flex-col">
                             <div class="bg-surface-50 flex justify-center rounded p-4">
                                 <div class="relative mx-auto">
-                                    <img class="rounded w-full" :src="\`https://primefaces.org/cdn/primevue/images/product/\${item.image}\`" :alt="item.name" style="max-width: 300px"/>
+                                    <img class="rounded w-full" :src="\`https://primefaces.org/cdn/primevue-lab/images/product/\${item.image}\`" :alt="item.name" style="max-width: 300px"/>
                                     <Tag :value="item.inventoryStatus" :severity="getSeverity(item)" class="absolute dark:!bg-surface-900" style="left: 4px; top: 4px"></Tag>
                                 </div>
                             </div>

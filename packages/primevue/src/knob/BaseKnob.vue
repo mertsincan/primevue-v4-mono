@@ -1,7 +1,7 @@
 <script>
-import BaseComponent from '@primevue/core/basecomponent';
-import { $dt } from '@primevue/themes';
-import KnobStyle from 'primevue/knob/style';
+import BaseComponent from '@primevue-lab/core/basecomponent';
+import { $dt } from '@primevue-lab/themes';
+import KnobStyle from 'primevue-lab/knob/style';
 
 export default {
     name: 'BaseKnob',

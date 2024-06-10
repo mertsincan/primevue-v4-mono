@@ -1,4 +1,4 @@
-import { DefineComponent, EmitFn } from '../../primevue/src/ts-helpers';
+import { DefineComponent, EmitFn } from '../../primevue-lab/src/ts-helpers';
 
 export interface IconProps {
     label?: string | undefined;

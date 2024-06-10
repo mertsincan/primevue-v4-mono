@@ -1,6 +1,6 @@
 <template>
     <Head>
-        <Title>Setup - PrimeVue</Title>
+        <Title>Setup - primevue-lab</Title>
         <Meta name="description" content="Setup guides for popular development environments." />
     </Head>
     <div class="doc">

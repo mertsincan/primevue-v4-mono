@@ -12,7 +12,7 @@ export default {
         return {
             code1: {
                 basic: `
-primevue: {
+primevue-lab: {
     importPT: { as: 'MyCustomPreset', from: path.resolve(__dirname, './presets/mypreset.js')}
 }
 `

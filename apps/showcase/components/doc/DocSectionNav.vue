@@ -21,7 +21,7 @@
 </template>
 
 <script>
-import { DomHandler, ObjectUtils } from '@primevue/core/utils';
+import { DomHandler, ObjectUtils } from '@primevue-lab/core/utils';
 
 export default {
     props: ['docs'],

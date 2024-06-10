@@ -2,7 +2,7 @@
  *
  * Breadcrumb Design Tokens
  *
- * [Live Demo](https://www.primevue.org/breadcrumb/)
+ * [Live Demo](https://www.primevue-lab.org/breadcrumb/)
  *
  * @module themes/breadcrumb
  *

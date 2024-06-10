@@ -1,13 +1,13 @@
 <template>
     <Head>
-        <Title>Tailwind CSS - PrimeVue</Title>
-        <Meta name="description" content="Integration between PrimeVue and Tailwind CSS" />
+        <Title>Tailwind CSS - primevue-lab</Title>
+        <Meta name="description" content="Integration between primevue-lab and Tailwind CSS" />
     </Head>
     <div class="doc">
         <div class="doc-main">
             <div class="doc-intro">
                 <h1>Tailwind CSS</h1>
-                <p>Integration between PrimeVue and Tailwind CSS.</p>
+                <p>Integration between primevue-lab and Tailwind CSS.</p>
             </div>
             <DocSections :docs="docs" />
         </div>
@@ -52,7 +52,7 @@ export default {
                 {
                     id: 'samples',
                     label: 'Samples',
-                    description: 'Example uses cases with PrimeVue and Tailwind CSS.',
+                    description: 'Example uses cases with primevue-lab and Tailwind CSS.',
                     children: [
                         {
                             id: 'colorpalette',

@@ -2,7 +2,7 @@
  *
  *  AnimateOnScroll manages PrimeFlex CSS classes declaratively to during enter/leave animations on scroll or on page load.
  *
- * [Live Demo](https://primevue.org/animateonscroll)
+ * [Live Demo](https://primevue-lab.org/animateonscroll)
  *
  * @module animateonscrollstyle
  *

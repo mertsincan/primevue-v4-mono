@@ -2,7 +2,7 @@
  *
  * DynamicDialogs can be created dynamically with any component as the content using a DialogService.
  *
- * [Live Demo](https://primevue.org/dynamicdialog)
+ * [Live Demo](https://primevue-lab.org/dynamicdialog)
  *
  * @module dynamicdialog
  *
@@ -33,13 +33,13 @@ export interface DynamicDialogEmitsOptions {}
 export declare type DynamicDialogEmits = EmitFn<DynamicDialogEmitsOptions>;
 
 /**
- * **PrimeVue - DynamicDialog**
+ * **primevue-lab - DynamicDialog**
  *
  * _DynamicDialogs can be created dynamically with any component as the content using a DialogService._
  *
- * [Live Demo](https://www.primevue.org/dynamicdialog/)
+ * [Live Demo](https://www.primevue-lab.org/dynamicdialog/)
  * --- ---
- * ![PrimeVue](https://primefaces.org/cdn/primevue/images/logo-100.png)
+ * ![primevue-lab](https://primefaces.org/cdn/primevue-lab/images/logo-100.png)
  *
  * @group Component
  *

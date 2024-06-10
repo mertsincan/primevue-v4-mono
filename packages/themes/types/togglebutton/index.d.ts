@@ -2,7 +2,7 @@
  *
  * ToggleButton Design Tokens
  *
- * [Live Demo](https://www.primevue.org/togglebutton/)
+ * [Live Demo](https://www.primevue-lab.org/togglebutton/)
  *
  * @module themes/togglebutton
  *

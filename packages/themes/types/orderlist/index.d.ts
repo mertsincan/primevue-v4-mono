@@ -2,7 +2,7 @@
  *
  * OrderList Design Tokens
  *
- * [Live Demo](https://www.primevue.org/orderlist/)
+ * [Live Demo](https://www.primevue-lab.org/orderlist/)
  *
  * @module themes/orderlist
  *

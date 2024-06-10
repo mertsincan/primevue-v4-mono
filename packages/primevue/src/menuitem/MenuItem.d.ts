@@ -1,6 +1,6 @@
 /**
  *
- * PrimeVue menu components share a common api to specify the menuitems and submenus.
+ * primevue-lab menu components share a common api to specify the menuitems and submenus.
  *
  * @module menuitem
  *

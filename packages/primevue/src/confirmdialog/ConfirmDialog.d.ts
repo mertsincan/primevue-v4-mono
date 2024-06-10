@@ -2,7 +2,7 @@
  *
  * ConfirmDialog uses a Dialog UI with confirmDialog method or <ConfirmDialog> tag.
  *
- * [Live Demo](https://www.primevue.org/confirmdialog)
+ * [Live Demo](https://www.primevue-lab.org/confirmdialog)
  *
  * @module confirmdialog
  *
@@ -269,13 +269,13 @@ export interface ConfirmDialogEmitsOptions {}
 export declare type ConfirmDialogEmits = EmitFn<ConfirmDialogEmitsOptions>;
 
 /**
- * **PrimeVue - ConfirmDialog**
+ * **primevue-lab - ConfirmDialog**
  *
  * _ConfirmDialog uses a Dialog UI with confirmDialog method or <ConfirmDialog> tag._
  *
- * [Live Demo](https://www.primevue.org/confirmdialog/)
+ * [Live Demo](https://www.primevue-lab.org/confirmdialog/)
  * --- ---
- * ![PrimeVue](https://primefaces.org/cdn/primevue/images/logo-100.png)
+ * ![primevue-lab](https://primefaces.org/cdn/primevue-lab/images/logo-100.png)
  *
  * @group Component
  *

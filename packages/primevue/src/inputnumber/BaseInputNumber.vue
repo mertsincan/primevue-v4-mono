@@ -1,6 +1,6 @@
 <script>
-import BaseComponent from '@primevue/core/basecomponent';
-import InputNumberStyle from 'primevue/inputnumber/style';
+import BaseComponent from '@primevue-lab/core/basecomponent';
+import InputNumberStyle from 'primevue-lab/inputnumber/style';
 
 export default {
     name: 'BaseInputNumber',

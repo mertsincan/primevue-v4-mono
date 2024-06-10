@@ -22,7 +22,7 @@
                 <Column field="name" header="Name"></Column>
                 <Column header="Image">
                     <template #body="slotProps">
-                        <img :src="`https://primefaces.org/cdn/primevue/images/product/${slotProps.data.image}`" :alt="slotProps.data.image" class="shadow-lg" width="64" />
+                        <img :src="`https://primefaces.org/cdn/primevue-lab/images/product/${slotProps.data.image}`" :alt="slotProps.data.image" class="shadow-lg" width="64" />
                     </template>
                 </Column>
                 <Column field="price" header="Price">
@@ -94,7 +94,7 @@ export default {
     <Column field="name" header="Name"></Column>
     <Column header="Image">
         <template #body="slotProps">
-            <img :src="\`https://primefaces.org/cdn/primevue/images/product/\${slotProps.data.image}\`" :alt="slotProps.data.image" class="shadow-lg" width="64" />
+            <img :src="\`https://primefaces.org/cdn/primevue-lab/images/product/\${slotProps.data.image}\`" :alt="slotProps.data.image" class="shadow-lg" width="64" />
         </template>
     </Column>
     <Column field="price" header="Price">
@@ -155,7 +155,7 @@ export default {
             <Column field="name" header="Name"></Column>
             <Column header="Image">
                 <template #body="slotProps">
-                    <img :src="\`https://primefaces.org/cdn/primevue/images/product/\${slotProps.data.image}\`" :alt="slotProps.data.image" class="shadow-lg" width="64" />
+                    <img :src="\`https://primefaces.org/cdn/primevue-lab/images/product/\${slotProps.data.image}\`" :alt="slotProps.data.image" class="shadow-lg" width="64" />
                 </template>
             </Column>
             <Column field="price" header="Price">
@@ -285,7 +285,7 @@ export default {
             <Column field="name" header="Name"></Column>
             <Column header="Image">
                 <template #body="slotProps">
-                    <img :src="\`https://primefaces.org/cdn/primevue/images/product/\${slotProps.data.image}\`" :alt="slotProps.data.image" class="shadow-lg" width="64" />
+                    <img :src="\`https://primefaces.org/cdn/primevue-lab/images/product/\${slotProps.data.image}\`" :alt="slotProps.data.image" class="shadow-lg" width="64" />
                 </template>
             </Column>
             <Column field="price" header="Price">
@@ -336,7 +336,7 @@ export default {
 
 <script setup>
 import { ref, onMounted } from 'vue';
-import { useToast } from 'primevue/usetoast';
+import { useToast } from 'primevue-lab/usetoast';
 import { ProductService } from '@/service/ProductService';
 
 const products = ref();

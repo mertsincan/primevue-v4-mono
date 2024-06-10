@@ -2,7 +2,7 @@
  *
  * Select Design Tokens
  *
- * [Live Demo](https://www.primevue.org/select/)
+ * [Live Demo](https://www.primevue-lab.org/select/)
  *
  * @module themes/select
  *

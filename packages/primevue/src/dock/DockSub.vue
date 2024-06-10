@@ -56,10 +56,10 @@
 </template>
 
 <script>
-import BaseComponent from '@primevue/core/basecomponent';
-import { DomHandler, ObjectUtils, UniqueComponentId } from '@primevue/core/utils';
-import Ripple from 'primevue/ripple';
-import Tooltip from 'primevue/tooltip';
+import BaseComponent from '@primevue-lab/core/basecomponent';
+import { DomHandler, ObjectUtils, UniqueComponentId } from '@primevue-lab/core/utils';
+import Ripple from 'primevue-lab/ripple';
+import Tooltip from 'primevue-lab/tooltip';
 import { mergeProps } from 'vue';
 
 export default {

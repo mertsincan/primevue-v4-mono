@@ -2,7 +2,7 @@
  *
  * MultiSelect is used to select multiple items from a collection.
  *
- * [Live Demo](https://www.primevue.org/multiselect/)
+ * [Live Demo](https://www.primevue-lab.org/multiselect/)
  *
  * @module multiselect
  *
@@ -505,27 +505,27 @@ export interface MultiSelectProps {
      */
     highlightOnSelect?: boolean | undefined;
     /**
-     * Text to be displayed in hidden accessible field when filtering returns any results. Defaults to value from PrimeVue locale configuration.
+     * Text to be displayed in hidden accessible field when filtering returns any results. Defaults to value from primevue-lab locale configuration.
      * @defaultValue '{0} results are available'
      */
     filterMessage?: string | undefined;
     /**
-     * Text to be displayed in hidden accessible field when options are selected. Defaults to value from PrimeVue locale configuration.
+     * Text to be displayed in hidden accessible field when options are selected. Defaults to value from primevue-lab locale configuration.
      * @defaultValue '{0} items selected'
      */
     selectionMessage?: string | undefined;
     /**
-     * Text to be displayed in hidden accessible field when any option is not selected. Defaults to value from PrimeVue locale configuration.
+     * Text to be displayed in hidden accessible field when any option is not selected. Defaults to value from primevue-lab locale configuration.
      * @defaultValue No selected item
      */
     emptySelectionMessage?: string | undefined;
     /**
-     * Text to display when filtering does not return any results. Defaults to value from PrimeVue locale configuration.
+     * Text to display when filtering does not return any results. Defaults to value from primevue-lab locale configuration.
      * @defaultValue No results found
      */
     emptyFilterMessage?: string | undefined;
     /**
-     * Text to display when there are no options available. Defaults to value from PrimeVue locale configuration.
+     * Text to display when there are no options available. Defaults to value from primevue-lab locale configuration.
      * @defaultValue No results found'
      */
     emptyMessage?: string | undefined;
@@ -876,13 +876,13 @@ export interface MultiSelectMethods {
 }
 
 /**
- * **PrimeVue - MultiSelect**
+ * **primevue-lab - MultiSelect**
  *
  * _MultiSelect is used to select multiple items from a collection._
  *
- * [Live Demo](https://www.primevue.org/multiselect/)
+ * [Live Demo](https://www.primevue-lab.org/multiselect/)
  * --- ---
- * ![PrimeVue](https://primefaces.org/cdn/primevue/images/logo-100.png)
+ * ![primevue-lab](https://primefaces.org/cdn/primevue-lab/images/logo-100.png)
  *
  * @group Component
  *

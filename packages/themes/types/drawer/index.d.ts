@@ -2,7 +2,7 @@
  *
  * Drawer Design Tokens
  *
- * [Live Demo](https://www.primevue.org/drawer/)
+ * [Live Demo](https://www.primevue-lab.org/drawer/)
  *
  * @module themes/drawer
  *

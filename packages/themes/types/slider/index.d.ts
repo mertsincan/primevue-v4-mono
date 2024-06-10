@@ -2,7 +2,7 @@
  *
  * Slider Design Tokens
  *
- * [Live Demo](https://www.primevue.org/slider/)
+ * [Live Demo](https://www.primevue-lab.org/slider/)
  *
  * @module themes/slider
  *

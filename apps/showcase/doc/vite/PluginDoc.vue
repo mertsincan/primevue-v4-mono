@@ -1,7 +1,7 @@
 <template>
     <DocSectionText v-bind="$attrs">
         <p>
-            PrimeVue plugin is required to be installed as an application plugin to set up the default <NuxtLink to="/configuration">configuration</NuxtLink>. The plugin is lightweight, only sets up the configuration object without affecting your
+            primevue-lab plugin is required to be installed as an application plugin to set up the default <NuxtLink to="/configuration">configuration</NuxtLink>. The plugin is lightweight, only sets up the configuration object without affecting your
             application.
         </p>
     </DocSectionText>
@@ -15,10 +15,10 @@ export default {
             code: {
                 basic: `
 import { createApp } from 'vue';
-import PrimeVue from 'primevue/config';
+import primevue-lab from 'primevue-lab/config';
 
 const app = createApp(App);
-app.use(PrimeVue);
+app.use(primevue-lab);
 `
             }
         };

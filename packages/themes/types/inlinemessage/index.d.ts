@@ -2,7 +2,7 @@
  *
  * InlineMessage Design Tokens
  *
- * [Live Demo](https://www.primevue.org/inlinemessage/)
+ * [Live Demo](https://www.primevue-lab.org/inlinemessage/)
  *
  * @module themes/inlinemessage
  *

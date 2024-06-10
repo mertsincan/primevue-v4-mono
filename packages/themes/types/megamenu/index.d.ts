@@ -2,7 +2,7 @@
  *
  * MegaMenu Design Tokens
  *
- * [Live Demo](https://www.primevue.org/megamenu/)
+ * [Live Demo](https://www.primevue-lab.org/megamenu/)
  *
  * @module themes/megamenu
  *

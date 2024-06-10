@@ -2,7 +2,7 @@
  *
  * SplitButton groups a set of commands in an overlay with a default command.
  *
- * [Live Demo](https://www.primevue.org/splitbutton/)
+ * [Live Demo](https://www.primevue-lab.org/splitbutton/)
  *
  * @module splitbuttonstyle
  *

@@ -2,7 +2,7 @@
  *
  * Chip Design Tokens
  *
- * [Live Demo](https://www.primevue.org/chip/)
+ * [Live Demo](https://www.primevue-lab.org/chip/)
  *
  * @module themes/chip
  *

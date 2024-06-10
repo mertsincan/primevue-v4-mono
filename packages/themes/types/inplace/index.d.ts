@@ -2,7 +2,7 @@
  *
  * Inplace Design Tokens
  *
- * [Live Demo](https://www.primevue.org/inplace/)
+ * [Live Demo](https://www.primevue-lab.org/inplace/)
  *
  * @module themes/inplace
  *

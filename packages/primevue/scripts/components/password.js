@@ -15,7 +15,7 @@ const PasswordProps = [
         name: 'promptLabel',
         type: 'string',
         default: 'null',
-        description: 'Text to prompt password entry. Defaults to PrimeVue Locale configuration.'
+        description: 'Text to prompt password entry. Defaults to primevue-lab Locale configuration.'
     },
     {
         name: 'mediumRegex',
@@ -33,19 +33,19 @@ const PasswordProps = [
         name: 'weakLabel',
         type: 'string',
         default: 'null',
-        description: 'Text for a weak password. Defaults to PrimeVue Locale configuration.'
+        description: 'Text for a weak password. Defaults to primevue-lab Locale configuration.'
     },
     {
         name: 'mediumLabel',
         type: 'string',
         default: 'null',
-        description: 'Text for a medium password. Defaults to PrimeVue Locale configuration.'
+        description: 'Text for a medium password. Defaults to primevue-lab Locale configuration.'
     },
     {
         name: 'strongLabel',
         type: 'string',
         default: 'null',
-        description: 'Text for a strong password. Defaults to PrimeVue Locale configuration.'
+        description: 'Text for a strong password. Defaults to primevue-lab Locale configuration.'
     },
     {
         name: 'feedback',

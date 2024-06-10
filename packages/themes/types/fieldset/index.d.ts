@@ -2,7 +2,7 @@
  *
  * Fieldset Design Tokens
  *
- * [Live Demo](https://www.primevue.org/fieldset/)
+ * [Live Demo](https://www.primevue-lab.org/fieldset/)
  *
  * @module themes/fieldset
  *

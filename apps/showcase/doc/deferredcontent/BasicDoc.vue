@@ -6,7 +6,7 @@
         <div style="height: 1000px">Scroll down to lazy load an image.</div>
 
         <DeferredContent @load="onImageLoad">
-            <img src="https://primefaces.org/cdn/primevue/images/nature/nature4.jpg" alt="Nature" />
+            <img src="https://primefaces.org/cdn/primevue-lab/images/nature/nature4.jpg" alt="Nature" />
         </DeferredContent>
     </div>
     <DocSectionCode :code="code" />
@@ -29,7 +29,7 @@ export default {
         <div style="height: 1000px">Scroll down to lazy load an image.</div>
 
         <DeferredContent @load="onImageLoad">
-            <img src="https://primefaces.org/cdn/primevue/images/nature/nature4.jpg" alt="Nature" />
+            <img src="https://primefaces.org/cdn/primevue-lab/images/nature/nature4.jpg" alt="Nature" />
         </DeferredContent>
     </div>
 </template>
@@ -51,7 +51,7 @@ export default {
         <div style="height: 1000px">Scroll down to lazy load an image.</div>
 
         <DeferredContent @load="onImageLoad">
-            <img src="https://primefaces.org/cdn/primevue/images/nature/nature4.jpg" alt="Nature" />
+            <img src="https://primefaces.org/cdn/primevue-lab/images/nature/nature4.jpg" alt="Nature" />
         </DeferredContent>
     </div>
 </template>

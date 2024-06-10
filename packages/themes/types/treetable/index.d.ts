@@ -2,7 +2,7 @@
  *
  * TreeTable Design Tokens
  *
- * [Live Demo](https://www.primevue.org/treetable/)
+ * [Live Demo](https://www.primevue-lab.org/treetable/)
  *
  * @module themes/treetable
  *

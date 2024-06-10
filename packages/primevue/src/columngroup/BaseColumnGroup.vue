@@ -1,6 +1,6 @@
 <script>
-import BaseComponent from '@primevue/core/basecomponent';
-import ColumnGroupStyle from 'primevue/columngroup/style';
+import BaseComponent from '@primevue-lab/core/basecomponent';
+import ColumnGroupStyle from 'primevue-lab/columngroup/style';
 
 export default {
     name: 'BaseColumnGroup',

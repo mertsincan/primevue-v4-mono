@@ -14,7 +14,7 @@ export default {
         return {
             code1: {
                 basic: `
-primevue: {
+primevue-lab: {
     directives: {
         include: ['Ripple', 'Tooltip']
     }
@@ -23,7 +23,7 @@ primevue: {
             },
             code2: {
                 basic: `
-primevue: {
+primevue-lab: {
     directives: {
         include: '*',
         exclude: ['Ripple']
@@ -33,7 +33,7 @@ primevue: {
             },
             code3: {
                 basic: `
-primevue: {
+primevue-lab: {
     directives: {
         prefix: 'p'
         include: ['Ripple', 'Tooltip']    /* Used as v-pripple and v-ptooltip */

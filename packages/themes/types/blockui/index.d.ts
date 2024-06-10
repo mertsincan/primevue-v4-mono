@@ -2,7 +2,7 @@
  *
  * BlockUI Design Tokens
  *
- * [Live Demo](https://www.primevue.org/blockui/)
+ * [Live Demo](https://www.primevue-lab.org/blockui/)
  *
  * @module themes/blockui
  *

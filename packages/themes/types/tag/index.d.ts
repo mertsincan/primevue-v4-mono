@@ -2,7 +2,7 @@
  *
  * Tag Design Tokens
  *
- * [Live Demo](https://www.primevue.org/tag/)
+ * [Live Demo](https://www.primevue-lab.org/tag/)
  *
  * @module themes/tag
  *

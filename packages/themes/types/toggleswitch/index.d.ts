@@ -2,7 +2,7 @@
  *
  * ToggleSwitch Design Tokens
  *
- * [Live Demo](https://www.primevue.org/toggleswitch/)
+ * [Live Demo](https://www.primevue-lab.org/toggleswitch/)
  *
  * @module themes/toggleswitch
  *

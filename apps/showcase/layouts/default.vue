@@ -18,7 +18,7 @@
 </template>
 
 <script>
-import { DomHandler } from '@primevue/core/utils';
+import { DomHandler } from '@primevue-lab/core/utils';
 import AppFooter from './AppFooter.vue';
 import AppMenu from './AppMenu.vue';
 import AppNews from './AppNews.vue';

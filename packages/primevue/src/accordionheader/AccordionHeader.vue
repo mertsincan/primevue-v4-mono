@@ -22,10 +22,10 @@
 </template>
 
 <script>
-import { DomHandler } from '@primevue/core/utils';
-import ChevronDownIcon from '@primevue/icons/chevrondown';
-import ChevronUpIcon from '@primevue/icons/chevronup';
-import Ripple from 'primevue/ripple';
+import { DomHandler } from '@primevue-lab/core/utils';
+import ChevronDownIcon from '@primevue-lab/icons/chevrondown';
+import ChevronUpIcon from '@primevue-lab/icons/chevronup';
+import Ripple from 'primevue-lab/ripple';
 import { mergeProps } from 'vue';
 import BaseAccordionHeader from './BaseAccordionHeader.vue';
 

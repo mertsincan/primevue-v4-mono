@@ -16,9 +16,9 @@
         "incremental": true,
         "baseUrl": ".",
         "paths": {
-            "primevue/*": ["./src/*"],
-            "@primevue/core/*": ["../../packages/core/src/*"],
-            "@primevue/icons/*": ["../../packages/icons/src/*"]
+            "primevue-lab/*": ["./src/*"],
+            "@primevue-lab/core/*": ["../../packages/core/src/*"],
+            "@primevue-lab/icons/*": ["../../packages/icons/src/*"]
         }
     },
     "include": ["**/*.ts", "src/*"],

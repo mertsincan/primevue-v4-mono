@@ -2,7 +2,7 @@
  *
  * Toast Design Tokens
  *
- * [Live Demo](https://www.primevue.org/toast/)
+ * [Live Demo](https://www.primevue-lab.org/toast/)
  *
  * @module themes/toast
  *

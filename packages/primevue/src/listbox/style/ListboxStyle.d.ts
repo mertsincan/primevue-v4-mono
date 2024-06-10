@@ -2,7 +2,7 @@
  *
  * ListBox is used to select one or more values from a list of items.
  *
- * [Live Demo](https://www.primevue.org/listbox/)
+ * [Live Demo](https://www.primevue-lab.org/listbox/)
  *
  * @module listboxstyle
  *

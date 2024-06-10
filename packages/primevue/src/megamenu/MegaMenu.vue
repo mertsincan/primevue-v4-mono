@@ -58,8 +58,8 @@
 </template>
 
 <script>
-import { DomHandler, ObjectUtils, UniqueComponentId, ZIndexUtils } from '@primevue/core/utils';
-import BarsIcon from '@primevue/icons/bars';
+import { DomHandler, ObjectUtils, UniqueComponentId, ZIndexUtils } from '@primevue-lab/core/utils';
+import BarsIcon from '@primevue-lab/icons/bars';
 import BaseMegaMenu from './BaseMegaMenu.vue';
 import MegaMenuSub from './MegaMenuSub.vue';
 

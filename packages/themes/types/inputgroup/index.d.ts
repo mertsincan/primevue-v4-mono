@@ -2,7 +2,7 @@
  *
  * InputGroup Design Tokens
  *
- * [Live Demo](https://www.primevue.org/inputgroup/)
+ * [Live Demo](https://www.primevue-lab.org/inputgroup/)
  *
  * @module themes/inputgroup
  *

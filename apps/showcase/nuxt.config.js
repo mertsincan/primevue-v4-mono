@@ -19,25 +19,25 @@ export default defineNuxtConfig({
                 disabled: true
             },
             alias: {
-                primevue: path.resolve(__dirname, '../../packages/primevue/src'),
-                '@primevue/core': path.resolve(__dirname, '../../packages/core/src'),
-                '@primevue/themes/aura': path.resolve(__dirname, '../../packages/themes/src/presets/aura'),
-                '@primevue/themes/lara': path.resolve(__dirname, '../../packages/themes/src/presets/lara'),
-                '@primevue/themes/nora': path.resolve(__dirname, '../../packages/themes/src/presets/nora'),
-                '@primevue/themes': path.resolve(__dirname, '../../packages/themes/src'),
-                '@primevue/icons': path.resolve(__dirname, '../../packages/icons/src')
+                'primevue-lab': path.resolve(__dirname, '../../packages/primevue/src'),
+                '@primevue-lab/core': path.resolve(__dirname, '../../packages/core/src'),
+                '@primevue-lab/themes/aura': path.resolve(__dirname, '../../packages/themes/src/presets/aura'),
+                '@primevue-lab/themes/lara': path.resolve(__dirname, '../../packages/themes/src/presets/lara'),
+                '@primevue-lab/themes/nora': path.resolve(__dirname, '../../packages/themes/src/presets/nora'),
+                '@primevue-lab/themes': path.resolve(__dirname, '../../packages/themes/src'),
+                '@primevue-lab/icons': path.resolve(__dirname, '../../packages/icons/src')
             }
         }
     },
     nitro: {
         alias: {
-            primevue: path.resolve(__dirname, '../../packages/primevue/src'),
-            '@primevue/core': path.resolve(__dirname, '../../packages/core/src'),
-            '@primevue/themes/aura': path.resolve(__dirname, '../../packages/themes/src/presets/aura'),
-            '@primevue/themes/lara': path.resolve(__dirname, '../../packages/themes/src/presets/lara'),
-            '@primevue/themes/nora': path.resolve(__dirname, '../../packages/themes/src/presets/nora'),
-            '@primevue/themes': path.resolve(__dirname, '../../packages/themes/src'),
-            '@primevue/icons': path.resolve(__dirname, '../../packages/icons/src')
+            'primevue-lab': path.resolve(__dirname, '../../packages/primevue/src'),
+            '@primevue-lab/core': path.resolve(__dirname, '../../packages/core/src'),
+            '@primevue-lab/themes/aura': path.resolve(__dirname, '../../packages/themes/src/presets/aura'),
+            '@primevue-lab/themes/lara': path.resolve(__dirname, '../../packages/themes/src/presets/lara'),
+            '@primevue-lab/themes/nora': path.resolve(__dirname, '../../packages/themes/src/presets/nora'),
+            '@primevue-lab/themes': path.resolve(__dirname, '../../packages/themes/src'),
+            '@primevue-lab/icons': path.resolve(__dirname, '../../packages/icons/src')
         }
     },
     routeRules: {
@@ -54,21 +54,21 @@ export default defineNuxtConfig({
     app: {
         baseURL: baseUrl,
         head: {
-            title: 'PrimeVue - Vue UI Component Library',
+            title: 'primevue-lab - Vue UI Component Library',
             meta: [
                 { charset: 'utf-8' },
                 { name: 'viewport', content: 'width=device-width, initial-scale=1' },
                 { name: 'description', content: 'The ultimate collection of design-agnostic, flexible and accessible Vue UI Components.' },
                 { name: 'robots', content: 'index,follow' },
                 { name: 'twitter:card', content: 'summary_large_image' },
-                { name: 'twitter:site', content: '@primevue' },
-                { name: 'twitter:title', content: 'PrimeVue | Vue UI Component Library' },
+                { name: 'twitter:site', content: '@primevue-lab' },
+                { name: 'twitter:title', content: 'primevue-lab | Vue UI Component Library' },
                 { name: 'twitter:description', content: 'The ultimate collection of design-agnostic, flexible and accessible Vue UI Components.' },
                 { property: 'og:type', content: 'website' },
-                { property: 'og:title', content: 'PrimeVue | Vue UI Component Library' },
-                { property: 'og:url', content: 'https://primevue.org/' },
+                { property: 'og:title', content: 'primevue-lab | Vue UI Component Library' },
+                { property: 'og:url', content: 'https://primevue-lab.org/' },
                 { property: 'og:description', content: 'The ultimate collection of design-agnostic, flexible and accessible Vue UI Components.' },
-                { property: 'og:image', content: 'https://www.primefaces.org/static/social/primevue-preview.jpg' },
+                { property: 'og:image', content: 'https://www.primefaces.org/static/social/primevue-lab-preview.jpg' },
                 { property: 'og:ttl', content: '604800' }
             ],
             link: [

@@ -2,7 +2,7 @@
  *
  * BlockUI represents people using icons, labels and images.
  *
- * [Live Demo](https://www.primevue.org/blockui)
+ * [Live Demo](https://www.primevue-lab.org/blockui)
  *
  * @module blockuistyle
  *

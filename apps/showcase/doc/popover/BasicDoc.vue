@@ -10,7 +10,7 @@
                 <div>
                     <span class="font-medium block mb-2">Share this document</span>
                     <InputGroup>
-                        <InputText value="https://primevue.org/12323ff26t2g243g423g234gg52hy25XADXAG3" readonly class="w-[25rem]"></InputText>
+                        <InputText value="https://primevue-lab.org/12323ff26t2g243g423g234gg52hy25XADXAG3" readonly class="w-[25rem]"></InputText>
                         <InputGroupAddon>
                             <i class="pi pi-copy"></i>
                         </InputGroupAddon>
@@ -27,7 +27,7 @@
                     <span class="font-medium block mb-2">Team Members</span>
                     <ul class="list-none p-0 m-0 flex flex-col gap-4">
                         <li v-for="member in members" :key="member.name" class="flex items-center gap-2">
-                            <img :src="`https://primefaces.org/cdn/primevue/images/avatar/${member.image}`" style="width: 32px" />
+                            <img :src="`https://primefaces.org/cdn/primevue-lab/images/avatar/${member.image}`" style="width: 32px" />
                             <div>
                                 <span class="font-medium">{{ member.name }}</span>
                                 <div class="text-sm text-surface-500 dark:text-surface-400">{{ member.email }}</div>
@@ -63,7 +63,7 @@ export default {
         <div>
             <span class="font-medium block mb-2">Share this document</span>
             <InputGroup>
-                <InputText value="https://primevue.org/12323ff26t2g243g423g234gg52hy25XADXAG3" readonly class="w-[25rem]"></InputText>
+                <InputText value="https://primevue-lab.org/12323ff26t2g243g423g234gg52hy25XADXAG3" readonly class="w-[25rem]"></InputText>
                 <InputGroupAddon>
                     <i class="pi pi-copy"></i>
                 </InputGroupAddon>
@@ -80,7 +80,7 @@ export default {
             <span class="font-medium block mb-2">Team Members</span>
             <ul class="list-none p-0 m-0 flex flex-col gap-4">
                 <li v-for="member in members" :key="member.name" class="flex items-center gap-2">
-                    <img :src="\`https://primefaces.org/cdn/primevue/images/avatar/\${member.image}\`" style="width: 32px" />
+                    <img :src="\`https://primefaces.org/cdn/primevue-lab/images/avatar/\${member.image}\`" style="width: 32px" />
                     <div>
                         <span class="font-medium">{{ member.name }}</span>
                         <div class="text-sm text-surface-500 dark:text-surface-400">{{ member.email }}</div>
@@ -105,7 +105,7 @@ export default {
                 <div>
                     <span class="font-medium block mb-2">Share this document</span>
                     <InputGroup>
-                        <InputText value="https://primevue.org/12323ff26t2g243g423g234gg52hy25XADXAG3" readonly class="w-[25rem]"></InputText>
+                        <InputText value="https://primevue-lab.org/12323ff26t2g243g423g234gg52hy25XADXAG3" readonly class="w-[25rem]"></InputText>
                         <InputGroupAddon>
                             <i class="pi pi-copy"></i>
                         </InputGroupAddon>
@@ -122,7 +122,7 @@ export default {
                     <span class="font-medium block mb-2">Team Members</span>
                     <ul class="list-none p-0 m-0 flex flex-col gap-4">
                         <li v-for="member in members" :key="member.name" class="flex items-center gap-2">
-                            <img :src="\`https://primefaces.org/cdn/primevue/images/avatar/\${member.image}\`" style="width: 32px" />
+                            <img :src="\`https://primefaces.org/cdn/primevue-lab/images/avatar/\${member.image}\`" style="width: 32px" />
                             <div>
                                 <span class="font-medium">{{ member.name }}</span>
                                 <div class="text-sm text-surface-500 dark:text-surface-400">{{ member.email }}</div>
@@ -168,7 +168,7 @@ export default {
                 <div>
                     <span class="font-medium block mb-2">Share this document</span>
                     <InputGroup>
-                        <InputText value="https://primevue.org/12323ff26t2g243g423g234gg52hy25XADXAG3" readonly class="w-[25rem]"></InputText>
+                        <InputText value="https://primevue-lab.org/12323ff26t2g243g423g234gg52hy25XADXAG3" readonly class="w-[25rem]"></InputText>
                         <InputGroupAddon>
                             <i class="pi pi-copy"></i>
                         </InputGroupAddon>
@@ -185,7 +185,7 @@ export default {
                     <span class="font-medium block mb-2">Team Members</span>
                     <ul class="list-none p-0 m-0 flex flex-col gap-4">
                         <li v-for="member in members" :key="member.name" class="flex items-center gap-2">
-                            <img :src="\`https://primefaces.org/cdn/primevue/images/avatar/\${member.image}\`" style="width: 32px" />
+                            <img :src="\`https://primefaces.org/cdn/primevue-lab/images/avatar/\${member.image}\`" style="width: 32px" />
                             <div>
                                 <span class="font-medium">{{ member.name }}</span>
                                 <div class="text-sm text-surface-500 dark:text-surface-400">{{ member.email }}</div>

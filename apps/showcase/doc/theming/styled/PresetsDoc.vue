@@ -18,7 +18,7 @@ export default {
         return {
             aura: {
                 basic: `
-import accordion from '@primevue/themes/aura/accordion';
+import accordion from '@primevue-lab/themes/aura/accordion';
 // ... imports of other component tokens
 
 export default {
@@ -406,7 +406,7 @@ export default {
             },
             lara: {
                 basic: `
-import accordion from '@primevue/themes/aura/accordion';
+import accordion from '@primevue-lab/themes/aura/accordion';
 // ... imports of other component tokens
 
 export default {
@@ -799,7 +799,7 @@ export default {
             },
             nora: {
                 basic: `
-import accordion from '@primevue/themes/aura/accordion';
+import accordion from '@primevue-lab/themes/aura/accordion';
 // ... imports of other component tokens
 
 export default {

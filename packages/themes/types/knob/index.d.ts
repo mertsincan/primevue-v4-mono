@@ -2,7 +2,7 @@
  *
  * Knob Design Tokens
  *
- * [Live Demo](https://www.primevue.org/knob/)
+ * [Live Demo](https://www.primevue-lab.org/knob/)
  *
  * @module themes/knob
  *

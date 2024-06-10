@@ -2,7 +2,7 @@
  *
  * IconField wraps an input and an icon.
  *
- * [Live Demo](https://www.primevue.org/inputtext/)
+ * [Live Demo](https://www.primevue-lab.org/inputtext/)
  *
  * @module iconfield
  *
@@ -106,13 +106,13 @@ export interface IconFieldEmitsOptions {}
 export declare type IconFieldEmits = EmitFn<IconFieldEmitsOptions>;
 
 /**
- * **PrimeVue - IconField**
+ * **primevue-lab - IconField**
  *
  * _IconField is used to select a boolean value._
  *
- * [Live Demo](https://www.primevue.org/inputtext/)
+ * [Live Demo](https://www.primevue-lab.org/inputtext/)
  * --- ---
- * ![PrimeVue](https://primefaces.org/cdn/primevue/images/logo-100.png)
+ * ![primevue-lab](https://primefaces.org/cdn/primevue-lab/images/logo-100.png)
  *
  * @group Component
  *

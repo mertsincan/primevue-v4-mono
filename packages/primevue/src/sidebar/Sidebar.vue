@@ -1,5 +1,5 @@
 <script>
-import Drawer from 'primevue/drawer';
+import Drawer from 'primevue-lab/drawer';
 
 export default {
     name: 'Sidebar',

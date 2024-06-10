@@ -91,10 +91,10 @@
 </template>
 
 <script>
-import { DomHandler, UniqueComponentId } from '@primevue/core/utils';
-import ChevronLeftIcon from '@primevue/icons/chevronleft';
-import ChevronRightIcon from '@primevue/icons/chevronright';
-import Ripple from 'primevue/ripple';
+import { DomHandler, UniqueComponentId } from '@primevue-lab/core/utils';
+import ChevronLeftIcon from '@primevue-lab/icons/chevronleft';
+import ChevronRightIcon from '@primevue-lab/icons/chevronright';
+import Ripple from 'primevue-lab/ripple';
 import { mergeProps } from 'vue';
 import BaseTabView from './BaseTabView.vue';
 

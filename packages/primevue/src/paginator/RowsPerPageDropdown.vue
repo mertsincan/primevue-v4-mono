@@ -18,8 +18,8 @@
 </template>
 
 <script>
-import BaseComponent from '@primevue/core/basecomponent';
-import Select from 'primevue/select';
+import BaseComponent from '@primevue-lab/core/basecomponent';
+import Select from 'primevue-lab/select';
 
 export default {
     name: 'RowsPerPageDropdown',
