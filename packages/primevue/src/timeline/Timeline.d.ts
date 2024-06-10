@@ -2,7 +2,7 @@
  *
  * Timeline visualizes a series of chained events.
  *
- * [Live Demo](https://primevue-lab.org/timeline)
+ * [Live Demo](https://primevuelab.org/timeline)
  *
  * @module timeline
  *
@@ -213,13 +213,13 @@ export interface TimelineEmitsOptions {}
 export declare type TimelineEmits = EmitFn<TimelineEmitsOptions>;
 
 /**
- * **primevue-lab - Timeline**
+ * **primevuelab - Timeline**
  *
  * _Timeline visualizes a series of chained events._
  *
- * [Live Demo](https://www.primevue-lab.org/timeline/)
+ * [Live Demo](https://www.primevuelab.org/timeline/)
  * --- ---
- * ![primevue-lab](https://primefaces.org/cdn/primevue-lab/images/logo-100.png)
+ * ![primevuelab](https://primefaces.org/cdn/primevuelab/images/logo-100.png)
  *
  * @group Component
  *

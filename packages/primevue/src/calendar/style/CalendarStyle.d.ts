@@ -2,7 +2,7 @@
  *
  * Calendar also known as DatePicker, is a form component to work with dates.
  *
- * [Live Demo](https://www.primevue-lab.org/datepicker/)
+ * [Live Demo](https://www.primevuelab.org/datepicker/)
  *
  * @module calendarstyle
  *

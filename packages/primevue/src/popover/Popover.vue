@@ -14,12 +14,12 @@
 </template>
 
 <script>
-import { ConnectedOverlayScrollHandler, DomHandler, UniqueComponentId, ZIndexUtils } from '@primevue-lab/core/utils';
-import { $dt } from '@primevue-lab/themes';
-import FocusTrap from 'primevue-lab/focustrap';
-import OverlayEventBus from 'primevue-lab/overlayeventbus';
-import Portal from 'primevue-lab/portal';
-import Ripple from 'primevue-lab/ripple';
+import { ConnectedOverlayScrollHandler, DomHandler, UniqueComponentId, ZIndexUtils } from '@primevuelab/core/utils';
+import { $dt } from '@primevuelab/themes';
+import FocusTrap from 'primevuelab/focustrap';
+import OverlayEventBus from 'primevuelab/overlayeventbus';
+import Portal from 'primevuelab/portal';
+import Ripple from 'primevuelab/ripple';
 import BasePopover from './BasePopover.vue';
 
 export default {

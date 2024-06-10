@@ -9,7 +9,7 @@ export default {
         return {
             code: {
                 basic: `
-import Knob from 'primevue-lab/knob';
+import Knob from 'primevuelab/knob';
 `
             }
         };

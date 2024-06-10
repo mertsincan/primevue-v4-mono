@@ -1,6 +1,6 @@
 /**
  *
- * [Live Demo](https://www.primevue-lab.org/)
+ * [Live Demo](https://www.primevuelab.org/)
  *
  * @module lara
  *

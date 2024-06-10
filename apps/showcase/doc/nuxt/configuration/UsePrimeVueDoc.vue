@@ -1,6 +1,6 @@
 <template>
     <DocSectionText v-bind="$attrs">
-        <p>Whether to install the primevue-lab plugin, defaults to <i>true</i>. Disable this option if you prefer to configure primevue-lab manually e.g. with a Nuxt plugin.</p>
+        <p>Whether to install the primevuelab plugin, defaults to <i>true</i>. Disable this option if you prefer to configure primevuelab manually e.g. with a Nuxt plugin.</p>
     </DocSectionText>
     <DocSectionCode :code="code" importCode hideToggleCode hideStackBlitz />
 </template>
@@ -11,8 +11,8 @@ export default {
         return {
             code: {
                 basic: `
-primevue-lab: {
-    useprimevue-lab: true
+primevuelab: {
+    useprimevuelab: true
 }
 `
             }

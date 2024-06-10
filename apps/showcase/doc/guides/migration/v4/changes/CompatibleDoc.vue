@@ -1,7 +1,7 @@
 <template>
     <DocSectionText v-bind="$attrs">
         <h4>Renamed Components</h4>
-        <p>Old names are deprecated but still functional, migrate to new import paths instead e.g. <i>primevue-lab/calendar</i> becomes <i>primevue-lab/datepicker</i>.</p>
+        <p>Old names are deprecated but still functional, migrate to new import paths instead e.g. <i>primevuelab/calendar</i> becomes <i>primevuelab/datepicker</i>.</p>
         <ul class="flex flex-col gap-2 leading-normal">
             <li><i class="mark">Calendar</i> -> <i class="mark">DatePicker</i>.</li>
             <li><i class="mark">Dropdown</i> -> <i class="mark">Select</i>.</li>
@@ -23,8 +23,8 @@
         <h4>Important Tickets</h4>
         <p>Issue tickets with detailed information about component internal changes.</p>
         <ul class="flex flex-col gap-2 leading-normal">
-            <li><a href="https://github.com/primefaces/primevue-lab/issues/5426" target="_blank" rel="noopener noreferrer" class="doc-link">#5426</a></li>
-            <li><a href="https://github.com/primefaces/primevue-lab/issues/5437" target="_blank" rel="noopener noreferrer" class="doc-link">#5437</a></li>
+            <li><a href="https://github.com/primefaces/primevuelab/issues/5426" target="_blank" rel="noopener noreferrer" class="doc-link">#5426</a></li>
+            <li><a href="https://github.com/primefaces/primevuelab/issues/5437" target="_blank" rel="noopener noreferrer" class="doc-link">#5437</a></li>
         </ul>
     </DocSectionText>
 </template>

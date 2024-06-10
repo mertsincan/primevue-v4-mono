@@ -2,7 +2,7 @@
  *
  * Focus Trap keeps focus within a certain DOM element while tabbing.
  *
- * [Live Demo](https://primevue-lab.org/focustrap)
+ * [Live Demo](https://primevuelab.org/focustrap)
  *
  * @module focustrap
  *
@@ -86,13 +86,13 @@ export interface FocusTrapDirectiveBinding extends Omit<DirectiveBinding, 'modif
 }
 
 /**
- * **primevue-lab - FocusTrap**
+ * **primevuelab - FocusTrap**
  *
  * _FocusTrap directive provides advisory information for a component._
  *
- * [Live Demo](https://www.primevue-lab.org/focustrap/)
+ * [Live Demo](https://www.primevuelab.org/focustrap/)
  * --- ---
- * ![primevue-lab](https://primefaces.org/cdn/primevue-lab/images/logo-100.png)
+ * ![primevuelab](https://primefaces.org/cdn/primevuelab/images/logo-100.png)
  *
  */
 declare const FocusTrap: ObjectDirective;

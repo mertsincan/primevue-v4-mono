@@ -75,10 +75,10 @@ describe('Button.vue', () => {
     it('should render default slot', () => {
         const wrapper = mount(Button, {
             slots: {
-                default: h('span', { class: 'ml-2 font-bold' }, 'Default primevue-lab Button')
+                default: h('span', { class: 'ml-2 font-bold' }, 'Default primevuelab Button')
             }
         });
 
-        expect(wrapper.html()).toBe(`<button class="p-button p-component" type="button" data-pc-name="button" data-pc-section="root"><span class="ml-2 font-bold">Default primevue-lab Button</span></button>`);
+        expect(wrapper.html()).toBe(`<button class="p-button p-component" type="button" data-pc-name="button" data-pc-section="root"><span class="ml-2 font-bold">Default primevuelab Button</span></button>`);
     });
 });

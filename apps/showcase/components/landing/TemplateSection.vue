@@ -11,29 +11,29 @@
         <section :class="['templates flex justify-center items-center flex-col mt-7', { 'templates-animation': setAnimation }]">
             <div class="flex md:flex-row flex-col gap-6 lg:gap-0">
                 <div class="template-block block-5 mr-2 lg:mb-0 flex justify-center items-center" :style="{ backgroundImage: imageBg('verona') }">
-                    <a class="templates-btn" target="_blank" href="https://verona.primevue-lab.org">Verona Preview</a>
+                    <a class="templates-btn" target="_blank" href="https://verona.primevuelab.org">Verona Preview</a>
                 </div>
                 <div class="template-block block-2 ml-2 flex justify-center items-center" :style="{ backgroundImage: imageBg('freya') }">
-                    <a class="templates-btn" target="_blank" href="https://freya.primevue-lab.org">Freya Preview</a>
+                    <a class="templates-btn" target="_blank" href="https://freya.primevuelab.org">Freya Preview</a>
                 </div>
             </div>
             <div class="flex my-6 md:flex-row flex-col gap-6 lg:gap-0">
                 <div class="template-block block-3 mr-2 lg:mb-0 flex justify-center items-center" :style="{ backgroundImage: imageBg('atlantis') }">
-                    <a class="templates-btn" target="_blank" href="https://atlantis.primevue-lab.org/">Atlantis Preview</a>
+                    <a class="templates-btn" target="_blank" href="https://atlantis.primevuelab.org/">Atlantis Preview</a>
                 </div>
                 <div class="template-block block-middle mr-2 hidden lg:flex justify-center items-center flex-col">
                     <img class="img-1" :src="templateImg()" height="110" />
                 </div>
                 <div class="template-block block-4 ml-2 flex justify-center items-center" :style="{ backgroundImage: imageBg('apollo') }">
-                    <a class="templates-btn" target="_blank" href="https://apollo.primevue-lab.org">Apollo Preview</a>
+                    <a class="templates-btn" target="_blank" href="https://apollo.primevuelab.org">Apollo Preview</a>
                 </div>
             </div>
             <div class="flex md:flex-row flex-col gap-6 lg:gap-0">
                 <div class="template-block block-1 mr-2 lg:mb-0 flex justify-center items-center" :style="{ backgroundImage: imageBg('diamond') }">
-                    <a class="templates-btn" target="_blank" href="https://diamond.primevue-lab.org">Diamond Preview</a>
+                    <a class="templates-btn" target="_blank" href="https://diamond.primevuelab.org">Diamond Preview</a>
                 </div>
                 <div class="template-block block-6 ml-2 flex justify-center items-center" :style="{ backgroundImage: imageBg('ultima') }">
-                    <a class="templates-btn" target="_blank" href="https://ultima.primevue-lab.org">Ultima Preview</a>
+                    <a class="templates-btn" target="_blank" href="https://ultima.primevuelab.org">Ultima Preview</a>
                 </div>
             </div>
             <div class="lines">
@@ -113,10 +113,10 @@ export default {
             const isDark = this.$appState.darkTheme;
             const url = template === 'templates-text' ? 'png' : 'jpg';
 
-            return `url('https://primefaces.org/cdn/primevue-lab/images/landing/templates/${template}-${isDark ? 'dark' : 'light'}.${url}')`;
+            return `url('https://primefaces.org/cdn/primevuelab/images/landing/templates/${template}-${isDark ? 'dark' : 'light'}.${url}')`;
         },
         templateImg() {
-            return `https://primefaces.org/cdn/primevue-lab/images/landing/templates/templates-text-noir-${this.$appState.darkTheme ? 'dark' : 'light'}.png`;
+            return `https://primefaces.org/cdn/primevuelab/images/landing/templates/templates-text-noir-${this.$appState.darkTheme ? 'dark' : 'light'}.png`;
         }
     }
 };

@@ -1,4 +1,4 @@
-import { $dt } from '@primevue-lab/themes';
+import { $dt } from '@primevuelab/themes';
 
 export default {
     innerWidth(el) {

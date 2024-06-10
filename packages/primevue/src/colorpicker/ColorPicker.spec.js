@@ -1,5 +1,4 @@
 import { mount } from '@vue/test-utils';
-import primevue-lab from 'primevue-lab/config';
 import ColorPicker from './ColorPicker.vue';
 
 describe('ColorPicker.vue', () => {
@@ -8,7 +7,7 @@ describe('ColorPicker.vue', () => {
     beforeEach(() => {
         wrapper = mount(ColorPicker, {
             global: {
-                plugins: [primevue-lab],
+                plugins: [primevue - lab],
                 stubs: {
                     teleport: true
                 }

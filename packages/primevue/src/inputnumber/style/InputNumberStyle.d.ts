@@ -2,7 +2,7 @@
  *
  * InputNumber is an input component to provide numerical input.
  *
- * [Live Demo](https://www.primevue-lab.org/inputnumber/)
+ * [Live Demo](https://www.primevuelab.org/inputnumber/)
  *
  * @module inputnumberstyle
  *

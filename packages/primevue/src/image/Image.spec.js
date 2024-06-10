@@ -1,12 +1,11 @@
 import { mount } from '@vue/test-utils';
-import primevue-lab from 'primevue-lab/config';
 import Image from './Image.vue';
 
 describe('Image.vue', () => {
     it('should exist', () => {
         const wrapper = mount(Image, {
             global: {
-                plugins: [primevue-lab],
+                plugins: [primevue - lab],
                 stubs: {
                     teleport: true
                 }
@@ -23,7 +22,7 @@ describe('Image.vue', () => {
     it('should preview', async () => {
         const wrapper = mount(Image, {
             global: {
-                plugins: [primevue-lab],
+                plugins: [primevue - lab],
                 stubs: {
                     teleport: true
                 }

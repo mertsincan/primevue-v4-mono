@@ -9,7 +9,7 @@ export default {
         return {
             code: {
                 basic: `
-import Menu from 'primevue-lab/menu';
+import Menu from 'primevuelab/menu';
 `
             }
         };

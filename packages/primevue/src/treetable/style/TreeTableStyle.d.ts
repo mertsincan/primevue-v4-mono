@@ -2,7 +2,7 @@
  *
  * TreeTable is used to display hierarchical data in tabular format.
  *
- * [Live Demo](https://www.primevue-lab.org/treetable/)
+ * [Live Demo](https://www.primevuelab.org/treetable/)
  *
  * @module treetablestyle
  *

@@ -1,6 +1,6 @@
 <script>
-import BaseComponent from '@primevue-lab/core/basecomponent';
-import OrganizationChartStyle from 'primevue-lab/organizationchart/style';
+import BaseComponent from '@primevuelab/core/basecomponent';
+import OrganizationChartStyle from 'primevuelab/organizationchart/style';
 
 export default {
     name: 'BaseOrganizationChart',

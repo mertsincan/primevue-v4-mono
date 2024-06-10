@@ -2,7 +2,7 @@
  *
  * Menubar is a horizontal menu component.
  *
- * [Live Demo](https://www.primevue-lab.org/menubar/)
+ * [Live Demo](https://www.primevuelab.org/menubar/)
  *
  * @module menubarstyle
  *

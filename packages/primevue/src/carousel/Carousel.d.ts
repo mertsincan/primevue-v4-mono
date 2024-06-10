@@ -2,7 +2,7 @@
  *
  * Carousel is a content slider featuring various customization options.
  *
- * [Live Demo](https://www.primevue-lab.org/carousel/)
+ * [Live Demo](https://www.primevuelab.org/carousel/)
  *
  * @module carousel
  *
@@ -381,13 +381,13 @@ export interface CarouselEmitsOptions {
 export declare type CarouselEmits = EmitFn<CarouselEmitsOptions>;
 
 /**
- * **primevue-lab - Carousel**
+ * **primevuelab - Carousel**
  *
  * _Carousel is a content slider featuring various customization options._
  *
- * [Live Demo](https://www.primevue-lab.org/carousel/)
+ * [Live Demo](https://www.primevuelab.org/carousel/)
  * --- ---
- * ![primevue-lab](https://primefaces.org/cdn/primevue-lab/images/logo-100.png)
+ * ![primevuelab](https://primefaces.org/cdn/primevuelab/images/logo-100.png)
  *
  * @group Component
  *

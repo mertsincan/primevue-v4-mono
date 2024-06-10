@@ -9,7 +9,7 @@ export default {
         return {
             code: {
                 basic: `
-import ProgressBar from 'primevue-lab/progressbar';
+import ProgressBar from 'primevuelab/progressbar';
 `
             }
         };

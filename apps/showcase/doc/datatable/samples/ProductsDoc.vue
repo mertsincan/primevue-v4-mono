@@ -45,7 +45,7 @@
                 <Column field="name" header="Name" sortable style="min-width: 16rem"></Column>
                 <Column header="Image">
                     <template #body="slotProps">
-                        <img :src="`https://primefaces.org/cdn/primevue-lab/images/product/${slotProps.data.image}`" :alt="slotProps.data.image" class="rounded" style="width: 64px" />
+                        <img :src="`https://primefaces.org/cdn/primevuelab/images/product/${slotProps.data.image}`" :alt="slotProps.data.image" class="rounded" style="width: 64px" />
                     </template>
                 </Column>
                 <Column field="price" header="Price" sortable style="min-width: 8rem">
@@ -76,7 +76,7 @@
 
     <Dialog v-model:visible="productDialog" :style="{ width: '450px' }" header="Product Details" :modal="true">
         <div class="flex flex-col gap-6 p-fluid">
-            <img v-if="product.image" :src="`https://primefaces.org/cdn/primevue-lab/images/product/${product.image}`" :alt="product.image" class="block m-auto pb-4" />
+            <img v-if="product.image" :src="`https://primefaces.org/cdn/primevuelab/images/product/${product.image}`" :alt="product.image" class="block m-auto pb-4" />
             <div>
                 <label for="name" class="block font-bold mb-3">Name</label>
                 <InputText id="name" v-model.trim="product.name" required="true" autofocus :invalid="submitted && !product.name" />
@@ -161,7 +161,7 @@
 
 <script>
 import { ProductService } from '@/service/ProductService';
-import { FilterMatchMode } from '@primevue-lab/core/api';
+import { FilterMatchMode } from '@primevuelab/core/api';
 
 export default {
     data() {
@@ -222,7 +222,7 @@ export default {
     <Column field="name" header="Name" sortable style="min-width: 16rem"></Column>
     <Column header="Image">
         <template #body="slotProps">
-            <img :src="\`https://primefaces.org/cdn/primevue-lab/images/product/\${slotProps.data.image}\`" :alt="slotProps.data.image" class="rounded" style="width: 64px" />
+            <img :src="\`https://primefaces.org/cdn/primevuelab/images/product/\${slotProps.data.image}\`" :alt="slotProps.data.image" class="rounded" style="width: 64px" />
         </template>
     </Column>
     <Column field="price" header="Price" sortable style="min-width: 8rem">
@@ -294,7 +294,7 @@ export default {
                 <Column field="name" header="Name" sortable style="min-width: 16rem"></Column>
                 <Column header="Image">
                     <template #body="slotProps">
-                        <img :src="\`https://primefaces.org/cdn/primevue-lab/images/product/\${slotProps.data.image}\`" :alt="slotProps.data.image" class="rounded" style="width: 64px" />
+                        <img :src="\`https://primefaces.org/cdn/primevuelab/images/product/\${slotProps.data.image}\`" :alt="slotProps.data.image" class="rounded" style="width: 64px" />
                     </template>
                 </Column>
                 <Column field="price" header="Price" sortable style="min-width: 8rem">
@@ -324,7 +324,7 @@ export default {
 
         <Dialog v-model:visible="productDialog" :style="{ width: '450px' }" header="Product Details" :modal="true">
             <div class="flex flex-col gap-6 p-fluid">
-                <img v-if="product.image" :src="\`https://primefaces.org/cdn/primevue-lab/images/product/\${product.image}\`" :alt="product.image" class="block m-auto pb-4" />
+                <img v-if="product.image" :src="\`https://primefaces.org/cdn/primevuelab/images/product/\${product.image}\`" :alt="product.image" class="block m-auto pb-4" />
                 <div>
                     <label for="name" class="block font-bold mb-3">Name</label>
                     <InputText id="name" v-model.trim="product.name" required="true" autofocus :invalid="submitted && !product.name" />
@@ -407,7 +407,7 @@ export default {
 </template>
 
 <script>
-import { FilterMatchMode } from '@primevue-lab/core/api';
+import { FilterMatchMode } from '@primevuelab/core/api';
 import { ProductService } from '@/service/ProductService';
 
 export default {
@@ -586,7 +586,7 @@ export default {
                 <Column field="name" header="Name" sortable style="min-width: 16rem"></Column>
                 <Column header="Image">
                     <template #body="slotProps">
-                        <img :src="\`https://primefaces.org/cdn/primevue-lab/images/product/\${slotProps.data.image}\`" :alt="slotProps.data.image" class="rounded" style="width: 64px" />
+                        <img :src="\`https://primefaces.org/cdn/primevuelab/images/product/\${slotProps.data.image}\`" :alt="slotProps.data.image" class="rounded" style="width: 64px" />
                     </template>
                 </Column>
                 <Column field="price" header="Price" sortable style="min-width: 8rem">
@@ -616,7 +616,7 @@ export default {
 
         <Dialog v-model:visible="productDialog" :style="{ width: '450px' }" header="Product Details" :modal="true">
             <div class="flex flex-col gap-6 p-fluid">
-                <img v-if="product.image" :src="\`https://primefaces.org/cdn/primevue-lab/images/product/\${product.image}\`" :alt="product.image" class="block m-auto pb-4" />
+                <img v-if="product.image" :src="\`https://primefaces.org/cdn/primevuelab/images/product/\${product.image}\`" :alt="product.image" class="block m-auto pb-4" />
                 <div>
                     <label for="name" class="block font-bold mb-3">Name</label>
                     <InputText id="name" v-model.trim="product.name" required="true" autofocus :invalid="submitted && !product.name" />
@@ -700,8 +700,8 @@ export default {
 
 <script setup>
 import { ref, onMounted } from 'vue';
-import { FilterMatchMode } from '@primevue-lab/core/api';
-import { useToast } from 'primevue-lab/usetoast';
+import { FilterMatchMode } from '@primevuelab/core/api';
+import { useToast } from 'primevuelab/usetoast';
 import { ProductService } from '@/service/ProductService';
 
 onMounted(() => {

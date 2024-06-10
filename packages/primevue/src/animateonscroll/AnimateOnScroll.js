@@ -1,4 +1,4 @@
-import { DomHandler } from '@primevue-lab/core/utils';
+import { DomHandler } from '@primevuelab/core/utils';
 import BaseAnimateOnScroll from './BaseAnimateOnScroll';
 
 const AnimateOnScroll = BaseAnimateOnScroll.extend('animateonscroll', {

@@ -9,7 +9,7 @@ export default {
         return {
             code: {
                 basic: `
-import Paginator from 'primevue-lab/paginator';
+import Paginator from 'primevuelab/paginator';
 `
             }
         };

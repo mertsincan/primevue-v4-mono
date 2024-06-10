@@ -144,7 +144,7 @@ export default {
                     const _css = SharedUtils.object.minifyCSS(value?.css);
                     const id = `${key}-variables`;
 
-                    acc.push(`<style type="text/css" data-primevue-lab-style-id="${id}" ${_props}>${_css}</style>`);
+                    acc.push(`<style type="text/css" data-primevuelab-style-id="${id}" ${_props}>${_css}</style>`);
                 }
 
                 return acc;
@@ -158,7 +158,7 @@ export default {
             .reduce((acc, [k, v]) => acc.push(`${k}="${v}"`) && acc, [])
             .join(' ');
 
-        return preset_css ? `<style type="text/css" data-primevue-lab-style-id="${name}-variables" ${_props}>${SharedUtils.object.minifyCSS(preset_css)}</style>` : '';
+        return preset_css ? `<style type="text/css" data-primevuelab-style-id="${name}-variables" ${_props}>${SharedUtils.object.minifyCSS(preset_css)}</style>` : '';
     },
     createTokens(obj = {}, defaults, parentKey = '', parentPath = '', tokens = {}) {
         Object.entries(obj).forEach(([key, value]) => {

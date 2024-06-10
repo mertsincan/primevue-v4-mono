@@ -16,7 +16,7 @@
 </template>
 
 <script>
-import TerminalService from 'primevue-lab/terminalservice';
+import TerminalService from 'primevuelab/terminalservice';
 import BaseTerminal from './BaseTerminal.vue';
 
 export default {

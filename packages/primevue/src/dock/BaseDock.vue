@@ -1,6 +1,6 @@
 <script>
-import BaseComponent from '@primevue-lab/core/basecomponent';
-import DockStyle from 'primevue-lab/dock/style';
+import BaseComponent from '@primevuelab/core/basecomponent';
+import DockStyle from 'primevuelab/dock/style';
 
 export default {
     name: 'BaseDock',

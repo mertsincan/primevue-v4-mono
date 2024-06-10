@@ -2,7 +2,7 @@
  *
  * InputGroup displays text, icon, buttons and other content can be grouped next to an input.
  *
- * [Live Demo](https://www.primevue-lab.org/inputgroup/)
+ * [Live Demo](https://www.primevuelab.org/inputgroup/)
  *
  * @module inputgroup
  *
@@ -107,13 +107,13 @@ export interface InputGroupEmitsOptions {}
 export declare type InputGroupEmits = EmitFn<InputGroupEmitsOptions>;
 
 /**
- * **primevue-lab - InputGroup**
+ * **primevuelab - InputGroup**
  *
  * _InputGroup displays text, icon, buttons and other content can be grouped next to an input._
  *
- * [Live Demo](https://www.primevue-lab.org/inputgroup/)
+ * [Live Demo](https://www.primevuelab.org/inputgroup/)
  * --- ---
- * ![primevue-lab](https://primefaces.org/cdn/primevue-lab/images/logo-100.png)
+ * ![primevuelab](https://primefaces.org/cdn/primevuelab/images/logo-100.png)
  *
  * @group Component
  *

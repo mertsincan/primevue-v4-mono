@@ -1,6 +1,6 @@
 <script>
-import BaseComponent from '@primevue-lab/core/basecomponent';
-import PickListStyle from 'primevue-lab/picklist/style';
+import BaseComponent from '@primevuelab/core/basecomponent';
+import PickListStyle from 'primevuelab/picklist/style';
 
 export default {
     name: 'BasePickList',

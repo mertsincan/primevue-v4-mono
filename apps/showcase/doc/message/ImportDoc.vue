@@ -9,7 +9,7 @@ export default {
         return {
             code: {
                 basic: `
-import Message from 'primevue-lab/message';
+import Message from 'primevuelab/message';
 `
             }
         };

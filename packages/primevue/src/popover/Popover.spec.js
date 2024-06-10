@@ -1,5 +1,4 @@
 import { mount } from '@vue/test-utils';
-import primevue-lab from 'primevue-lab/config';
 import Popover from './Popover.vue';
 
 describe('Popover.vue', () => {
@@ -8,7 +7,7 @@ describe('Popover.vue', () => {
     beforeEach(async () => {
         wrapper = mount(Popover, {
             global: {
-                plugins: [primevue-lab],
+                plugins: [primevue - lab],
                 stubs: {
                     teleport: true
                 }
@@ -17,7 +16,7 @@ describe('Popover.vue', () => {
                 showCloseIcon: true
             },
             slots: {
-                default: 'primevue-lab'
+                default: 'primevuelab'
             }
         });
 
@@ -27,7 +26,7 @@ describe('Popover.vue', () => {
     it('should exist', () => {
         expect(wrapper.find('.p-popover.p-component').exists()).toBe(true);
         expect(wrapper.find('.p-popover-content').exists()).toBe(true);
-        expect(wrapper.find('.p-popover-content').text()).toBe('primevue-lab');
+        expect(wrapper.find('.p-popover-content').text()).toBe('primevuelab');
         expect(wrapper.find('.p-popover-close').exists()).toBe(true);
     });
 });

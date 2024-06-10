@@ -1,6 +1,6 @@
 <script>
-import BaseComponent from '@primevue-lab/core/basecomponent';
-import AutoCompleteStyle from 'primevue-lab/autocomplete/style';
+import BaseComponent from '@primevuelab/core/basecomponent';
+import AutoCompleteStyle from 'primevuelab/autocomplete/style';
 
 export default {
     name: 'BaseAutoComplete',

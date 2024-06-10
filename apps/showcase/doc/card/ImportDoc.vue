@@ -9,7 +9,7 @@ export default {
         return {
             code: {
                 basic: `
-import Card from 'primevue-lab/card';
+import Card from 'primevuelab/card';
 `
             }
         };

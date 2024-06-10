@@ -35,8 +35,8 @@
 </template>
 
 <script>
-import { DomHandler, ObjectUtils, UniqueComponentId, ZIndexUtils } from '@primevue-lab/core/utils';
-import Portal from 'primevue-lab/portal';
+import { DomHandler, ObjectUtils, UniqueComponentId, ZIndexUtils } from '@primevuelab/core/utils';
+import Portal from 'primevuelab/portal';
 import BaseContextMenu from './BaseContextMenu.vue';
 import ContextMenuSub from './ContextMenuSub.vue';
 

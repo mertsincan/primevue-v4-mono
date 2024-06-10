@@ -9,7 +9,7 @@ export default {
         return {
             code: {
                 basic: `
-import Panel from 'primevue-lab/panel';
+import Panel from 'primevuelab/panel';
 `
             }
         };

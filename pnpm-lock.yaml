@@ -36,13 +36,13 @@ importers:
       '@babel/preset-env':
         specifier: ^7.21.5
         version: 7.24.7(@babel/core@7.24.7)
-      '@primevue-lab/core':
+      '@primevuelab/core':
         specifier: workspace:*
         version: link:../../packages/core/dist
-      '@primevue-lab/nuxt-module':
+      '@primevuelab/nuxt-module':
         specifier: workspace:*
         version: link:../../packages/nuxt-module
-      '@primevue-lab/themes':
+      '@primevuelab/themes':
         specifier: workspace:*
         version: link:../../packages/themes/dist
       '@rollup/plugin-alias':
@@ -99,7 +99,7 @@ importers:
       primeicons:
         specifier: ^7.0.0
         version: 7.0.0
-      primevue-lab:
+      primevuelab:
         specifier: workspace:*
         version: link:../../packages/primevue/dist
       quill:
@@ -148,7 +148,7 @@ importers:
 
   packages/core:
     dependencies:
-      '@primevue-lab/themes':
+      '@primevuelab/themes':
         specifier: workspace:*
         version: link:../themes/dist
     devDependencies:
@@ -177,7 +177,7 @@ importers:
 
   packages/icons:
     dependencies:
-      '@primevue-lab/core':
+      '@primevuelab/core':
         specifier: workspace:*
         version: link:../core/dist
     devDependencies:
@@ -212,7 +212,7 @@ importers:
       pathe:
         specifier: ^1.1.2
         version: 1.1.2
-      primevue-lab:
+      primevuelab:
         specifier: workspace:*
         version: link:../primevue/dist
     devDependencies:
@@ -255,10 +255,10 @@ importers:
 
   packages/primevue:
     dependencies:
-      '@primevue-lab/core':
+      '@primevuelab/core':
         specifier: workspace:*
         version: link:../core/dist
-      '@primevue-lab/icons':
+      '@primevuelab/icons':
         specifier: workspace:*
         version: link:../icons/dist
       vue:

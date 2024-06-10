@@ -3,7 +3,7 @@
  *
  * TabView is a container component to group content with tabs.
  *
- * [Live Demo](https://www.primevue-lab.org/tabview/)
+ * [Live Demo](https://www.primevuelab.org/tabview/)
  *
  * @module tabview
  *

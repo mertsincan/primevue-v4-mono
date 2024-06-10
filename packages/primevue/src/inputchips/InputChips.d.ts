@@ -2,7 +2,7 @@
  *
  * InputChips groups a collection of contents in tabs.
  *
- * [Live Demo](https://www.primevue-lab.org/inputchips/)
+ * [Live Demo](https://www.primevuelab.org/inputchips/)
  *
  * @module inputchips
  *
@@ -327,13 +327,13 @@ export interface InputChipsEmitsOptions {
 export declare type InputChipsEmits = EmitFn<InputChipsEmitsOptions>;
 
 /**
- * **primevue-lab - InputChips**
+ * **primevuelab - InputChips**
  *
  * _InputChips is used to enter multiple values on an input field._
  *
- * [Live Demo](https://www.primevue-lab.org/inputchips/)
+ * [Live Demo](https://www.primevuelab.org/inputchips/)
  * --- ---
- * ![primevue-lab](https://primefaces.org/cdn/primevue-lab/images/logo-100.png)
+ * ![primevuelab](https://primefaces.org/cdn/primevuelab/images/logo-100.png)
  *
  * @group Component
  *

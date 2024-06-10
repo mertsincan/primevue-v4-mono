@@ -2,7 +2,7 @@
  *
  * AutoComplete is an input component that provides real-time suggestions while being typed.
  *
- * [Live Demo](https://www.primevue-lab.org/autocomplete/)
+ * [Live Demo](https://www.primevuelab.org/autocomplete/)
  *
  * @module autocompletestyle
  *

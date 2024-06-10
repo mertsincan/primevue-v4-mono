@@ -1,7 +1,7 @@
 <template>
     <div>
         <Head>
-            <Title>Styled Mode - primevue-lab</Title>
+            <Title>Styled Mode - primevuelab</Title>
             <Meta name="description" content="Choose from a variety of pre-styled themes or develop your own." />
         </Head>
 
@@ -188,7 +188,7 @@ export default {
                 {
                     id: 'csslayer',
                     label: 'CSS Layer',
-                    description: 'The primevue-lab CSS layer only applies to styled mode when layering is enabled explicitly at theme configuration, in unstyled mode the built-in CSS classes are not included and as a result no layer is necessary.',
+                    description: 'The primevuelab CSS layer only applies to styled mode when layering is enabled explicitly at theme configuration, in unstyled mode the built-in CSS classes are not included and as a result no layer is necessary.',
                     children: [
                         {
                             id: 'specificity',

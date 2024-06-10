@@ -9,7 +9,7 @@ export default {
         return {
             code: {
                 basic: `
-import DynamicDialog from 'primevue-lab/dynamicdialog';
+import DynamicDialog from 'primevuelab/dynamicdialog';
 `
             }
         };

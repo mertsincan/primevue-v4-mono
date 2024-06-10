@@ -2,7 +2,7 @@
  *
  * Tabs facilitates seamless switching between different views.
  *
- * [Live Demo](https://www.primevue-lab.org/tabs/)
+ * [Live Demo](https://www.primevuelab.org/tabs/)
  *
  * @module tabsstyle
  *

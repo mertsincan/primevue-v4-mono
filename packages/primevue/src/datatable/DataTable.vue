@@ -280,13 +280,13 @@
 </template>
 
 <script>
-import { FilterMatchMode, FilterOperator, FilterService } from '@primevue-lab/core/api';
-import { DomHandler, HelperSet, ObjectUtils, UniqueComponentId } from '@primevue-lab/core/utils';
-import ArrowDownIcon from '@primevue-lab/icons/arrowdown';
-import ArrowUpIcon from '@primevue-lab/icons/arrowup';
-import SpinnerIcon from '@primevue-lab/icons/spinner';
-import Paginator from 'primevue-lab/paginator';
-import VirtualScroller from 'primevue-lab/virtualscroller';
+import { FilterMatchMode, FilterOperator, FilterService } from '@primevuelab/core/api';
+import { DomHandler, HelperSet, ObjectUtils, UniqueComponentId } from '@primevuelab/core/utils';
+import ArrowDownIcon from '@primevuelab/icons/arrowdown';
+import ArrowUpIcon from '@primevuelab/icons/arrowup';
+import SpinnerIcon from '@primevuelab/icons/spinner';
+import Paginator from 'primevuelab/paginator';
+import VirtualScroller from 'primevuelab/virtualscroller';
 import BaseDataTable from './BaseDataTable.vue';
 import TableBody from './TableBody.vue';
 import TableFooter from './TableFooter.vue';

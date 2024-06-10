@@ -111,13 +111,13 @@
 </template>
 
 <script>
-import { ConnectedOverlayScrollHandler, DomHandler, UniqueComponentId, ZIndexUtils } from '@primevue-lab/core/utils';
-import ChevronDownIcon from '@primevue-lab/icons/chevrondown';
-import Chip from 'primevue-lab/chip';
-import OverlayEventBus from 'primevue-lab/overlayeventbus';
-import Portal from 'primevue-lab/portal';
-import Ripple from 'primevue-lab/ripple';
-import Tree from 'primevue-lab/tree';
+import { ConnectedOverlayScrollHandler, DomHandler, UniqueComponentId, ZIndexUtils } from '@primevuelab/core/utils';
+import ChevronDownIcon from '@primevuelab/icons/chevrondown';
+import Chip from 'primevuelab/chip';
+import OverlayEventBus from 'primevuelab/overlayeventbus';
+import Portal from 'primevuelab/portal';
+import Ripple from 'primevuelab/ripple';
+import Tree from 'primevuelab/tree';
 import BaseTreeSelect from './BaseTreeSelect.vue';
 
 export default {

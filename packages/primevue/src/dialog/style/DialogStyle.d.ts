@@ -2,7 +2,7 @@
  *
  * Dialog is a container to display content in an overlay window.
  *
- * [Live Demo](https://www.primevue-lab.org/dialog)
+ * [Live Demo](https://www.primevuelab.org/dialog)
  *
  * @module dialogstyle
  *

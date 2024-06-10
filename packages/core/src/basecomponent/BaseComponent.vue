@@ -1,8 +1,8 @@
 <script>
-import Base from '@primevue-lab/core/base';
-import BaseStyle from '@primevue-lab/core/base/style';
-import { DomHandler, ObjectUtils, UniqueComponentId } from '@primevue-lab/core/utils';
-import { Theme, ThemeService } from '@primevue-lab/themes';
+import Base from '@primevuelab/core/base';
+import BaseStyle from '@primevuelab/core/base/style';
+import { DomHandler, ObjectUtils, UniqueComponentId } from '@primevuelab/core/utils';
+import { Theme, ThemeService } from '@primevuelab/themes';
 import { mergeProps } from 'vue';
 import BaseComponentStyle from './style/BaseComponentStyle';
 

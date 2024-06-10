@@ -9,7 +9,7 @@ export default {
         return {
             code: {
                 basic: `
-import SplitButton from 'primevue-lab/splitbutton';
+import SplitButton from 'primevuelab/splitbutton';
 `
             }
         };

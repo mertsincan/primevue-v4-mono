@@ -7,7 +7,7 @@
             <template #message="slotProps">
                 <div class="flex flex-col items-start flex-auto">
                     <div class="flex items-center gap-2">
-                        <Avatar image="https://primefaces.org/cdn/primevue-lab/images/avatar/amyelsner.png" shape="circle" />
+                        <Avatar image="https://primefaces.org/cdn/primevuelab/images/avatar/amyelsner.png" shape="circle" />
                         <span class="font-bold">Amy Elsner</span>
                     </div>
                     <div class="font-medium text-lg my-4">{{ slotProps.message.summary }}</div>
@@ -31,7 +31,7 @@ export default {
     <template #message="slotProps">
         <div class="flex flex-col items-start flex-auto">
             <div class="flex items-center gap-2">
-                <Avatar image="https://primefaces.org/cdn/primevue-lab/images/avatar/amyelsner.png" shape="circle" />
+                <Avatar image="https://primefaces.org/cdn/primevuelab/images/avatar/amyelsner.png" shape="circle" />
                 <span class="font-bold">Amy Elsner</span>
             </div>
             <div class="font-medium text-lg my-4">{{ slotProps.message.summary }}</div>
@@ -48,7 +48,7 @@ export default {
             <template #message="slotProps">
                 <div class="flex flex-col items-start flex-auto">
                     <div class="flex items-center gap-2">
-                        <Avatar image="https://primefaces.org/cdn/primevue-lab/images/avatar/amyelsner.png" shape="circle" />
+                        <Avatar image="https://primefaces.org/cdn/primevuelab/images/avatar/amyelsner.png" shape="circle" />
                         <span class="font-bold">Amy Elsner</span>
                     </div>
                     <div class="font-medium text-lg my-4">{{ slotProps.message.summary }}</div>
@@ -92,7 +92,7 @@ export default {
             <template #message="slotProps">
                 <div class="flex flex-col items-start flex-auto">
                     <div class="flex items-center gap-2">
-                        <Avatar image="https://primefaces.org/cdn/primevue-lab/images/avatar/amyelsner.png" shape="circle" />
+                        <Avatar image="https://primefaces.org/cdn/primevuelab/images/avatar/amyelsner.png" shape="circle" />
                         <span class="font-bold">Amy Elsner</span>
                     </div>
                     <div class="font-medium text-lg my-4">{{ slotProps.message.summary }}</div>
@@ -105,7 +105,7 @@ export default {
 </template>
 
 <script setup>
-import { useToast } from "primevue-lab/usetoast";
+import { useToast } from "primevuelab/usetoast";
 import { ref } from 'vue';
 const toast = useToast();
 const visible = ref(false);

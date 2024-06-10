@@ -1,4 +1,4 @@
-import { GlobalComponentConstructor } from '../../../primevue-lab/src/ts-helpers';
+import { GlobalComponentConstructor } from '../../../primevuelab/src/ts-helpers';
 import { Icon } from '../../icons/index';
 
 declare class BanIcon extends Icon {}

@@ -1,8 +1,9 @@
+
 /**
  *
  * OrderList Design Tokens
  *
- * [Live Demo](https://www.primevue-lab.org/orderlist/)
+ * [Live Demo](https://www.primevuelab.org/orderlist/)
  *
  * @module themes/orderlist
  *
@@ -11,26 +12,29 @@
 import { ColorSchemeDesignToken } from '..';
 
 export interface OrderListDesignTokens extends ColorSchemeDesignToken<OrderListDesignTokens> {
+
     /**
-     * Used to pass tokens of the root section
-     */
+    * Used to pass tokens of the root section
+    */
     root?: {
-        /**
-         * Gap of root
-         *
-         * @designToken orderlist.gap
-         */
-        gap?: string;
-    };
+        
     /**
-     * Used to pass tokens of the controls section
-     */
+    * Gap of root
+    *
+    * @designToken orderlist.gap
+    */
+    gap?: string;
+    }
+    /**
+    * Used to pass tokens of the controls section
+    */
     controls?: {
-        /**
-         * Gap of controls
-         *
-         * @designToken orderlist.controls.gap
-         */
-        gap?: string;
-    };
+        
+    /**
+    * Gap of controls
+    *
+    * @designToken orderlist.controls.gap
+    */
+    gap?: string;
+    }
 }

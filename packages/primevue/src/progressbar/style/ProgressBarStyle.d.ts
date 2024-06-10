@@ -2,7 +2,7 @@
  *
  * ProgressBar is a process status indicator.
  *
- * [Live Demo](https://www.primevue-lab.org/progressbar)
+ * [Live Demo](https://www.primevuelab.org/progressbar)
  *
  * @module progressbarstyle
  *

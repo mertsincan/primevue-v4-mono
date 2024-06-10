@@ -9,7 +9,7 @@ export default {
         return {
             code: {
                 basic: `
-import ScrollTop from 'primevue-lab/scrolltop';
+import ScrollTop from 'primevuelab/scrolltop';
 `
             }
         };

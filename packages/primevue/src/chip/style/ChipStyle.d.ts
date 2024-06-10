@@ -2,7 +2,7 @@
  *
  * Chip represents people using icons, labels and images.
  *
- * [Live Demo](https://www.primevue-lab.org/chip)
+ * [Live Demo](https://www.primevuelab.org/chip)
  *
  * @module chipstyle
  *

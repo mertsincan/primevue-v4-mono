@@ -2,7 +2,7 @@
  *
  * InputNumber is an input component to provide numerical input.
  *
- * [Live Demo](https://www.primevue-lab.org/inputnumber/)
+ * [Live Demo](https://www.primevuelab.org/inputnumber/)
  *
  * @module inputnumber
  *
@@ -455,13 +455,13 @@ export interface InputNumberMethods {
 }
 
 /**
- * **primevue-lab - InputNumber**
+ * **primevuelab - InputNumber**
  *
  * _InputNumber is an input component to provide numerical input._
  *
- * [Live Demo](https://www.primevue-lab.org/inputnumber/)
+ * [Live Demo](https://www.primevuelab.org/inputnumber/)
  * --- ---
- * ![primevue-lab](https://primefaces.org/cdn/primevue-lab/images/logo-100.png)
+ * ![primevuelab](https://primefaces.org/cdn/primevuelab/images/logo-100.png)
  *
  * @group Component
  *

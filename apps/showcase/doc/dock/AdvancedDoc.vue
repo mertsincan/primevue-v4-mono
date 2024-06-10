@@ -28,7 +28,7 @@
             </Dock>
 
             <Dialog v-model:visible="displayTerminal" header="Terminal" :breakpoints="{ '960px': '50vw' }" :style="{ width: '40vw' }" :maximizable="true">
-                <Terminal welcomeMessage="Welcome to primevue-lab(cmd: 'date', 'greet {0}', 'random' and 'clear')" prompt="primevue-lab $" />
+                <Terminal welcomeMessage="Welcome to primevuelab(cmd: 'date', 'greet {0}', 'random' and 'clear')" prompt="primevuelab $" />
             </Dialog>
 
             <Dialog v-model:visible="displayFinder" header="Finder" :breakpoints="{ '960px': '50vw' }" :style="{ width: '40vw' }" :maximizable="true">
@@ -48,7 +48,7 @@
 <script>
 import { NodeService } from '@/service/NodeService';
 import { PhotoService } from '@/service/PhotoService';
-import TerminalService from 'primevue-lab/terminalservice';
+import TerminalService from 'primevuelab/terminalservice';
 
 export default {
     data() {
@@ -61,46 +61,46 @@ export default {
             items: [
                 {
                     label: 'Finder',
-                    icon: 'https://primefaces.org/cdn/primevue-lab/images/dock/finder.svg',
+                    icon: 'https://primefaces.org/cdn/primevuelab/images/dock/finder.svg',
                     command: () => {
                         this.displayFinder = true;
                     }
                 },
                 {
                     label: 'Terminal',
-                    icon: 'https://primefaces.org/cdn/primevue-lab/images/dock/terminal.svg',
+                    icon: 'https://primefaces.org/cdn/primevuelab/images/dock/terminal.svg',
                     command: () => {
                         this.displayTerminal = true;
                     }
                 },
                 {
                     label: 'App Store',
-                    icon: 'https://primefaces.org/cdn/primevue-lab/images/dock/appstore.svg',
+                    icon: 'https://primefaces.org/cdn/primevuelab/images/dock/appstore.svg',
                     command: () => {
                         this.$toast.add({ severity: 'error', summary: 'An unexpected error occurred while signing in.', detail: 'UNTRUSTED_CERT_TITLE', group: 'tc', life: 3000 });
                     }
                 },
                 {
                     label: 'Safari',
-                    icon: 'https://primefaces.org/cdn/primevue-lab/images/dock/safari.svg',
+                    icon: 'https://primefaces.org/cdn/primevuelab/images/dock/safari.svg',
                     command: () => {
                         this.$toast.add({ severity: 'warn', summary: 'Safari has stopped working', group: 'tc', life: 3000 });
                     }
                 },
                 {
                     label: 'Photos',
-                    icon: 'https://primefaces.org/cdn/primevue-lab/images/dock/photos.svg',
+                    icon: 'https://primefaces.org/cdn/primevuelab/images/dock/photos.svg',
                     command: () => {
                         this.displayPhotos = true;
                     }
                 },
                 {
                     label: 'GitHub',
-                    icon: 'https://primefaces.org/cdn/primevue-lab/images/dock/github.svg'
+                    icon: 'https://primefaces.org/cdn/primevuelab/images/dock/github.svg'
                 },
                 {
                     label: 'Trash',
-                    icon: 'https://primefaces.org/cdn/primevue-lab/images/dock/trash.png',
+                    icon: 'https://primefaces.org/cdn/primevuelab/images/dock/trash.png',
                     command: () => {
                         this.$toast.add({ severity: 'info', summary: 'Empty Trash', life: 3000 });
                     }
@@ -280,7 +280,7 @@ export default {
             </Dock>
 
             <Dialog v-model:visible="displayTerminal" header="Terminal" :breakpoints="{ '960px': '50vw' }" :style="{ width: '40vw' }" :maximizable="true">
-                <Terminal welcomeMessage="Welcome to primevue-lab(cmd: 'date', 'greet {0}', 'random' and 'clear')" prompt="primevue-lab $" />
+                <Terminal welcomeMessage="Welcome to primevuelab(cmd: 'date', 'greet {0}', 'random' and 'clear')" prompt="primevuelab $" />
             </Dialog>
 
             <Dialog v-model:visible="displayFinder" header="Finder" :breakpoints="{ '960px': '50vw' }" :style="{ width: '40vw' }" :maximizable="true">
@@ -297,7 +297,7 @@ export default {
 </template>
 
 <script>
-import TerminalService from 'primevue-lab/terminalservice';
+import TerminalService from 'primevuelab/terminalservice';
 import { NodeService } from '@/service/NodeService';
 import { PhotoService } from '@/service/PhotoService';
 
@@ -312,46 +312,46 @@ export default {
             items: [
                 {
                     label: 'Finder',
-                    icon: 'https://primefaces.org/cdn/primevue-lab/images/dock/finder.svg',
+                    icon: 'https://primefaces.org/cdn/primevuelab/images/dock/finder.svg',
                     command: () => {
                         this.displayFinder = true;
                     }
                 },
                 {
                     label: 'Terminal',
-                    icon: 'https://primefaces.org/cdn/primevue-lab/images/dock/terminal.svg',
+                    icon: 'https://primefaces.org/cdn/primevuelab/images/dock/terminal.svg',
                     command: () => {
                         this.displayTerminal = true;
                     }
                 },
                 {
                     label: 'App Store',
-                    icon: 'https://primefaces.org/cdn/primevue-lab/images/dock/appstore.svg',
+                    icon: 'https://primefaces.org/cdn/primevuelab/images/dock/appstore.svg',
                     command: () => {
                         this.$toast.add({ severity: 'error', summary: 'An unexpected error occurred while signing in.', detail: 'UNTRUSTED_CERT_TITLE', group: 'tc', life: 3000 });
                     }
                 },
                 {
                     label: 'Safari',
-                    icon: 'https://primefaces.org/cdn/primevue-lab/images/dock/safari.svg',
+                    icon: 'https://primefaces.org/cdn/primevuelab/images/dock/safari.svg',
                     command: () => {
                         this.$toast.add({ severity: 'warn', summary: 'Safari has stopped working', group: 'tc', life: 3000 });
                     }
                 },
                 {
                     label: 'Photos',
-                    icon: 'https://primefaces.org/cdn/primevue-lab/images/dock/photos.svg',
+                    icon: 'https://primefaces.org/cdn/primevuelab/images/dock/photos.svg',
                     command: () => {
                         this.displayPhotos = true;
                     }
                 },
                 {
                     label: 'GitHub',
-                    icon: 'https://primefaces.org/cdn/primevue-lab/images/dock/github.svg'
+                    icon: 'https://primefaces.org/cdn/primevuelab/images/dock/github.svg'
                 },
                 {
                     label: 'Trash',
-                    icon: 'https://primefaces.org/cdn/primevue-lab/images/dock/trash.png',
+                    icon: 'https://primefaces.org/cdn/primevuelab/images/dock/trash.png',
                     command: () => {
                         this.$toast.add({ severity: 'info', summary: 'Empty Trash', life: 3000 });
                     }
@@ -544,7 +544,7 @@ export default {
     width: 100%;
     height: 450px;
     position: relative;
-    background-image: url("https://primefaces.org/cdn/primevue-lab/images/dock/window.jpg");
+    background-image: url("https://primefaces.org/cdn/primevuelab/images/dock/window.jpg");
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -585,7 +585,7 @@ export default {
                 </Dock>
 
                 <Dialog v-model:visible="displayTerminal" header="Terminal" :breakpoints="{ '960px': '50vw' }" :style="{ width: '40vw' }" :maximizable="true">
-                    <Terminal welcomeMessage="Welcome to primevue-lab(cmd: 'date', 'greet {0}', 'random' and 'clear')" prompt="primevue-lab $" />
+                    <Terminal welcomeMessage="Welcome to primevuelab(cmd: 'date', 'greet {0}', 'random' and 'clear')" prompt="primevuelab $" />
                 </Dialog>
 
                 <Dialog v-model:visible="displayFinder" header="Finder" :breakpoints="{ '960px': '50vw' }" :style="{ width: '40vw' }" :maximizable="true">
@@ -604,8 +604,8 @@ export default {
 
 <script setup>
 import { ref, onMounted, onBeforeUnmount } from 'vue';
-import { useToast } from 'primevue-lab/usetoast';
-import TerminalService from 'primevue-lab/terminalservice';
+import { useToast } from 'primevuelab/usetoast';
+import TerminalService from 'primevuelab/terminalservice';
 import { NodeService } from '@/service/NodeService';
 import { PhotoService } from '@/service/PhotoService';
 
@@ -628,46 +628,46 @@ const toast = useToast();
 const items = ref([
     {
         label: 'Finder',
-        icon: "https://primefaces.org/cdn/primevue-lab//images/dock/finder.svg",
+        icon: "https://primefaces.org/cdn/primevuelab//images/dock/finder.svg",
         command: () => {
             displayFinder.value = true;
         }
     },
     {
         label: 'Terminal',
-        icon: "https://primefaces.org/cdn/primevue-lab//images/dock/terminal.svg",
+        icon: "https://primefaces.org/cdn/primevuelab//images/dock/terminal.svg",
         command: () => {
             displayTerminal.value = true;
         }
     },
     {
         label: 'App Store',
-        icon: "https://primefaces.org/cdn/primevue-lab//images/dock/appstore.svg",
+        icon: "https://primefaces.org/cdn/primevuelab//images/dock/appstore.svg",
         command: () => {
             toast.add({ severity: 'error', summary: 'An unexpected error occurred while signing in.', detail: 'UNTRUSTED_CERT_TITLE', group: 'tc', life: 3000 });
         }
     },
     {
         label: 'Safari',
-        icon: "https://primefaces.org/cdn/primevue-lab//images/dock/safari.svg",
+        icon: "https://primefaces.org/cdn/primevuelab//images/dock/safari.svg",
         command: () => {
             toast.add({ severity: 'warn', summary: 'Safari has stopped working', group: 'tc', life: 3000 });
         }
     },
     {
         label: 'Photos',
-        icon: "https://primefaces.org/cdn/primevue-lab//images/dock/photos.svg",
+        icon: "https://primefaces.org/cdn/primevuelab//images/dock/photos.svg",
         command: () => {
             displayPhotos.value = true;
         }
     },
     {
         label: 'GitHub',
-        icon: "https://primefaces.org/cdn/primevue-lab//images/dock/github.svg",
+        icon: "https://primefaces.org/cdn/primevuelab//images/dock/github.svg",
     },
     {
         label: 'Trash',
-        icon: "https://primefaces.org/cdn/primevue-lab//images/dock/trash.png",
+        icon: "https://primefaces.org/cdn/primevuelab//images/dock/trash.png",
         command: () => {
             toast.add({ severity: 'info', summary: 'Empty Trash', life: 3000 });
         }
@@ -852,7 +852,7 @@ const commandHandler = (text) => {
     width: 100%;
     height: 450px;
     position: relative;
-    background-image: url("https://primefaces.org/cdn/primevue-lab/images/dock/window.jpg");
+    background-image: url("https://primefaces.org/cdn/primevuelab/images/dock/window.jpg");
     background-repeat: no-repeat;
     background-size: cover;
 
@@ -916,7 +916,7 @@ const commandHandler = (text) => {
     width: 100%;
     height: 450px;
     position: relative;
-    background-image: url('https://primefaces.org/cdn/primevue-lab/images/dock/window.jpg');
+    background-image: url('https://primefaces.org/cdn/primevuelab/images/dock/window.jpg');
     background-repeat: no-repeat;
     background-size: cover;
 }

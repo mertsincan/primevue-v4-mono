@@ -39,7 +39,7 @@ export default {
     },
     methods: {
         imgSrc(brand) {
-            return `https://primefaces.org/cdn/primevue-lab/images/landing/whouses/${brand}-${this.colorScheme}.svg`;
+            return `https://primefaces.org/cdn/primevuelab/images/landing/whouses/${brand}-${this.colorScheme}.svg`;
         }
     },
     computed: {

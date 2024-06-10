@@ -2,7 +2,7 @@
  *
  * Carousel is a content slider featuring various customization options.
  *
- * [Live Demo](https://www.primevue-lab.org/carousel/)
+ * [Live Demo](https://www.primevuelab.org/carousel/)
  *
  * @module carouselstyle
  *

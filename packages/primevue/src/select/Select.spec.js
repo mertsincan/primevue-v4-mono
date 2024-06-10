@@ -1,5 +1,5 @@
 import { mount } from '@vue/test-utils';
-import primevue-lab from 'primevue-lab/config';
+import PrimeVue from 'primevue/config';
 import { h } from 'vue';
 import Select from './Select.vue';
 
@@ -9,7 +9,7 @@ describe('Select.vue', () => {
     beforeEach(async () => {
         wrapper = mount(Select, {
             global: {
-                plugins: [primevue-lab],
+                plugins: [PrimeVue],
                 stubs: {
                     teleport: true
                 }
@@ -34,7 +34,7 @@ describe('option checks', () => {
     beforeEach(async () => {
         wrapper = mount(Select, {
             global: {
-                plugins: [primevue-lab],
+                plugins: [PrimeVue],
                 stubs: {
                     teleport: true
                 }
@@ -71,7 +71,7 @@ describe('clear checks', () => {
     beforeEach(async () => {
         wrapper = mount(Select, {
             global: {
-                plugins: [primevue-lab],
+                plugins: [PrimeVue],
                 stubs: {
                     teleport: true
                 }
@@ -97,7 +97,7 @@ describe('editable checks', () => {
     beforeEach(async () => {
         wrapper = mount(Select, {
             global: {
-                plugins: [primevue-lab],
+                plugins: [PrimeVue],
                 stubs: {
                     teleport: true
                 }
@@ -132,7 +132,7 @@ describe('option groups checks', () => {
     beforeEach(async () => {
         wrapper = mount(Select, {
             global: {
-                plugins: [primevue-lab],
+                plugins: [PrimeVue],
                 stubs: {
                     teleport: true
                 }
@@ -191,7 +191,7 @@ describe('templating checks', () => {
     beforeEach(async () => {
         wrapper = mount(Select, {
             global: {
-                plugins: [primevue-lab],
+                plugins: [PrimeVue],
                 stubs: {
                     teleport: true
                 }
@@ -243,7 +243,7 @@ describe('empty templating checks', () => {
     beforeEach(async () => {
         wrapper = mount(Select, {
             global: {
-                plugins: [primevue-lab],
+                plugins: [PrimeVue],
                 stubs: {
                     teleport: true
                 }
@@ -273,7 +273,7 @@ describe('loader checks', () => {
     beforeEach(async () => {
         wrapper = mount(Select, {
             global: {
-                plugins: [primevue-lab],
+                plugins: [PrimeVue],
                 stubs: {
                     teleport: true
                 }
@@ -312,7 +312,7 @@ describe('filter checks', () => {
     beforeEach(async () => {
         wrapper = mount(Select, {
             global: {
-                plugins: [primevue-lab],
+                plugins: [PrimeVue],
                 stubs: {
                     teleport: true
                 }

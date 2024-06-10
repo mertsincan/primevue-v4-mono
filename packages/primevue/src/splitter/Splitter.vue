@@ -22,7 +22,7 @@
 </template>
 
 <script>
-import { DomHandler, ObjectUtils } from '@primevue-lab/core/utils';
+import { DomHandler, ObjectUtils } from '@primevuelab/core/utils';
 import BaseSplitter from './BaseSplitter.vue';
 
 export default {

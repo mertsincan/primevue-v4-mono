@@ -24,7 +24,7 @@ app.options.addReader(new TypeDoc.TypeDocReader());
 
 app.bootstrap({
     // typedoc options here
-    name: 'primevue-lab',
+    name: 'primevuelab',
     entryPoints: [`components/lib/`],
     entryPointStrategy: 'expand',
     hideGenerator: true,

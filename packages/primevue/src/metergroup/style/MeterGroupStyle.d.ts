@@ -2,7 +2,7 @@
  *
  * MeterGroup is a group of process status indicators.
  *
- * [Live Demo](https://primevue-lab.org/metergroup)
+ * [Live Demo](https://primevuelab.org/metergroup)
  *
  * @module metergroupstyle
  *

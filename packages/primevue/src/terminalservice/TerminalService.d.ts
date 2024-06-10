@@ -1,5 +1,5 @@
 /**
- * [Live Demo](https://www.primevue-lab.org/terminal/)
+ * [Live Demo](https://www.primevuelab.org/terminal/)
  *
  * @module terminalservice
  *

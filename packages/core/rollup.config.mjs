@@ -19,13 +19,13 @@ const GLOBALS = {
 
 // externals
 const GLOBAL_EXTERNALS = ['vue'];
-const INLINE_EXTERNALS = [/@primevue-lab\/themes\/.*/];
+const INLINE_EXTERNALS = [/@primevuelab\/themes\/.*/];
 const EXTERNALS = [...GLOBAL_EXTERNALS, ...INLINE_EXTERNALS];
 
 // alias
 const ALIAS_ENTRIES = [
     {
-        find: /^primevue-lab\/core\/(.*)$/,
+        find: /^primevuelab\/core\/(.*)$/,
         replacement: path.resolve(__dirname, './src/$1'),
         customResolver(source, importer) {
             const basedir = path.dirname(importer);
@@ -42,7 +42,7 @@ const ALIAS_ENTRIES = [
             return targetFile ? path.join(folderPath, targetFile) : null;
         }
     },
-    { find: '@primevue-lab/themes', replacement: path.resolve(__dirname, '../themes/src/index.js') }
+    { find: '@primevuelab/themes', replacement: path.resolve(__dirname, '../themes/src/index.js') }
 ];
 
 // plugins
@@ -141,7 +141,7 @@ const ENTRY = {
                 output: [
                     {
                         format: 'umd',
-                        name: name ?? 'primevue-lab',
+                        name: name ?? 'primevuelab',
                         file: `${output}${minify ? '.min' : ''}.js`,
                         globals: GLOBALS,
                         exports: 'auto'
@@ -171,6 +171,11 @@ const ENTRY = {
         }
     }
 };
+
+function addCore() {
+    ENTRY.format.es({ input: process.env.INPUT_DIR + 'config/PrimeVue.js', output: process.env.OUTPUT_DIR + 'config/config' });
+    ENTRY.format.es({ input: process.env.INPUT_DIR + 'service/PrimeVueService.js', output: process.env.OUTPUT_DIR + 'service/primevueservice' });
+}
 
 function addFile() {
     fs.readdirSync(path.resolve(__dirname, process.env.INPUT_DIR), { withFileTypes: true })
@@ -221,6 +226,7 @@ function addPackageJson() {
     } catch {}
 }
 
+addCore();
 addFile();
 addStyle();
 addPackageJson();

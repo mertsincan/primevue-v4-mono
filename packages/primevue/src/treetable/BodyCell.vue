@@ -39,15 +39,15 @@
 </template>
 
 <script>
-import BaseComponent from '@primevue-lab/core/basecomponent';
-import { DomHandler, ObjectUtils } from '@primevue-lab/core/utils';
-import CheckIcon from '@primevue-lab/icons/check';
-import ChevronDownIcon from '@primevue-lab/icons/chevrondown';
-import ChevronRightIcon from '@primevue-lab/icons/chevronright';
-import MinusIcon from '@primevue-lab/icons/minus';
-import SpinnerIcon from '@primevue-lab/icons/spinner';
-import Checkbox from 'primevue-lab/checkbox';
-import Ripple from 'primevue-lab/ripple';
+import BaseComponent from '@primevuelab/core/basecomponent';
+import { DomHandler, ObjectUtils } from '@primevuelab/core/utils';
+import CheckIcon from '@primevuelab/icons/check';
+import ChevronDownIcon from '@primevuelab/icons/chevrondown';
+import ChevronRightIcon from '@primevuelab/icons/chevronright';
+import MinusIcon from '@primevuelab/icons/minus';
+import SpinnerIcon from '@primevuelab/icons/spinner';
+import Checkbox from 'primevuelab/checkbox';
+import Ripple from 'primevuelab/ripple';
 import { mergeProps } from 'vue';
 
 export default {

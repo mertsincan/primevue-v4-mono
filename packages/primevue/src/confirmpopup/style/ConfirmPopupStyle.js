@@ -1,4 +1,4 @@
-import BaseStyle from '@primevue-lab/core/base/style';
+import BaseStyle from '@primevuelab/core/base/style';
 
 const theme = ({ dt }) => `
 .p-confirmpopup {

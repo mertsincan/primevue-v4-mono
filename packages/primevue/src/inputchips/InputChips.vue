@@ -60,8 +60,8 @@
 </template>
 
 <script>
-import { UniqueComponentId } from '@primevue-lab/core/utils';
-import Chip from 'primevue-lab/chip';
+import { UniqueComponentId } from '@primevuelab/core/utils';
+import Chip from 'primevuelab/chip';
 import BaseInputChips from './BaseInputChips.vue';
 
 export default {

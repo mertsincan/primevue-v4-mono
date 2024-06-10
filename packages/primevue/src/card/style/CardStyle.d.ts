@@ -2,7 +2,7 @@
  *
  * Card is a flexible container component.
  *
- * [Live Demo](https://www.primevue-lab.org/card/)
+ * [Live Demo](https://www.primevuelab.org/card/)
  *
  * @module cardstyle
  *

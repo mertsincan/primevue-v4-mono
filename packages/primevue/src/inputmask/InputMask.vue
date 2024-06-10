@@ -19,8 +19,8 @@
 </template>
 
 <script>
-import { DomHandler } from '@primevue-lab/core/utils';
-import InputText from 'primevue-lab/inputtext';
+import { DomHandler } from '@primevuelab/core/utils';
+import InputText from 'primevuelab/inputtext';
 import BaseInputMask from './BaseInputMask.vue';
 
 export default {

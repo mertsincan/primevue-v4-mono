@@ -2,7 +2,7 @@
  *
  * Rating component is a star based selection input.
  *
- * [Live Demo](https://www.primevue-lab.org/rating/)
+ * [Live Demo](https://www.primevuelab.org/rating/)
  *
  * @module ratingstyle
  *

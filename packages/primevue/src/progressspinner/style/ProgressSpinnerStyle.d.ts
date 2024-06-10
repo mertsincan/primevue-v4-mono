@@ -2,7 +2,7 @@
  *
  * ProgressSpinner is a process status indicator.
  *
- * [Live Demo](https://www.primevue-lab.org/progressspinner)
+ * [Live Demo](https://www.primevuelab.org/progressspinner)
  *
  * @module progressspinnerstyle
  *

@@ -9,7 +9,7 @@
                 <div class="border border-surface-200 dark:border-surface-700 rounded m-2 p-4">
                     <div class="mb-4">
                         <div class="relative mx-auto">
-                            <img :src="'https://primefaces.org/cdn/primevue-lab/images/product/' + slotProps.data.image" :alt="slotProps.data.name" class="w-full rounded" />
+                            <img :src="'https://primefaces.org/cdn/primevuelab/images/product/' + slotProps.data.image" :alt="slotProps.data.name" class="w-full rounded" />
                             <Tag :value="slotProps.data.inventoryStatus" :severity="getSeverity(slotProps.data.inventoryStatus)" class="absolute" style="left: 5px; top: 5px" />
                         </div>
                     </div>
@@ -42,7 +42,7 @@ export default {
         <div class="border border-surface-200 dark:border-surface-700 rounded m-2  p-4">
             <div class="mb-4">
                 <div class="relative mx-auto">
-                    <img :src="'https://primefaces.org/cdn/primevue-lab/images/product/' + slotProps.data.image" :alt="slotProps.data.name" class="w-full rounded" />
+                    <img :src="'https://primefaces.org/cdn/primevuelab/images/product/' + slotProps.data.image" :alt="slotProps.data.name" class="w-full rounded" />
                     <Tag :value="slotProps.data.inventoryStatus" :severity="getSeverity(slotProps.data.inventoryStatus)" class="absolute" style="left:5px; top: 5px"/>
                 </div>
             </div>
@@ -66,7 +66,7 @@ export default {
                 <div class="border border-surface-200 dark:border-surface-700 rounded m-2  p-4">
                     <div class="mb-4">
                         <div class="relative mx-auto">
-                            <img :src="'https://primefaces.org/cdn/primevue-lab/images/product/' + slotProps.data.image" :alt="slotProps.data.name" class="w-full rounded" />
+                            <img :src="'https://primefaces.org/cdn/primevuelab/images/product/' + slotProps.data.image" :alt="slotProps.data.name" class="w-full rounded" />
                             <Tag :value="slotProps.data.inventoryStatus" :severity="getSeverity(slotProps.data.inventoryStatus)" class="absolute" style="left:5px; top: 5px"/>
                         </div>
                     </div>
@@ -124,7 +124,7 @@ export default {
                 <div class="border border-surface-200 dark:border-surface-700 rounded m-2  p-4">
                     <div class="mb-4">
                         <div class="relative mx-auto">
-                            <img :src="'https://primefaces.org/cdn/primevue-lab/images/product/' + slotProps.data.image" :alt="slotProps.data.name" class="w-full rounded" />
+                            <img :src="'https://primefaces.org/cdn/primevuelab/images/product/' + slotProps.data.image" :alt="slotProps.data.name" class="w-full rounded" />
                             <Tag :value="slotProps.data.inventoryStatus" :severity="getSeverity(slotProps.data.inventoryStatus)" class="absolute" style="left:5px; top: 5px"/>
                         </div>
                     </div>

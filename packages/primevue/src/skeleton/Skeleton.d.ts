@@ -2,7 +2,7 @@
  *
  * Skeleton is a placeholder to display instead of the actual content.
  *
- * [Live Demo](https://www.primevue-lab.org/skeleton/)
+ * [Live Demo](https://www.primevuelab.org/skeleton/)
  *
  * @module skeleton
  *
@@ -128,13 +128,13 @@ export interface SkeletonEmitsOptions {}
 export declare type SkeletonEmits = EmitFn<SkeletonEmitsOptions>;
 
 /**
- * **primevue-lab - Skeleton**
+ * **primevuelab - Skeleton**
  *
  * _Skeleton is a placeholder to display instead of the actual content._
  *
- * [Live Demo](https://www.primevue-lab.org/skeleton/)
+ * [Live Demo](https://www.primevuelab.org/skeleton/)
  * --- ---
- * ![primevue-lab](https://primefaces.org/cdn/primevue-lab/images/logo-100.png)
+ * ![primevuelab](https://primefaces.org/cdn/primevuelab/images/logo-100.png)
  *
  * @group Component
  *

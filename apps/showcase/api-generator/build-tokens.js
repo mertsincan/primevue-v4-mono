@@ -137,7 +137,7 @@ THEME_COMPONENTS.forEach((comp) => {
  *
  * ${comp} Design Tokens
  *
- * [Live Demo](https://www.primevue-lab.org/${comp.toLowerCase()}/)
+ * [Live Demo](https://www.primevuelab.org/${comp.toLowerCase()}/)
  *
  * @module themes/${comp.toLowerCase()}
  *

@@ -1,6 +1,6 @@
 <template>
     <DocSectionText v-bind="$attrs">
-        <p>primevue-lab color palette as utility classes.</p>
+        <p>primevuelab color palette as utility classes.</p>
     </DocSectionText>
     <div class="card">
         <div class="flex flex-col gap-12">

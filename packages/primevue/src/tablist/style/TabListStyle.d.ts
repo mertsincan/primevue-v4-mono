@@ -2,7 +2,7 @@
  *
  * TabList is a helper component for Tabs component.
  *
- * [Live Demo](https://www.primevue-lab.org/tabs/)
+ * [Live Demo](https://www.primevuelab.org/tabs/)
  *
  * @module tabliststyle
  *

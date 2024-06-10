@@ -1,5 +1,4 @@
 import { mount } from '@vue/test-utils';
-import primevue-lab from 'primevue-lab/config';
 import MultiSelect from './MultiSelect.vue';
 
 describe('MultiSelect.vue', () => {
@@ -8,7 +7,7 @@ describe('MultiSelect.vue', () => {
     beforeEach(async () => {
         wrapper = mount(MultiSelect, {
             global: {
-                plugins: [primevue-lab],
+                plugins: [primevue - lab],
                 stubs: {
                     teleport: true
                 }

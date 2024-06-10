@@ -2,7 +2,7 @@
  *
  * Message groups a collection of contents in tabs.
  *
- * [Live Demo](https://www.primevue-lab.org/message/)
+ * [Live Demo](https://www.primevuelab.org/message/)
  *
  * @module message
  *
@@ -216,13 +216,13 @@ export interface MessageEmitsOptions {
 export declare type MessageEmits = EmitFn<MessageEmitsOptions>;
 
 /**
- * **primevue-lab - Message**
+ * **primevuelab - Message**
  *
  * _Messages is used to display inline messages with various severities._
  *
- * [Live Demo](https://www.primevue-lab.org/message/)
+ * [Live Demo](https://www.primevuelab.org/message/)
  * --- ---
- * ![primevue-lab](https://primefaces.org/cdn/primevue-lab/images/logo-100.png)
+ * ![primevuelab](https://primefaces.org/cdn/primevuelab/images/logo-100.png)
  *
  * @group Component
  *

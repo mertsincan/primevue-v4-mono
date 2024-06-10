@@ -12,15 +12,15 @@ export default {
         return {
             code1: {
                 basic: `
-primevue-lab: {
+primevuelab: {
     importTheme: { from: '@/themes/mytheme.js' },
 }
 `
             },
             code2: {
                 basic: `
-import { definePreset } from '@primevue-lab/themes';
-import Aura from '@primevue-lab/themes/aura';
+import { definePreset } from '@primevuelab/themes';
+import Aura from '@primevuelab/themes/aura';
 
 const MyPreset = definePreset(Aura, {
     semantic: {

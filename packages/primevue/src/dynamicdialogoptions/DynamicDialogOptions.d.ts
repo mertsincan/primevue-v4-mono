@@ -1,6 +1,6 @@
 /**
  *
- * [Live Demo](https://www.primevue-lab.org/dynamicdialog/)
+ * [Live Demo](https://www.primevuelab.org/dynamicdialog/)
  *
  * @module dynamicdialogoptions
  *

@@ -14,7 +14,7 @@
 </template>
 
 <script>
-import BaseIcon from '@primevue-lab/icons/baseicon';
+import BaseIcon from '@primevuelab/icons/baseicon';
 
 export default {
     name: 'SortAltIcon',

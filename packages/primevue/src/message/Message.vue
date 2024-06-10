@@ -21,12 +21,12 @@
 </template>
 
 <script>
-import CheckIcon from '@primevue-lab/icons/check';
-import ExclamationTriangleIcon from '@primevue-lab/icons/exclamationtriangle';
-import InfoCircleIcon from '@primevue-lab/icons/infocircle';
-import TimesIcon from '@primevue-lab/icons/times';
-import TimesCircleIcon from '@primevue-lab/icons/timescircle';
-import Ripple from 'primevue-lab/ripple';
+import CheckIcon from '@primevuelab/icons/check';
+import ExclamationTriangleIcon from '@primevuelab/icons/exclamationtriangle';
+import InfoCircleIcon from '@primevuelab/icons/infocircle';
+import TimesIcon from '@primevuelab/icons/times';
+import TimesCircleIcon from '@primevuelab/icons/timescircle';
+import Ripple from 'primevuelab/ripple';
 import BaseMessage from './BaseMessage.vue';
 
 export default {

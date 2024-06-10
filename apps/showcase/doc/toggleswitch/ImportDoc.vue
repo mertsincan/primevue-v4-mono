@@ -9,7 +9,7 @@ export default {
         return {
             code: {
                 basic: `
-import ToggleSwitch from 'primevue-lab/toggleswitch';
+import ToggleSwitch from 'primevuelab/toggleswitch';
 `
             }
         };

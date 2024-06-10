@@ -2,7 +2,7 @@
  *
  * InputIcon displays an icon.
  *
- * [Live Demo](https://www.primevue-lab.org/inputgroup/)
+ * [Live Demo](https://www.primevuelab.org/inputgroup/)
  *
  * @module inputicon
  *
@@ -102,13 +102,13 @@ export interface InputIconEmitsOptions {}
 export declare type InputIconEmits = EmitFn<InputIconEmitsOptions>;
 
 /**
- * **primevue-lab - InputIcon**
+ * **primevuelab - InputIcon**
  *
  * _InputIcon displays text, icon, buttons and other content can be grouped next to an input._
  *
- * [Live Demo](https://www.primevue-lab.org/inputtext/)
+ * [Live Demo](https://www.primevuelab.org/inputtext/)
  * --- ---
- * ![primevue-lab](https://primefaces.org/cdn/primevue-lab/images/logo-100.png)
+ * ![primevuelab](https://primefaces.org/cdn/primevuelab/images/logo-100.png)
  *
  * @group Component
  *

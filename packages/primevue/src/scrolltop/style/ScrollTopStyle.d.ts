@@ -2,7 +2,7 @@
  *
  * ScrollTop gets displayed after a certain scroll position and used to navigates to the top of the page quickly.
  *
- * [Live Demo](https://www.primevue-lab.org/scrolltop/)
+ * [Live Demo](https://www.primevuelab.org/scrolltop/)
  *
  * @module scrolltopstyle
  *

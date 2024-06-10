@@ -2,7 +2,7 @@
  *
  * Splitter is utilized to separate and resize panels.
  *
- * [Live Demo](https://www.primevue-lab.org/splitter/)
+ * [Live Demo](https://www.primevuelab.org/splitter/)
  *
  * @module splitter
  *
@@ -227,13 +227,13 @@ export interface SplitterEmitsOptions {
 export declare type SplitterEmits = EmitFn<SplitterEmitsOptions>;
 
 /**
- * **primevue-lab - Splitter**
+ * **primevuelab - Splitter**
  *
  * _Splitter is utilized to separate and resize panels._
  *
- * [Live Demo](https://www.primevue-lab.org/splitter/)
+ * [Live Demo](https://www.primevuelab.org/splitter/)
  * --- ---
- * ![primevue-lab](https://primefaces.org/cdn/primevue-lab/images/logo-100.png)
+ * ![primevuelab](https://primefaces.org/cdn/primevuelab/images/logo-100.png)
  *
  * @group Component
  *

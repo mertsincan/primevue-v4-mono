@@ -2,7 +2,7 @@
  *
  * Chart groups a collection of contents in tabs.
  *
- * [Live Demo](https://www.primevue-lab.org/chart/)
+ * [Live Demo](https://www.primevuelab.org/chart/)
  *
  * @module chartstyle
  *

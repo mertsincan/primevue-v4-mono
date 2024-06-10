@@ -1,5 +1,4 @@
 import { mount } from '@vue/test-utils';
-import primevue-lab from 'primevue-lab/config';
 import Paginator from './Paginator.vue';
 
 describe('Paginator.vue', () => {
@@ -8,7 +7,7 @@ describe('Paginator.vue', () => {
     beforeEach(() => {
         wrapper = mount(Paginator, {
             global: {
-                plugins: [primevue-lab]
+                plugins: [primevue - lab]
             },
             props: {
                 rows: 10,

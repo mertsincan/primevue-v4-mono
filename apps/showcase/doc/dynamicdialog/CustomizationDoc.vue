@@ -12,7 +12,7 @@ export default {
             code: {
                 basic: `
 import ProductListDemo from './ProductListDemo';
-import { useDialog } from 'primevue-lab/usedialog';
+import { useDialog } from 'primevuelab/usedialog';
 
 const dialog = useDialog();
 

@@ -1,12 +1,11 @@
 import { mount } from '@vue/test-utils';
-import primevue-lab from 'primevue-lab/config';
 import DataView from './DataView.vue';
 
 describe('DataView.vue', () => {
     it('should exist', () => {
         const wrapper = mount(DataView, {
             global: {
-                plugins: [primevue-lab]
+                plugins: [primevue - lab]
             },
             props: {
                 value: [

@@ -2,7 +2,7 @@
  *
  * Textarea is a multi-line text input element.
  *
- * [Live Demo](https://www.primevue-lab.org/textarea/)
+ * [Live Demo](https://www.primevuelab.org/textarea/)
  *
  * @module textareastyle
  *

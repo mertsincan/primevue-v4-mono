@@ -56,15 +56,15 @@
 </template>
 
 <script>
-import { DomHandler, ZIndexUtils } from '@primevue-lab/core/utils';
-import EyeIcon from '@primevue-lab/icons/eye';
-import RefreshIcon from '@primevue-lab/icons/refresh';
-import SearchMinusIcon from '@primevue-lab/icons/searchminus';
-import SearchPlusIcon from '@primevue-lab/icons/searchplus';
-import TimesIcon from '@primevue-lab/icons/times';
-import UndoIcon from '@primevue-lab/icons/undo';
-import FocusTrap from 'primevue-lab/focustrap';
-import Portal from 'primevue-lab/portal';
+import { DomHandler, ZIndexUtils } from '@primevuelab/core/utils';
+import EyeIcon from '@primevuelab/icons/eye';
+import RefreshIcon from '@primevuelab/icons/refresh';
+import SearchMinusIcon from '@primevuelab/icons/searchminus';
+import SearchPlusIcon from '@primevuelab/icons/searchplus';
+import TimesIcon from '@primevuelab/icons/times';
+import UndoIcon from '@primevuelab/icons/undo';
+import FocusTrap from 'primevuelab/focustrap';
+import Portal from 'primevuelab/portal';
 import BaseImage from './BaseImage.vue';
 
 export default {

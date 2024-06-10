@@ -87,7 +87,7 @@ const TreeSelectProps = [
         name: 'emptyMessage',
         type: 'string',
         default: 'No results found',
-        description: 'Text to display when there are no options available. Defaults to value from primevue-lab locale configuration.'
+        description: 'Text to display when there are no options available. Defaults to value from primevuelab locale configuration.'
     },
     {
         name: 'display',

@@ -2,7 +2,7 @@
  *
  * Breadcrumb provides contextual information about page hierarchy.
  *
- * [Live Demo](https://www.primevue-lab.org/breadcrumb/)
+ * [Live Demo](https://www.primevuelab.org/breadcrumb/)
  *
  * @module breadcrumb
  *
@@ -219,13 +219,13 @@ export interface BreadcrumbEmitsOptions {}
 export declare type BreadcrumbEmits = EmitFn<BreadcrumbEmitsOptions>;
 
 /**
- * **primevue-lab - Breadcrumb**
+ * **primevuelab - Breadcrumb**
  *
  * _Breadcrumb provides contextual information about page hierarchy._
  *
- * [Live Demo](https://www.primevue-lab.org/breadcrumb/)
+ * [Live Demo](https://www.primevuelab.org/breadcrumb/)
  * --- ---
- * ![primevue-lab](https://primefaces.org/cdn/primevue-lab/images/logo-100.png)
+ * ![primevuelab](https://primefaces.org/cdn/primevuelab/images/logo-100.png)
  *
  * @group Component
  *

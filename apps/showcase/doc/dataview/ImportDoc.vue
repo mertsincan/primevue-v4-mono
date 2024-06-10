@@ -9,7 +9,7 @@ export default {
         return {
             code: {
                 basic: `
-import DataView from 'primevue-lab/dataview';
+import DataView from 'primevuelab/dataview';
 `
             }
         };

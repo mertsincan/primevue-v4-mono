@@ -9,8 +9,8 @@ export default {
         return {
             code: {
                 basic: `
-import Terminal from 'primevue-lab/terminal';
-import TerminalService from 'primevue-lab/terminalservice'
+import Terminal from 'primevuelab/terminal';
+import TerminalService from 'primevuelab/terminalservice'
 `
             }
         };

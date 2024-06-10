@@ -15,8 +15,8 @@ export default {
         return {
             code1: {
                 basic: `
-primevue-lab: {
-    cssLayerOrder: 'tailwind-base, primevue-lab, tailwind-utilities'
+primevuelab: {
+    cssLayerOrder: 'tailwind-base, primevuelab, tailwind-utilities'
 }
 `
             },

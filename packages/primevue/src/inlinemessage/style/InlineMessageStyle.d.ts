@@ -2,7 +2,7 @@
  *
  * InlineMessage component is useful in cases where a single message needs to be displayed related to an element such as forms. It has one property, severity of the message.
  *
- * [Live Demo](https://www.primevue-lab.org/inlinemessage/)
+ * [Live Demo](https://www.primevuelab.org/inlinemessage/)
  *
  * @module inlinemessagestyle
  *

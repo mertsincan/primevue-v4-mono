@@ -1,6 +1,6 @@
 <script>
-import BaseComponent from '@primevue-lab/core/basecomponent';
-import MenubarStyle from 'primevue-lab/menubar/style';
+import BaseComponent from '@primevuelab/core/basecomponent';
+import MenubarStyle from 'primevuelab/menubar/style';
 
 export default {
     name: 'BaseMenubar',

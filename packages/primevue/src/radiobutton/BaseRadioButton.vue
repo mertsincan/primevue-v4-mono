@@ -1,6 +1,6 @@
 <script>
-import BaseComponent from '@primevue-lab/core/basecomponent';
-import RadioButtonStyle from 'primevue-lab/radiobutton/style';
+import BaseComponent from '@primevuelab/core/basecomponent';
+import RadioButtonStyle from 'primevuelab/radiobutton/style';
 
 export default {
     name: 'BaseRadioButton',

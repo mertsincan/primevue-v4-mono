@@ -9,7 +9,7 @@ export default {
         return {
             code: {
                 basic: `
-import Dock from 'primevue-lab/dock';
+import Dock from 'primevuelab/dock';
 `
             }
         };

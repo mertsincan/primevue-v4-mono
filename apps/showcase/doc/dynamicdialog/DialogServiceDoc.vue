@@ -21,7 +21,7 @@ export default {
             code2: {
                 basic: `
 import {createApp} from 'vue';
-import DialogService from 'primevue-lab/dialogservice';
+import DialogService from 'primevuelab/dialogservice';
 
 const app = createApp(App);
 app.use(DialogService);
@@ -30,7 +30,7 @@ app.use(DialogService);
             code3: {
                 basic: `
 /* Composition API */
-import { useDialog } from 'primevue-lab/usedialog';
+import { useDialog } from 'primevuelab/usedialog';
 
 const dialog = useDialog();
 

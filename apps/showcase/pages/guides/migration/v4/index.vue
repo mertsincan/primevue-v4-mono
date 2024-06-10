@@ -1,13 +1,13 @@
 <template>
     <Head>
-        <Title>Migration - primevue-lab</Title>
-        <Meta name="description" content="Migration Guide to primevue-lab v4." />
+        <Title>Migration - primevuelab</Title>
+        <Meta name="description" content="Migration Guide to primevuelab v4." />
     </Head>
     <div class="doc">
         <div class="doc-main">
             <div class="doc-intro">
                 <h1>Migration</h1>
-                <p>Migration guide to primevue-lab v4.</p>
+                <p>Migration guide to primevuelab v4.</p>
             </div>
             <DocSections :docs="docs" />
         </div>

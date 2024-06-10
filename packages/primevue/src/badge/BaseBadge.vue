@@ -1,6 +1,6 @@
 <script>
-import BaseComponent from '@primevue-lab/core/basecomponent';
-import BadgeStyle from 'primevue-lab/badge/style';
+import BaseComponent from '@primevuelab/core/basecomponent';
+import BadgeStyle from 'primevuelab/badge/style';
 
 export default {
     name: 'BaseBadge',

@@ -65,9 +65,9 @@
 </template>
 
 <script>
-import { ConnectedOverlayScrollHandler, DomHandler, UniqueComponentId, ZIndexUtils } from '@primevue-lab/core/utils';
-import OverlayEventBus from 'primevue-lab/overlayeventbus';
-import Portal from 'primevue-lab/portal';
+import { ConnectedOverlayScrollHandler, DomHandler, UniqueComponentId, ZIndexUtils } from '@primevuelab/core/utils';
+import OverlayEventBus from 'primevuelab/overlayeventbus';
+import Portal from 'primevuelab/portal';
 import BaseMenu from './BaseMenu.vue';
 import Menuitem from './Menuitem.vue';
 

@@ -2,7 +2,7 @@
  *
  * FileUpload is an advanced uploader with dragdrop support, multi file uploads, auto uploading, progress tracking and validations.
  *
- * [Live Demo](https://www.primevue-lab.org/fileupload/)
+ * [Live Demo](https://www.primevuelab.org/fileupload/)
  *
  * @module fileupload
  *
@@ -395,20 +395,20 @@ export interface FileUploadProps {
      */
     previewWidth?: number | undefined;
     /**
-     * Label of the choose button. Defaults to primevue-lab Locale configuration.
+     * Label of the choose button. Defaults to primevuelab Locale configuration.
      */
     chooseLabel?: string | undefined;
     /**
-     * Label of the upload button. Defaults to primevue-lab Locale configuration.
+     * Label of the upload button. Defaults to primevuelab Locale configuration.
      */
     uploadLabel?: string | undefined;
     /**
-     * Label of the cancel button. Defaults to primevue-lab Locale configuration.
+     * Label of the cancel button. Defaults to primevuelab Locale configuration.
      * @defaultValue Cancel
      */
     cancelLabel?: string | undefined;
     /**
-     * Whether to use the default upload or a manual implementation defined in uploadHandler callback. Defaults to primevue-lab Locale configuration.
+     * Whether to use the default upload or a manual implementation defined in uploadHandler callback. Defaults to primevuelab Locale configuration.
      */
     customUpload?: boolean | undefined;
     /**
@@ -648,13 +648,13 @@ export interface FileUploadMethods {
 }
 
 /**
- * **primevue-lab - FileUpload**
+ * **primevuelab - FileUpload**
  *
  * _FileUpload is an advanced uploader with dragdrop support, multi file uploads, auto uploading, progress tracking and validations._
  *
- * [Live Demo](https://www.primevue-lab.org/fileupload/)
+ * [Live Demo](https://www.primevuelab.org/fileupload/)
  * --- ---
- * ![primevue-lab](https://primefaces.org/cdn/primevue-lab/images/logo-100.png)
+ * ![primevuelab](https://primefaces.org/cdn/primevuelab/images/logo-100.png)
  *
  * @group Component
  *

@@ -1,6 +1,6 @@
 /**
  *
- * [Live Demo](https://www.primevue-lab.org/confirmdialog/)
+ * [Live Demo](https://www.primevuelab.org/confirmdialog/)
  *
  * @module confirmationoptions
  *
@@ -59,11 +59,11 @@ export interface ConfirmationOptions {
      */
     onHide?: () => void;
     /**
-     * Label of the accept button. Defaults to primevue-lab Locale configuration.
+     * Label of the accept button. Defaults to primevuelab Locale configuration.
      */
     acceptLabel?: string | undefined;
     /**
-     * Label of the reject button. Defaults to primevue-lab Locale configuration.
+     * Label of the reject button. Defaults to primevuelab Locale configuration.
      */
     rejectLabel?: string | undefined;
     /**

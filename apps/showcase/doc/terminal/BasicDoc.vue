@@ -7,13 +7,13 @@
     </DocSectionText>
     <div class="card">
         <p>Enter "<strong>date</strong>" to display the current date, "<strong>greet {0}</strong>" for a message and "<strong>random</strong>" to get a random number.</p>
-        <Terminal welcomeMessage="Welcome to primevue-lab" prompt="primevue-lab $" aria-label="primevue-lab Terminal Service" />
+        <Terminal welcomeMessage="Welcome to primevuelab" prompt="primevuelab $" aria-label="primevuelab Terminal Service" />
     </div>
     <DocSectionCode :code="code" />
 </template>
 
 <script>
-import TerminalService from 'primevue-lab/terminalservice';
+import TerminalService from 'primevuelab/terminalservice';
 
 export default {
     data() {
@@ -21,9 +21,9 @@ export default {
             code: {
                 basic: `
 <Terminal
-    welcomeMessage="Welcome to primevue-lab"
-    prompt="primevue-lab $"
-    aria-label="primevue-lab Terminal Service"
+    welcomeMessage="Welcome to primevuelab"
+    prompt="primevuelab $"
+    aria-label="primevuelab Terminal Service"
 />
 `,
                 options: `
@@ -31,15 +31,15 @@ export default {
     <div>
         <p>Enter "date" to display the current date, "greet {0}" for a message and "random" to get a random number.</p>
         <Terminal
-            welcomeMessage="Welcome to primevue-lab"
-            prompt="primevue-lab $"
-            aria-label="primevue-lab Terminal Service"
+            welcomeMessage="Welcome to primevuelab"
+            prompt="primevuelab $"
+            aria-label="primevuelab Terminal Service"
         />
     </div>
 </template>
 
 <script>
-import TerminalService from "primevue-lab/terminalservice";
+import TerminalService from "primevuelab/terminalservice";
 
 export default {
     methods: {
@@ -82,16 +82,16 @@ export default {
     <div>
         <p>Enter "date" to display the current date, "greet {0}" for a message and "random" to get a random number.</p>
         <Terminal
-            welcomeMessage="Welcome to primevue-lab"
-            prompt="primevue-lab $"
-            aria-label="primevue-lab Terminal Service"
+            welcomeMessage="Welcome to primevuelab"
+            prompt="primevuelab $"
+            aria-label="primevuelab Terminal Service"
         />
     </div>
 </template>
 
 <script setup>
 import { onMounted, onBeforeUnmount } from 'vue';
-import TerminalService from "primevue-lab/terminalservice";
+import TerminalService from "primevuelab/terminalservice";
 
 onMounted(() => {
     TerminalService.on('command', commandHandler);

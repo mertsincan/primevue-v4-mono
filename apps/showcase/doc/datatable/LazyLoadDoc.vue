@@ -44,7 +44,7 @@
                 <Column field="country.name" header="Country" filterField="country.name" filterMatchMode="contains" sortable>
                     <template #body="{ data }">
                         <div class="flex items-center gap-2">
-                            <img alt="flag" src="https://primefaces.org/cdn/primevue-lab/images/flag/flag_placeholder.png" :class="`flag flag-${data.country.code}`" style="width: 24px" />
+                            <img alt="flag" src="https://primefaces.org/cdn/primevuelab/images/flag/flag_placeholder.png" :class="`flag flag-${data.country.code}`" style="width: 24px" />
                             <span>{{ data.country.name }}</span>
                         </div>
                     </template>
@@ -60,7 +60,7 @@
                 <Column field="representative.name" header="Representative" filterField="representative.name" sortable>
                     <template #body="{ data }">
                         <div class="flex items-center gap-2">
-                            <img :alt="data.representative.name" :src="`https://primefaces.org/cdn/primevue-lab/images/avatar/${data.representative.image}`" style="width: 32px" />
+                            <img :alt="data.representative.name" :src="`https://primefaces.org/cdn/primevuelab/images/avatar/${data.representative.image}`" style="width: 32px" />
                             <span>{{ data.representative.name }}</span>
                         </div>
                     </template>
@@ -114,7 +114,7 @@ export default {
     <Column field="country.name" header="Country" filterField="country.name" filterMatchMode="contains" sortable>
         <template #body="{ data }">
             <div class="flex items-center gap-2">
-                <img alt="flag" src="https://primefaces.org/cdn/primevue-lab/images/flag/flag_placeholder.png" :class="\`flag flag-\${data.country.code}\`" style="width: 24px" />
+                <img alt="flag" src="https://primefaces.org/cdn/primevuelab/images/flag/flag_placeholder.png" :class="\`flag flag-\${data.country.code}\`" style="width: 24px" />
                 <span>{{ data.country.name }}</span>
             </div>
         </template>
@@ -130,7 +130,7 @@ export default {
     <Column field="representative.name" header="Representative" filterField="representative.name" sortable>
         <template #body="{ data }">
             <div class="flex items-center gap-2">
-                <img :alt="data.representative.name" :src="\`https://primefaces.org/cdn/primevue-lab/images/avatar/\${data.representative.image}\`" style="width: 32px" />
+                <img :alt="data.representative.name" :src="\`https://primefaces.org/cdn/primevuelab/images/avatar/\${data.representative.image}\`" style="width: 32px" />
                 <span>{{ data.representative.name }}</span>
             </div>
         </template>
@@ -156,7 +156,7 @@ export default {
             <Column field="country.name" header="Country" filterField="country.name" filterMatchMode="contains" sortable>
                 <template #body="{ data }">
                     <div class="flex items-center gap-2">
-                        <img alt="flag" src="https://primefaces.org/cdn/primevue-lab/images/flag/flag_placeholder.png" :class="\`flag flag-\${data.country.code}\`" style="width: 24px" />
+                        <img alt="flag" src="https://primefaces.org/cdn/primevuelab/images/flag/flag_placeholder.png" :class="\`flag flag-\${data.country.code}\`" style="width: 24px" />
                         <span>{{ data.country.name }}</span>
                     </div>
                 </template>
@@ -172,7 +172,7 @@ export default {
             <Column field="representative.name" header="Representative" filterField="representative.name" sortable>
                 <template #body="{ data }">
                     <div class="flex items-center gap-2">
-                        <img :alt="data.representative.name" :src="\`https://primefaces.org/cdn/primevue-lab/images/avatar/\${data.representative.image}\`" style="width: 32px" />
+                        <img :alt="data.representative.name" :src="\`https://primefaces.org/cdn/primevuelab/images/avatar/\${data.representative.image}\`" style="width: 32px" />
                         <span>{{ data.representative.name }}</span>
                     </div>
                 </template>
@@ -290,7 +290,7 @@ export default {
             <Column field="country.name" header="Country" filterField="country.name" filterMatchMode="contains" sortable>
                 <template #body="{ data }">
                     <div class="flex items-center gap-2">
-                        <img alt="flag" src="https://primefaces.org/cdn/primevue-lab/images/flag/flag_placeholder.png" :class="\`flag flag-\${data.country.code}\`" style="width: 24px" />
+                        <img alt="flag" src="https://primefaces.org/cdn/primevuelab/images/flag/flag_placeholder.png" :class="\`flag flag-\${data.country.code}\`" style="width: 24px" />
                         <span>{{ data.country.name }}</span>
                     </div>
                 </template>
@@ -306,7 +306,7 @@ export default {
             <Column field="representative.name" header="Representative" filterField="representative.name" sortable>
                 <template #body="{ data }">
                     <div class="flex items-center gap-2">
-                        <img :alt="data.representative.name" :src="\`https://primefaces.org/cdn/primevue-lab/images/avatar/\${data.representative.image}\`" style="width: 32px" />
+                        <img :alt="data.representative.name" :src="\`https://primefaces.org/cdn/primevuelab/images/avatar/\${data.representative.image}\`" style="width: 32px" />
                         <span>{{ data.representative.name }}</span>
                     </div>
                 </template>

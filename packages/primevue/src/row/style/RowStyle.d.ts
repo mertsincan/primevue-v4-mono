@@ -2,7 +2,7 @@
  *
  * Row component is a helper component used to create grouping structures in DataTable.
  *
- * [Live Demo](https://www.primevue-lab.org/datatable/)
+ * [Live Demo](https://www.primevuelab.org/datatable/)
  *
  * @module rowstyle
  *

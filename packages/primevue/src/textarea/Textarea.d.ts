@@ -2,7 +2,7 @@
  *
  * Textarea is a multi-line text input element.
  *
- * [Live Demo](https://www.primevue-lab.org/textarea/)
+ * [Live Demo](https://www.primevuelab.org/textarea/)
  *
  * @module textarea
  *
@@ -147,13 +147,13 @@ export interface TextareaEmitsOptions {
 export declare type TextareaEmits = EmitFn<TextareaEmitsOptions>;
 
 /**
- * **primevue-lab - Textarea**
+ * **primevuelab - Textarea**
  *
  * _Textarea is a multi-line text input element._
  *
- * [Live Demo](https://www.primevue-lab.org/textarea/)
+ * [Live Demo](https://www.primevuelab.org/textarea/)
  * --- ---
- * ![primevue-lab](https://primefaces.org/cdn/primevue-lab/images/logo-100.png)
+ * ![primevuelab](https://primefaces.org/cdn/primevuelab/images/logo-100.png)
  *
  * @group Component
  *

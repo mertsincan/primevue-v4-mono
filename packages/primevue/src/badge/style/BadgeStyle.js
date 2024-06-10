@@ -1,5 +1,5 @@
-import BaseStyle from '@primevue-lab/core/base/style';
-import { ObjectUtils } from '@primevue-lab/core/utils';
+import BaseStyle from '@primevuelab/core/base/style';
+import { ObjectUtils } from '@primevuelab/core/utils';
 
 const theme = ({ dt }) => `
 .p-badge {

@@ -1,8 +1,8 @@
 <template>
     <DocSectionText v-bind="$attrs">
         <p>
-            primevue-lab uses the <i>system</i> as the default <i>darkModeSelector</i> in theme configuration. If you have a dark mode switch in your application, set the <i>darkModeSelector</i> to the selector you utilize such as
-            <i>.my-app-dark</i> so that primevue-lab can fit in seamlessly with your light-dark toggle.
+            primevuelab uses the <i>system</i> as the default <i>darkModeSelector</i> in theme configuration. If you have a dark mode switch in your application, set the <i>darkModeSelector</i> to the selector you utilize such as
+            <i>.my-app-dark</i> so that primevuelab can fit in seamlessly with your light-dark toggle.
         </p>
         <DocSectionCode :code="code1" hideToggleCode importCode hideStackBlitz />
         <p>
@@ -20,12 +20,12 @@ export default {
         return {
             code1: {
                 basic: `
-import primevue-lab from 'primevue-lab/config';
-import Aura from '@primevue-lab/themes/aura';
+import PrimeVue from 'primevuelab/config';
+import Aura from '@primevuelab/themes/aura';
 
 const app = createApp(App);
 
-app.use(primevue-lab, {
+app.use(primevuelab, {
     // Default theme configuration
     theme: {
         preset: Aura,

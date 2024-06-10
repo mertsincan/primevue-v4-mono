@@ -27,9 +27,9 @@ describe('Textarea.vue', () => {
     });
 
     it('should input', async () => {
-        await wrapper.vm.onInput({ target: { value: 'primevue-lab' } });
+        await wrapper.vm.onInput({ target: { value: 'primevuelab' } });
 
-        expect(wrapper.emitted()['update:modelValue'][0]).toEqual(['primevue-lab']);
+        expect(wrapper.emitted()['update:modelValue'][0]).toEqual(['primevuelab']);
     });
 
     it('should resize', async () => {
@@ -37,7 +37,7 @@ describe('Textarea.vue', () => {
 
         await wrapper.setProps({ autoResize: true });
 
-        await wrapper.vm.onInput({ target: { value: 'primevue-lab' } });
+        await wrapper.vm.onInput({ target: { value: 'primevuelab' } });
 
         expect(wrapper.attributes().style).not.toEqual(firstHeight);
     });

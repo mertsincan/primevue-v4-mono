@@ -1,7 +1,7 @@
 <template>
     <DocSectionText v-bind="$attrs">
         <p>
-            You can use primevue-lab and Vue.js from a CDN with a script tag. This approach does not involve any build step, and is suitable for enhancing static HTML. This guide uses
+            You can use primevuelab and Vue.js from a CDN with a script tag. This approach does not involve any build step, and is suitable for enhancing static HTML. This guide uses
             <a href="https://www.unpkg.com/" rel="noopener noreferrer">unpkg</a> however other providers such as <a href="https://www.jsdelivr.com" target="_blank" rel="noopener noreferrer">jsdeliver</a> and
             <a href="https://cdnjs.com" target="_blank" rel="noopener noreferrer">cdnjs</a> can also be used.
         </p>
@@ -16,8 +16,8 @@ export default {
             code: {
                 basic: `
 https://unpkg.com/vue@3/dist/vue.global.js
-https://unpkg.com/primevue-lab@4.0.0-beta.4/umd/primevue-lab.min.js
-https://unpkg.com/primevue-lab@4.0.0-beta.4/umd/themes/aura.min.js  // see theming for alternatives
+https://unpkg.com/primevuelab@4.0.0-beta.4/umd/primevuelab.min.js
+https://unpkg.com/primevuelab@4.0.0-beta.4/umd/themes/aura.min.js  // see theming for alternatives
 `
             }
         };

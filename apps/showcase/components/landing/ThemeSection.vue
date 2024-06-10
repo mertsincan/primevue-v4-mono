@@ -38,14 +38,14 @@
                     </Column>
                     <Column field="country.name" header="Country" sortable style="min-width: 14rem">
                         <template #body="{ data }">
-                            <img alt="flag" src="https://primefaces.org/cdn/primevue-lab/images/flag/flag_placeholder.png" :class="`mr-2 flag flag-${data.country.code}`" style="width: 24px" />
+                            <img alt="flag" src="https://primefaces.org/cdn/primevuelab/images/flag/flag_placeholder.png" :class="`mr-2 flag flag-${data.country.code}`" style="width: 24px" />
                             <span>{{ data.country.name }}</span>
                         </template>
                     </Column>
                     <Column header="Agent" sortable sortField="representative.name" style="min-width: 14rem">
                         <template #body="{ data }">
                             <div class="flex items-center gap-2">
-                                <img :alt="data.representative.name" :src="'https://primefaces.org/cdn/primevue-lab/images/avatar/' + data.representative.image" width="32" />
+                                <img :alt="data.representative.name" :src="'https://primefaces.org/cdn/primevuelab/images/avatar/' + data.representative.image" width="32" />
                                 <span>{{ data.representative.name }}</span>
                             </div>
                         </template>
@@ -83,7 +83,7 @@
 
 <script>
 import { CustomerService } from '@/service/CustomerService';
-import { FilterMatchMode, FilterOperator } from '@primevue-lab/core/api';
+import { FilterMatchMode, FilterOperator } from '@primevuelab/core/api';
 
 export default {
     data() {

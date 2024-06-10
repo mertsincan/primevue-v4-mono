@@ -2,7 +2,7 @@
  *
  * CascadeSelect is a form component to select a value from a nested structure of options.
  *
- * [Live Demo](https://www.primevue-lab.org/cascadeselect/)
+ * [Live Demo](https://www.primevuelab.org/cascadeselect/)
  *
  * @module cascadeselect
  *
@@ -387,27 +387,27 @@ export interface CascadeSelectProps {
      */
     searchLocale?: string | undefined;
     /**
-     * Text to be displayed in hidden accessible field when filtering returns any results. Defaults to value from primevue-lab locale configuration.
+     * Text to be displayed in hidden accessible field when filtering returns any results. Defaults to value from primevuelab locale configuration.
      * @defaultValue '{0} results are available'
      */
     searchMessage?: string | undefined;
     /**
-     * Text to be displayed in hidden accessible field when options are selected. Defaults to value from primevue-lab locale configuration.
+     * Text to be displayed in hidden accessible field when options are selected. Defaults to value from primevuelab locale configuration.
      * @defaultValue '{0} items selected'
      */
     selectionMessage?: string | undefined;
     /**
-     * Text to be displayed in hidden accessible field when any option is not selected. Defaults to value from primevue-lab locale configuration.
+     * Text to be displayed in hidden accessible field when any option is not selected. Defaults to value from primevuelab locale configuration.
      * @defaultValue No selected item
      */
     emptySelectionMessage?: string | undefined;
     /**
-     * Text to display when filtering does not return any results. Defaults to value from primevue-lab locale configuration.
+     * Text to display when filtering does not return any results. Defaults to value from primevuelab locale configuration.
      * @defaultValue No results found
      */
     emptySearchMessage?: string | undefined;
     /**
-     * Text to be displayed when there are no options available. Defaults to value from primevue-lab locale configuration.
+     * Text to be displayed when there are no options available. Defaults to value from primevuelab locale configuration.
      * @defaultValue No available options
      */
     emptyMessage?: string | undefined;
@@ -545,13 +545,13 @@ export interface CascadeSelectEmitsOptions {
 export declare type CascadeSelectEmits = EmitFn<CascadeSelectEmitsOptions>;
 
 /**
- * **primevue-lab - CascadeSelect**
+ * **primevuelab - CascadeSelect**
  *
  * _CascadeSelect is a form component to select a value from a nested structure of options._
  *
- * [Live Demo](https://www.primevue-lab.org/cascadeselect/)
+ * [Live Demo](https://www.primevuelab.org/cascadeselect/)
  * --- ---
- * ![primevue-lab(https://primefaces.org/cdn/primevue-lab/images/logo-100.png)
+ * ![primevuelab(https://primefaces.org/cdn/primevuelab/images/logo-100.png)
  *
  * @group Component
  *

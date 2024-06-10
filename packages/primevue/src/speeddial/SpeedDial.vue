@@ -64,12 +64,12 @@
 </template>
 
 <script>
-import { DomHandler, UniqueComponentId } from '@primevue-lab/core/utils';
-import PlusIcon from '@primevue-lab/icons/plus';
-import { $dt } from '@primevue-lab/themes';
-import Button from 'primevue-lab/button';
-import Ripple from 'primevue-lab/ripple';
-import Tooltip from 'primevue-lab/tooltip';
+import { DomHandler, UniqueComponentId } from '@primevuelab/core/utils';
+import PlusIcon from '@primevuelab/icons/plus';
+import { $dt } from '@primevuelab/themes';
+import Button from 'primevuelab/button';
+import Ripple from 'primevuelab/ripple';
+import Tooltip from 'primevuelab/tooltip';
 import BaseSpeedDial from './BaseSpeedDial.vue';
 
 // Set fix value for SSR.

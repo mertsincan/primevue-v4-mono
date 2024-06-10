@@ -1,15 +1,15 @@
 <template>
     <div>
         <Head>
-            <Title>primevue-lab Roadmap</Title>
-            <Meta name="description" content="primevue-lab Roadmap" />
+            <Title>primevuelab Roadmap</Title>
+            <Meta name="description" content="primevuelab Roadmap" />
         </Head>
 
         <div class="doc-intro">
             <h1>Roadmap</h1>
             <p>
-                At <a href="https://www.primetek.com.tr/">PrimeTek</a>, we are passionate about improving primevue-lab and would like to share our ideas for 2024 with the community. These are planned to be implemented in parallel to the regular
-                maintenance work of the library involving review of issue tickets, PRs and primevue-lab PRO support.
+                At <a href="https://www.primetek.com.tr/">PrimeTek</a>, we are passionate about improving primevuelab and would like to share our ideas for 2024 with the community. These are planned to be implemented in parallel to the regular
+                maintenance work of the library involving review of issue tickets, PRs and primevuelab PRO support.
             </p>
         </div>
 
@@ -157,7 +157,7 @@
                         <div class="flex-1 flex gap-4 flex-col">
                             <div class="p-4 bg-surface-0 dark:bg-surface-900 rounded border-violet-500 border-l-8">
                                 <h2 class="text-lg font-bold mt-0 mb-2">V4 Update</h2>
-                                <p class="mt-0 mb-4 leading-normal">Update all templates to primevue-lab v4, replace PrimeFlex demos with Tailwind.</p>
+                                <p class="mt-0 mb-4 leading-normal">Update all templates to primevuelab v4, replace PrimeFlex demos with Tailwind.</p>
                                 <div class="bg-surface-200 rounded">
                                     <div class="bg-teal-500 rounded" style="width: 0%; height: 4px"></div>
                                 </div>

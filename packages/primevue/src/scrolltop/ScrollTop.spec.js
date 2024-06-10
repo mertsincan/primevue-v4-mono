@@ -1,6 +1,5 @@
 import { mount } from '@vue/test-utils';
 import ScrollTop from './ScrollTop.vue';
-import primevue-lab from 'primevue-lab/config';
 
 describe('ScrollTop.vue', () => {
     let wrapper;
@@ -8,7 +7,7 @@ describe('ScrollTop.vue', () => {
     beforeEach(() => {
         wrapper = mount(ScrollTop, {
             global: {
-                plugins: [primevue-lab],
+                plugins: [primevue - lab],
                 stubs: {
                     transition: false
                 }

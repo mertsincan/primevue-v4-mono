@@ -351,7 +351,7 @@ export default {
 
     computed: {
         description() {
-            return this.doc && this.doc.length > 0 ? `API defines helper props, events and others for the primevue-lab ${this.header} module.` : `${this.header} is a CSS feature so does not provide a Javascript API`;
+            return this.doc && this.doc.length > 0 ? `API defines helper props, events and others for the primevuelab ${this.header} module.` : `${this.header} is a CSS feature so does not provide a Javascript API`;
         }
     }
 };

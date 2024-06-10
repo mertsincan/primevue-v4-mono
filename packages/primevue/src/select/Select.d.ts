@@ -2,7 +2,7 @@
  *
  * Select also known as Select, is used to choose an item from a collection of options.
  *
- * [Live Demo](https://www.primevue-lab.org/select/)
+ * [Live Demo](https://www.primevuelab.org/select/)
  *
  * @module select
  *
@@ -491,27 +491,27 @@ export interface SelectProps {
      */
     checkmark?: boolean | undefined;
     /**
-     * Text to be displayed in hidden accessible field when filtering returns any results. Defaults to value from primevue-lab locale configuration.
+     * Text to be displayed in hidden accessible field when filtering returns any results. Defaults to value from primevuelab locale configuration.
      * @defaultValue '{0} results are available'
      */
     filterMessage?: string | undefined;
     /**
-     * Text to be displayed in hidden accessible field when options are selected. Defaults to value from primevue-lab locale configuration.
+     * Text to be displayed in hidden accessible field when options are selected. Defaults to value from primevuelab locale configuration.
      * @defaultValue '{0} items selected'
      */
     selectionMessage?: string | undefined;
     /**
-     * Text to be displayed in hidden accessible field when any option is not selected. Defaults to value from primevue-lab locale configuration.
+     * Text to be displayed in hidden accessible field when any option is not selected. Defaults to value from primevuelab locale configuration.
      * @defaultValue No selected item
      */
     emptySelectionMessage?: string | undefined;
     /**
-     * Text to display when filtering does not return any results. Defaults to value from primevue-lab locale configuration.
+     * Text to display when filtering does not return any results. Defaults to value from primevuelab locale configuration.
      * @defaultValue No results found
      */
     emptyFilterMessage?: string | undefined;
     /**
-     * Text to display when there are no options available. Defaults to value from primevue-lab locale configuration.
+     * Text to display when there are no options available. Defaults to value from primevuelab locale configuration.
      * @defaultValue No results found
      */
     emptyMessage?: string | undefined;
@@ -781,13 +781,13 @@ export interface SelectMethods {
 }
 
 /**
- * **primevue-lab - Select**
+ * **primevuelab - Select**
  *
  * _Select is used to choose an item from a collection of options._
  *
- * [Live Demo](https://www.primevue-lab.org/select/)
+ * [Live Demo](https://www.primevuelab.org/select/)
  * --- ---
- * ![primevue-lab](https://primefaces.org/cdn/primevue-lab/images/logo-100.png)
+ * ![primevuelab](https://primefaces.org/cdn/primevuelab/images/logo-100.png)
  *
  * @group Component
  *

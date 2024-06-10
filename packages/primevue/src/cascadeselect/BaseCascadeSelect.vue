@@ -1,6 +1,6 @@
 <script>
-import BaseComponent from '@primevue-lab/core/basecomponent';
-import CascadeSelectStyle from 'primevue-lab/cascadeselect/style';
+import BaseComponent from '@primevuelab/core/basecomponent';
+import CascadeSelectStyle from 'primevuelab/cascadeselect/style';
 
 export default {
     name: 'BaseCascadeSelect',

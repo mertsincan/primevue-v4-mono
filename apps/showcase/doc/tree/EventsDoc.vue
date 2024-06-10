@@ -80,7 +80,7 @@ export default {
 <script setup>
 import { ref, onMounted } from 'vue';
 import { NodeService } from '@/service/NodeService';
-import { useToast } from "primevue-lab/usetoast";
+import { useToast } from "primevuelab/usetoast";
 
 const nodes = ref(null);
 const selectedKey = ref(null);

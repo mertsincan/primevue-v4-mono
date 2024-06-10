@@ -6,8 +6,8 @@
 </template>
 
 <script>
-import { DomHandler, ObjectUtils } from '@primevue-lab/core/utils';
-import Ripple from 'primevue-lab/ripple';
+import { DomHandler, ObjectUtils } from '@primevuelab/core/utils';
+import Ripple from 'primevuelab/ripple';
 import { mergeProps } from 'vue';
 import BaseTab from './BaseTab.vue';
 

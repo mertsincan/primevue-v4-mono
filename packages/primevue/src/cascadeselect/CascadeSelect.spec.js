@@ -1,6 +1,5 @@
-import { nextTick } from 'vue';
 import { mount } from '@vue/test-utils';
-import primevue-lab from 'primevue-lab/config';
+import { nextTick } from 'vue';
 import CascadeSelect from './CascadeSelect.vue';
 
 describe('CascadeSelect.vue', () => {
@@ -9,7 +8,7 @@ describe('CascadeSelect.vue', () => {
     beforeEach(() => {
         wrapper = mount(CascadeSelect, {
             global: {
-                plugins: [primevue-lab],
+                plugins: [primevue - lab],
                 stubs: {
                     teleport: true
                 }

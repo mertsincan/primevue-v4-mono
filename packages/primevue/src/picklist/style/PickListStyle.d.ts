@@ -2,7 +2,7 @@
  *
  * PickList is used to reorder items between different lists.
  *
- * [Live Demo](https://primevue-lab.org/picklist)
+ * [Live Demo](https://primevuelab.org/picklist)
  *
  * @module pickliststyle
  *

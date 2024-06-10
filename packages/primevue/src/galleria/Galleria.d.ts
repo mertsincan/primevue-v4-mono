@@ -2,7 +2,7 @@
  *
  * Galleria is an advanced content gallery component.
  *
- * [Live Demo](https://www.primevue-lab.org/galleria/)
+ * [Live Demo](https://www.primevuelab.org/galleria/)
  *
  * @module galleria
  *
@@ -519,13 +519,13 @@ export interface GalleriaEmitsOptions {
 export declare type GalleriaEmits = EmitFn<GalleriaEmitsOptions>;
 
 /**
- * **primevue-lab - Galleria**
+ * **primevuelab - Galleria**
  *
  * _Galleria is an advanced content gallery component._
  *
- * [Live Demo](https://www.primevue-lab.org/galleria/)
+ * [Live Demo](https://www.primevuelab.org/galleria/)
  * --- ---
- * ![primevue-lab](https://primefaces.org/cdn/primevue-lab/images/logo-100.png)
+ * ![primevuelab](https://primefaces.org/cdn/primevuelab/images/logo-100.png)
  *
  * @group Component
  *

@@ -35,10 +35,10 @@
 </template>
 
 <script>
-import { UniqueComponentId } from '@primevue-lab/core/utils';
-import MinusIcon from '@primevue-lab/icons/minus';
-import PlusIcon from '@primevue-lab/icons/plus';
-import Ripple from 'primevue-lab/ripple';
+import { UniqueComponentId } from '@primevuelab/core/utils';
+import MinusIcon from '@primevuelab/icons/minus';
+import PlusIcon from '@primevuelab/icons/plus';
+import Ripple from 'primevuelab/ripple';
 import BaseFieldset from './BaseFieldset.vue';
 
 export default {

@@ -3,8 +3,8 @@
 </template>
 
 <script>
-import BaseComponent from '@primevue-lab/core/basecomponent';
-import RadioButton from 'primevue-lab/radiobutton';
+import BaseComponent from '@primevuelab/core/basecomponent';
+import RadioButton from 'primevuelab/radiobutton';
 import { mergeProps } from 'vue';
 
 export default {

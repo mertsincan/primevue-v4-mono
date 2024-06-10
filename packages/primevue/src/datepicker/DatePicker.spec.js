@@ -1,5 +1,4 @@
 import { mount } from '@vue/test-utils';
-import primevue-lab from 'primevue-lab/config';
 import DatePicker from './DatePicker.vue';
 
 describe('DatePicker.vue', () => {
@@ -8,7 +7,7 @@ describe('DatePicker.vue', () => {
     beforeEach(() => {
         wrapper = mount(DatePicker, {
             global: {
-                plugins: [primevue-lab],
+                plugins: [primevue - lab],
                 stubs: {
                     teleport: true
                 }

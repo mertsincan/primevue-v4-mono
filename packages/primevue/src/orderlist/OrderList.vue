@@ -67,14 +67,14 @@
 </template>
 
 <script>
-import { DomHandler, ObjectUtils, UniqueComponentId } from '@primevue-lab/core/utils';
-import AngleDoubleDownIcon from '@primevue-lab/icons/angledoubledown';
-import AngleDoubleUpIcon from '@primevue-lab/icons/angledoubleup';
-import AngleDownIcon from '@primevue-lab/icons/angledown';
-import AngleUpIcon from '@primevue-lab/icons/angleup';
-import Button from 'primevue-lab/button';
-import Listbox from 'primevue-lab/listbox';
-import Ripple from 'primevue-lab/ripple';
+import { DomHandler, ObjectUtils, UniqueComponentId } from '@primevuelab/core/utils';
+import AngleDoubleDownIcon from '@primevuelab/icons/angledoubledown';
+import AngleDoubleUpIcon from '@primevuelab/icons/angledoubleup';
+import AngleDownIcon from '@primevuelab/icons/angledown';
+import AngleUpIcon from '@primevuelab/icons/angleup';
+import Button from 'primevuelab/button';
+import Listbox from 'primevuelab/listbox';
+import Ripple from 'primevuelab/ripple';
 import BaseOrderList from './BaseOrderList.vue';
 
 export default {

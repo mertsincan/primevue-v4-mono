@@ -1,6 +1,6 @@
 <script>
-import BaseComponent from '@primevue-lab/core/basecomponent';
-import TagStyle from 'primevue-lab/tag/style';
+import BaseComponent from '@primevuelab/core/basecomponent';
+import TagStyle from 'primevuelab/tag/style';
 
 export default {
     name: 'BaseTag',

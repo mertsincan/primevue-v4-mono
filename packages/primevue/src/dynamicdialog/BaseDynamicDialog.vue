@@ -1,6 +1,6 @@
 <script>
-import BaseComponent from '@primevue-lab/core/basecomponent';
-import DynamicDialogStyle from 'primevue-lab/dynamicdialog/style';
+import BaseComponent from '@primevuelab/core/basecomponent';
+import DynamicDialogStyle from 'primevuelab/dynamicdialog/style';
 
 export default {
     name: 'BaseDynamicDialog',

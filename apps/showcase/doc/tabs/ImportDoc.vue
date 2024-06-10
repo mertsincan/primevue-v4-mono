@@ -9,11 +9,11 @@ export default {
         return {
             code: {
                 basic: `
-import Tabs from 'primevue-lab/tabs';
-import TabList from 'primevue-lab/tablist';
-import Tab from 'primevue-lab/tab';
-import TabPanels from 'primevue-lab/tabpanels';
-import TabPanel from 'primevue-lab/tabpanel';
+import Tabs from 'primevuelab/tabs';
+import TabList from 'primevuelab/tablist';
+import Tab from 'primevuelab/tab';
+import TabPanels from 'primevuelab/tabpanels';
+import TabPanel from 'primevuelab/tabpanel';
 `
             }
         };

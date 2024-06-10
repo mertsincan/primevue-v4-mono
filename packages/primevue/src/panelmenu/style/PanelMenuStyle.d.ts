@@ -2,7 +2,7 @@
  *
  * PanelMenu is a hybrid of Accordion and Tree components.
  *
- * [Live Demo](https://www.primevue-lab.org/panelmenu/)
+ * [Live Demo](https://www.primevuelab.org/panelmenu/)
  *
  * @module panelmenustyle
  *

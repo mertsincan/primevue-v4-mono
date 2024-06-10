@@ -74,11 +74,11 @@
 </template>
 
 <script>
-import BaseComponent from '@primevue-lab/core/basecomponent';
-import { ObjectUtils } from '@primevue-lab/core/utils';
-import AngleDownIcon from '@primevue-lab/icons/angledown';
-import AngleRightIcon from '@primevue-lab/icons/angleright';
-import Ripple from 'primevue-lab/ripple';
+import BaseComponent from '@primevuelab/core/basecomponent';
+import { ObjectUtils } from '@primevuelab/core/utils';
+import AngleDownIcon from '@primevuelab/icons/angledown';
+import AngleRightIcon from '@primevuelab/icons/angleright';
+import Ripple from 'primevuelab/ripple';
 import { mergeProps } from 'vue';
 
 export default {

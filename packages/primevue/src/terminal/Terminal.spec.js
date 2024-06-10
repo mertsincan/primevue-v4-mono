@@ -1,5 +1,5 @@
 import { mount } from '@vue/test-utils';
-import TerminalService from 'primevue-lab/terminalservice';
+import TerminalService from 'primevuelab/terminalservice';
 import Terminal from './Terminal.vue';
 
 describe('Terminal.vue', () => {
@@ -8,7 +8,7 @@ describe('Terminal.vue', () => {
             components: {
                 Terminal
             },
-            template: `<Terminal welcomeMessage="Welcome to primevue-lab" prompt="primevue-lab $" class="dark-demo-terminal" />`,
+            template: `<Terminal welcomeMessage="Welcome to primevuelab" prompt="primevuelab $" class="dark-demo-terminal" />`,
             mounted() {
                 TerminalService.on('command', this.commandHandler);
             },
@@ -44,7 +44,7 @@ describe('Terminal.vue', () => {
             components: {
                 Terminal
             },
-            template: `<Terminal welcomeMessage="Welcome to primevue-lab" prompt="primevue-lab $" class="dark-demo-terminal" />`,
+            template: `<Terminal welcomeMessage="Welcome to primevuelab" prompt="primevuelab $" class="dark-demo-terminal" />`,
             mounted() {
                 TerminalService.on('command', this.commandHandler);
             },

@@ -2,7 +2,7 @@
  *
  * RadioButton is an extension to standard radio button element with theming.
  *
- * [Live Demo](https://www.primevue-lab.org/radiobutton/)
+ * [Live Demo](https://www.primevuelab.org/radiobutton/)
  *
  * @module radiobutton
  *
@@ -222,13 +222,13 @@ export interface RadioButtonEmitsOptions {
 export declare type RadioButtonEmits = EmitFn<RadioButtonEmitsOptions>;
 
 /**
- * **primevue-lab - RadioButton**
+ * **primevuelab - RadioButton**
  *
  * _RadioButton is an extension to standard radio button element with theming._
  *
- * [Live Demo](https://www.primevue-lab.org/radiobutton/)
+ * [Live Demo](https://www.primevuelab.org/radiobutton/)
  * --- ---
- * ![primevue-lab](https://primefaces.org/cdn/primevue-lab/images/logo-100.png)
+ * ![primevuelab](https://primefaces.org/cdn/primevuelab/images/logo-100.png)
  *
  * @group Component
  *

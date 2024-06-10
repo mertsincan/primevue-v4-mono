@@ -2,7 +2,7 @@
  *
  * When pressed, a floating action button can display multiple primary actions that can be performed on a page.
  *
- * [Live Demo](https://www.primevue-lab.org/speeddial/)
+ * [Live Demo](https://www.primevuelab.org/speeddial/)
  *
  * @module speeddialstyle
  *

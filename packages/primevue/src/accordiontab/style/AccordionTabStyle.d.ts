@@ -3,7 +3,7 @@
  *
  * AccordionTab is a helper component for Accordion.
  *
- * [Live Demo](https://www.primevue-lab.org/accordion/)
+ * [Live Demo](https://www.primevuelab.org/accordion/)
  *
  * @module accordiontabstyle
  *

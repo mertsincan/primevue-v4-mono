@@ -1,6 +1,6 @@
 <script>
-import BaseComponent from '@primevue-lab/core/basecomponent';
-import ChartStyle from 'primevue-lab/chart/style';
+import BaseComponent from '@primevuelab/core/basecomponent';
+import ChartStyle from 'primevuelab/chart/style';
 
 export default {
     name: 'BaseChart',

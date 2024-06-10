@@ -5,9 +5,9 @@
 </template>
 
 <script>
-import BaseComponent from '@primevue-lab/core/basecomponent';
-import AngleRightIcon from '@primevue-lab/icons/angleright';
-import Ripple from 'primevue-lab/ripple';
+import BaseComponent from '@primevuelab/core/basecomponent';
+import AngleRightIcon from '@primevuelab/icons/angleright';
+import Ripple from 'primevuelab/ripple';
 
 export default {
     name: 'NextPageLink',

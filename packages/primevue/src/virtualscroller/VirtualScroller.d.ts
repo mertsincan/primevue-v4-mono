@@ -2,7 +2,7 @@
  *
  * VirtualScroller is a performant approach to handle huge data efficiently.
  *
- * [Live Demo](https://www.primevue-lab.org/virtualscroller/)
+ * [Live Demo](https://www.primevuelab.org/virtualscroller/)
  *
  * @module virtualscroller
  *
@@ -515,13 +515,13 @@ export interface VirtualScrollerMethods {
 }
 
 /**
- * **primevue-lab - VirtualScroller**
+ * **primevuelab - VirtualScroller**
  *
  * _VirtualScroller is a performant approach to handle huge data efficiently._
  *
- * [Live Demo](https://www.primevue-lab.org/virtualscroller/)
+ * [Live Demo](https://www.primevuelab.org/virtualscroller/)
  * --- ---
- * ![primevue-lab](https://primefaces.org/cdn/primevue-lab/images/logo-100.png)
+ * ![primevuelab](https://primefaces.org/cdn/primevuelab/images/logo-100.png)
  *
  * @group Component
  *

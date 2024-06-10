@@ -1,13 +1,13 @@
 <template>
     <Head>
-        <Title>Auto Import - primevue-lab</Title>
-        <Meta name="description" content="On-demand primevue-lab components with auto importing." />
+        <Title>Auto Import - primevuelab</Title>
+        <Meta name="description" content="On-demand primevuelab components with auto importing." />
     </Head>
     <div class="doc">
         <div class="doc-main">
             <div class="doc-intro">
                 <h1>Auto Import</h1>
-                <p>On-demand primevue-lab components with auto importing.</p>
+                <p>On-demand primevuelab components with auto importing.</p>
             </div>
             <DocSections :docs="docs" />
         </div>

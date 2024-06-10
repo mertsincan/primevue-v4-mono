@@ -2,7 +2,7 @@
  *
  * FileUpload is an advanced uploader with dragdrop support, multi file uploads, auto uploading, progress tracking and validations.
  *
- * [Live Demo](https://www.primevue-lab.org/fileupload/)
+ * [Live Demo](https://www.primevuelab.org/fileupload/)
  *
  * @module fileuploadstyle
  *

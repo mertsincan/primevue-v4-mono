@@ -2,7 +2,7 @@
  *
  * DeferredContent postpones the loading the content that is initially not in the viewport until it becomes visible on scroll.
  *
- * [Live Demo](https://www.primevue-lab.org/deferredcontent/)
+ * [Live Demo](https://www.primevuelab.org/deferredcontent/)
  *
  * @module deferredcontent
  *
@@ -126,13 +126,13 @@ export interface DeferredContentEmitsOptions {
 export declare type DeferredContentEmits = EmitFn<DeferredContentEmitsOptions>;
 
 /**
- * **primevue-lab - DeferredContent**
+ * **primevuelab - DeferredContent**
  *
  * _DeferredContent postpones the loading the content that is initially not in the viewport until it becomes visible on scroll._
  *
- * [Live Demo](https://www.primevue-lab.org/deferredcontent/)
+ * [Live Demo](https://www.primevuelab.org/deferredcontent/)
  * --- ---
- * ![primevue-lab](https://primefaces.org/cdn/primevue-lab/images/logo-100.png)
+ * ![primevuelab](https://primefaces.org/cdn/primevuelab/images/logo-100.png)
  *
  * @group Component
  *

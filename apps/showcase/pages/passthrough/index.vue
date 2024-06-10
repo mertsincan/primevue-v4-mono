@@ -1,6 +1,6 @@
 <template>
     <Head>
-        <Title>primevue-lab - Pass Through</Title>
+        <Title>primevuelab - Pass Through</Title>
         <Meta name="description" content="The Pass Through props is an API to access the internal DOM Structure of the components." />
     </Head>
     <div class="doc">

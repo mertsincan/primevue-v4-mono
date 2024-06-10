@@ -2,7 +2,7 @@
  *
  * Galleria is an advanced content gallery component.
  *
- * [Live Demo](https://www.primevue-lab.org/galleria/)
+ * [Live Demo](https://www.primevuelab.org/galleria/)
  *
  * @module galleriastyle
  *

@@ -25,9 +25,9 @@
 </template>
 
 <script>
-import BaseComponent from '@primevue-lab/core/basecomponent';
-import { ObjectUtils } from '@primevue-lab/core/utils';
-import Ripple from 'primevue-lab/ripple';
+import BaseComponent from '@primevuelab/core/basecomponent';
+import { ObjectUtils } from '@primevuelab/core/utils';
+import Ripple from 'primevuelab/ripple';
 import { mergeProps } from 'vue';
 
 export default {

@@ -9,7 +9,7 @@ export default {
         return {
             code: {
                 basic: `
-import Tooltip from 'primevue-lab/tooltip';
+import Tooltip from 'primevuelab/tooltip';
 
 app.directive('tooltip', Tooltip);
 `

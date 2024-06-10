@@ -2,7 +2,7 @@
  *
  * SplitButton groups a set of commands in an overlay with a default command.
  *
- * [Live Demo](https://www.primevue-lab.org/splitbutton/)
+ * [Live Demo](https://www.primevuelab.org/splitbutton/)
  *
  * @module splitbutton
  *
@@ -320,13 +320,13 @@ export interface SplitButtonEmitsOptions {
 export declare type SplitButtonEmits = EmitFn<SplitButtonEmitsOptions>;
 
 /**
- * **primevue-lab - SplitButton**
+ * **primevuelab - SplitButton**
  *
  * _SplitButton groups a set of commands in an overlay with a default command._
  *
- * [Live Demo](https://www.primevue-lab.org/splitbutton/)
+ * [Live Demo](https://www.primevuelab.org/splitbutton/)
  * --- ---
- * ![primevue-lab](https://primefaces.org/cdn/primevue-lab/images/logo-100.png)
+ * ![primevuelab](https://primefaces.org/cdn/primevuelab/images/logo-100.png)
  *
  * @group Component
  *

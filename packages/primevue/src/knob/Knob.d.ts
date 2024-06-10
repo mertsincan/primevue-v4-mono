@@ -2,7 +2,7 @@
  *
  * Knob is a form component to define number inputs with a dial.
  *
- * [Live Demo](https://www.primevue-lab.org/knob/)
+ * [Live Demo](https://www.primevuelab.org/knob/)
  *
  * @module knob
  *
@@ -237,13 +237,13 @@ export interface KnobEmitsOptions {
 export declare type KnobEmits = EmitFn<KnobEmitsOptions>;
 
 /**
- * **primevue-lab - Knob**
+ * **primevuelab - Knob**
  *
  * _Knob groups a collection of contents in tabs._
  *
- * [Live Demo](https://www.primevue-lab.org/knob/)
+ * [Live Demo](https://www.primevuelab.org/knob/)
  * --- ---
- * ![primevue-lab](https://primefaces.org/cdn/primevue-lab/images/logo-100.png)
+ * ![primevuelab](https://primefaces.org/cdn/primevuelab/images/logo-100.png)
  *
  * @group Component
  *

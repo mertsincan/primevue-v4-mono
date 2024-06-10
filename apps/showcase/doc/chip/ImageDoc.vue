@@ -3,10 +3,10 @@
         <p>The <i>image</i> property is used to display an image like an avatar.</p>
     </DocSectionText>
     <div class="card flex flex-wrap gap-2">
-        <Chip label="Amy Elsner" image="https://primefaces.org/cdn/primevue-lab/images/avatar/amyelsner.png" />
-        <Chip label="Asiya Javayant" image="https://primefaces.org/cdn/primevue-lab/images/avatar/asiyajavayant.png" />
-        <Chip label="Onyama Limba" image="https://primefaces.org/cdn/primevue-lab/images/avatar/onyamalimba.png" />
-        <Chip label="Xuxue Feng" image="https://primefaces.org/cdn/primevue-lab/images/avatar/xuxuefeng.png" removable />
+        <Chip label="Amy Elsner" image="https://primefaces.org/cdn/primevuelab/images/avatar/amyelsner.png" />
+        <Chip label="Asiya Javayant" image="https://primefaces.org/cdn/primevuelab/images/avatar/asiyajavayant.png" />
+        <Chip label="Onyama Limba" image="https://primefaces.org/cdn/primevuelab/images/avatar/onyamalimba.png" />
+        <Chip label="Xuxue Feng" image="https://primefaces.org/cdn/primevuelab/images/avatar/xuxuefeng.png" removable />
     </div>
     <DocSectionCode :code="code" />
 </template>
@@ -25,10 +25,10 @@ export default {
                 options: `
 <template>
     <div class="card flex flex-wrap gap-2">
-        <Chip label="Amy Elsner" image="https://primefaces.org/cdn/primevue-lab/images/avatar/amyelsner.png" />
-        <Chip label="Asiya Javayant" image="https://primefaces.org/cdn/primevue-lab/images/avatar/asiyajavayant.png" />
-        <Chip label="Onyama Limba" image="https://primefaces.org/cdn/primevue-lab/images/avatar/onyamalimba.png" />
-        <Chip label="Xuxue Feng" image="https://primefaces.org/cdn/primevue-lab/images/avatar/xuxuefeng.png" removable />
+        <Chip label="Amy Elsner" image="https://primefaces.org/cdn/primevuelab/images/avatar/amyelsner.png" />
+        <Chip label="Asiya Javayant" image="https://primefaces.org/cdn/primevuelab/images/avatar/asiyajavayant.png" />
+        <Chip label="Onyama Limba" image="https://primefaces.org/cdn/primevuelab/images/avatar/onyamalimba.png" />
+        <Chip label="Xuxue Feng" image="https://primefaces.org/cdn/primevuelab/images/avatar/xuxuefeng.png" removable />
     </div>
 </template>
 
@@ -39,10 +39,10 @@ export default {
                 composition: `
 <template>
     <div class="card flex flex-wrap gap-2">
-        <Chip label="Amy Elsner" image="https://primefaces.org/cdn/primevue-lab/images/avatar/amyelsner.png" />
-        <Chip label="Asiya Javayant" image=https://primefaces.org/cdn/primevue-lab"/images/avatar/asiyajavayant.png" />
-        <Chip label="Onyama Limba" image="https://primefaces.org/cdn/primevue-lab/images/avatar/onyamalimba.png" />
-        <Chip label="Xuxue Feng" image="https://primefaces.org/cdn/primevue-lab/images/avatar/xuxuefeng.png" removable />
+        <Chip label="Amy Elsner" image="https://primefaces.org/cdn/primevuelab/images/avatar/amyelsner.png" />
+        <Chip label="Asiya Javayant" image=https://primefaces.org/cdn/primevuelab"/images/avatar/asiyajavayant.png" />
+        <Chip label="Onyama Limba" image="https://primefaces.org/cdn/primevuelab/images/avatar/onyamalimba.png" />
+        <Chip label="Xuxue Feng" image="https://primefaces.org/cdn/primevuelab/images/avatar/xuxuefeng.png" removable />
     </div>
 </template>
 

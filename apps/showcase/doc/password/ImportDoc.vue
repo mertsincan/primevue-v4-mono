@@ -9,7 +9,7 @@ export default {
         return {
             code: {
                 basic: `
-import Password from 'primevue-lab/password';
+import Password from 'primevuelab/password';
 `
             }
         };

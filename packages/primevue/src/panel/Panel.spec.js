@@ -7,7 +7,7 @@ describe('Panel.vue', () => {
     beforeEach(() => {
         wrapper = mount(Panel, {
             props: {
-                header: 'primevue-lab'
+                header: 'primevuelab'
             },
             slots: {
                 default: '<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt</p>'
@@ -18,7 +18,7 @@ describe('Panel.vue', () => {
     it('should exist', () => {
         expect(wrapper.find('.p-panel.p-component').exists()).toBe(true);
         expect(wrapper.find('.p-panel-content').text()).toBe('Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt');
-        expect(wrapper.find('.p-panel-title').text()).toBe('primevue-lab');
+        expect(wrapper.find('.p-panel-title').text()).toBe('primevuelab');
     });
 
     it('should be toggleable', async () => {

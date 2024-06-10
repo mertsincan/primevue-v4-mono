@@ -2,7 +2,7 @@
  *
  * DataTable displays data in tabular format.
  *
- * [Live Demo](https://www.primevue-lab.org/datatable/)
+ * [Live Demo](https://www.primevuelab.org/datatable/)
  *
  * @module datatablestyle
  *

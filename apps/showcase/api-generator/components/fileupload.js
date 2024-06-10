@@ -81,19 +81,19 @@ const FileUploadProps = [
         name: 'chooseLabel',
         type: 'string',
         default: 'null',
-        description: 'Label of the choose button. Defaults to primevue-lab Locale configuration.'
+        description: 'Label of the choose button. Defaults to primevuelab Locale configuration.'
     },
     {
         name: 'uploadLabel',
         type: 'string',
         default: 'Upoad',
-        description: 'Label of the upload button. Defaults to primevue-lab Locale configuration.'
+        description: 'Label of the upload button. Defaults to primevuelab Locale configuration.'
     },
     {
         name: 'cancelLabel',
         type: 'string',
         default: 'Cancel',
-        description: 'Label of the cancel button. Defaults to primevue-lab Locale configuration.'
+        description: 'Label of the cancel button. Defaults to primevuelab Locale configuration.'
     },
     {
         name: 'customUpload',

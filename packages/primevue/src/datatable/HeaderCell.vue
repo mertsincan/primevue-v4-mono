@@ -84,12 +84,12 @@
 </template>
 
 <script>
-import BaseComponent from '@primevue-lab/core/basecomponent';
-import { DomHandler, ObjectUtils } from '@primevue-lab/core/utils';
-import SortAltIcon from '@primevue-lab/icons/sortalt';
-import SortAmountDownIcon from '@primevue-lab/icons/sortamountdown';
-import SortAmountUpAltIcon from '@primevue-lab/icons/sortamountupalt';
-import Badge from 'primevue-lab/badge';
+import BaseComponent from '@primevuelab/core/basecomponent';
+import { DomHandler, ObjectUtils } from '@primevuelab/core/utils';
+import SortAltIcon from '@primevuelab/icons/sortalt';
+import SortAmountDownIcon from '@primevuelab/icons/sortamountdown';
+import SortAmountUpAltIcon from '@primevuelab/icons/sortamountupalt';
+import Badge from 'primevuelab/badge';
 import { mergeProps } from 'vue';
 import ColumnFilter from './ColumnFilter.vue';
 import HeaderCheckbox from './HeaderCheckbox.vue';

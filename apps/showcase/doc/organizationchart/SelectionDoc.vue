@@ -32,7 +32,7 @@ export default {
                 key: '0',
                 type: 'person',
                 data: {
-                    image: 'https://primefaces.org/cdn/primevue-lab/images/avatar/amyelsner.png',
+                    image: 'https://primefaces.org/cdn/primevuelab/images/avatar/amyelsner.png',
                     name: 'Amy Elsner',
                     title: 'CEO'
                 },
@@ -41,7 +41,7 @@ export default {
                         key: '0_0',
                         type: 'person',
                         data: {
-                            image: 'https://primefaces.org/cdn/primevue-lab/images/avatar/annafali.png',
+                            image: 'https://primefaces.org/cdn/primevuelab/images/avatar/annafali.png',
                             name: 'Anna Fali',
                             title: 'CMO'
                         },
@@ -60,7 +60,7 @@ export default {
                         key: '0_1',
                         type: 'person',
                         data: {
-                            image: 'https://primefaces.org/cdn/primevue-lab/images/avatar/stephenshaw.png',
+                            image: 'https://primefaces.org/cdn/primevuelab/images/avatar/stephenshaw.png',
                             name: 'Stephen Shaw',
                             title: 'CTO'
                         },
@@ -121,7 +121,7 @@ export default {
                 key: '0',
                 type: 'person',
                 data: {
-                    image: 'https://primefaces.org/cdn/primevue-lab/images/avatar/amyelsner.png',
+                    image: 'https://primefaces.org/cdn/primevuelab/images/avatar/amyelsner.png',
                     name: 'Amy Elsner',
                     title: 'CEO'
                 },
@@ -130,7 +130,7 @@ export default {
                         key: '0_0',
                         type: 'person',
                         data: {
-                            image: 'https://primefaces.org/cdn/primevue-lab/images/avatar/annafali.png',
+                            image: 'https://primefaces.org/cdn/primevuelab/images/avatar/annafali.png',
                             name: 'Anna Fali',
                             title: 'CMO'
                         },
@@ -149,7 +149,7 @@ export default {
                         key: '0_1',
                         type: 'person',
                         data: {
-                            image: 'https://primefaces.org/cdn/primevue-lab/images/avatar/stephenshaw.png',
+                            image: 'https://primefaces.org/cdn/primevuelab/images/avatar/stephenshaw.png',
                             name: 'Stephen Shaw',
                             title: 'CTO'
                         },
@@ -197,7 +197,7 @@ const data = ref({
     key: '0',
     type: 'person',
     data: {
-        image: 'https://primefaces.org/cdn/primevue-lab/images/avatar/amyelsner.png',
+        image: 'https://primefaces.org/cdn/primevuelab/images/avatar/amyelsner.png',
         name: 'Amy Elsner',
         title: 'CEO'
     },
@@ -206,7 +206,7 @@ const data = ref({
             key: '0_0',
             type: 'person',
             data: {
-                image: 'https://primefaces.org/cdn/primevue-lab/images/avatar/annafali.png',
+                image: 'https://primefaces.org/cdn/primevuelab/images/avatar/annafali.png',
                 name: 'Anna Fali',
                 title: 'CMO'
             },
@@ -225,7 +225,7 @@ const data = ref({
             key: '0_1',
             type: 'person',
             data: {
-                image: 'https://primefaces.org/cdn/primevue-lab/images/avatar/stephenshaw.png',
+                image: 'https://primefaces.org/cdn/primevuelab/images/avatar/stephenshaw.png',
                 name: 'Stephen Shaw',
                 title: 'CTO'
             },

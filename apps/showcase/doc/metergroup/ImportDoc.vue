@@ -9,7 +9,7 @@ export default {
         return {
             code: {
                 basic: `
-import MeterGroup from 'primevue-lab/metergroup';
+import MeterGroup from 'primevuelab/metergroup';
 `
             }
         };

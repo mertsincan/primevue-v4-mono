@@ -1,6 +1,6 @@
 /**
  *
- * [Live Demo](https://primevue-lab.org/)
+ * [Live Demo](https://primevuelab.org/)
  *
  * @module basecomponent
  *

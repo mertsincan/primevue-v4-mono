@@ -9,7 +9,7 @@ export default {
         return {
             code: {
                 basic: `
-import Slider from 'primevue-lab/slider';
+import Slider from 'primevuelab/slider';
 `
             }
         };

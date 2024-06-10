@@ -74,10 +74,10 @@
 </template>
 
 <script>
-import BaseComponent from '@primevue-lab/core/basecomponent';
-import { DomHandler, ObjectUtils } from '@primevue-lab/core/utils';
-import AngleRightIcon from '@primevue-lab/icons/angleright';
-import Ripple from 'primevue-lab/ripple';
+import BaseComponent from '@primevuelab/core/basecomponent';
+import { DomHandler, ObjectUtils } from '@primevuelab/core/utils';
+import AngleRightIcon from '@primevuelab/icons/angleright';
+import Ripple from 'primevuelab/ripple';
 import { mergeProps } from 'vue';
 
 export default {

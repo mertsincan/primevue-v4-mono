@@ -62,14 +62,14 @@
 </template>
 
 <script>
-import { DomHandler, UniqueComponentId, ZIndexUtils } from '@primevue-lab/core/utils';
-import TimesIcon from '@primevue-lab/icons/times';
-import WindowMaximizeIcon from '@primevue-lab/icons/windowmaximize';
-import WindowMinimizeIcon from '@primevue-lab/icons/windowminimize';
-import Button from 'primevue-lab/button';
-import FocusTrap from 'primevue-lab/focustrap';
-import Portal from 'primevue-lab/portal';
-import Ripple from 'primevue-lab/ripple';
+import { DomHandler, UniqueComponentId, ZIndexUtils } from '@primevuelab/core/utils';
+import TimesIcon from '@primevuelab/icons/times';
+import WindowMaximizeIcon from '@primevuelab/icons/windowmaximize';
+import WindowMinimizeIcon from '@primevuelab/icons/windowminimize';
+import Button from 'primevuelab/button';
+import FocusTrap from 'primevuelab/focustrap';
+import Portal from 'primevuelab/portal';
+import Ripple from 'primevuelab/ripple';
 import { computed } from 'vue';
 import BaseDialog from './BaseDialog.vue';
 

@@ -1,11 +1,11 @@
 /**
  *
- * [Live Demo](https://primevue-lab.org/)
+ * [Live Demo](https://primevuelab.org/)
  *
  * @module baseiconstyle
  *
  */
-import { BaseStyle } from '@primevue-lab/core/base/style';
+import { BaseStyle } from '@primevuelab/core/base/style';
 
 export enum BaseIconClasses {
     root = 'p-icon'

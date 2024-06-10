@@ -1,13 +1,13 @@
 <template>
     <Head>
-        <Title>Install primevue-lab with Vite</Title>
-        <Meta name="description" content="Setting up primevue-lab in a Vite project" />
+        <Title>Install primevuelab with Vite</Title>
+        <Meta name="description" content="Setting up primevuelab in a Vite project" />
     </Head>
     <div class="doc">
         <div class="doc-main">
             <div class="doc-intro">
-                <h1>Install primevue-lab with Vite</h1>
-                <p>Setting up primevue-lab in a Vite project.</p>
+                <h1>Install primevuelab with Vite</h1>
+                <p>Setting up primevuelab in a Vite project.</p>
             </div>
             <DocSections :docs="docs" />
         </div>
@@ -35,7 +35,7 @@ export default {
                     id: 'plugin',
                     label: 'Plugin',
                     description:
-                        'primevue-lab plugin is required to be installed as an application plugin to set up the default configuration. The plugin is lightweight, only sets up the configuration object without affecting your application. primevue-lab has two styling modes; Styled and Unstyled. If you are just getting started, begin with the styled mode.',
+                        'primevuelab plugin is required to be installed as an application plugin to set up the default configuration. The plugin is lightweight, only sets up the configuration object without affecting your application. primevuelab has two styling modes; Styled and Unstyled. If you are just getting started, begin with the styled mode.',
                     children: [
                         {
                             id: 'styled',

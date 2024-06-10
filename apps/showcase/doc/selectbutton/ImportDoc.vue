@@ -9,7 +9,7 @@ export default {
         return {
             code: {
                 basic: `
-import SelectButton from 'primevue-lab/selectbutton';
+import SelectButton from 'primevuelab/selectbutton';
 `
             }
         };

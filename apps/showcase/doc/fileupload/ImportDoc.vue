@@ -9,7 +9,7 @@ export default {
         return {
             code: {
                 basic: `
-import FileUpload from 'primevue-lab/fileupload';
+import FileUpload from 'primevuelab/fileupload';
 `
             }
         };

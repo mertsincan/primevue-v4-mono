@@ -9,7 +9,7 @@ export default {
         return {
             code: {
                 basic: `
-import Image from 'primevue-lab/image';
+import Image from 'primevuelab/image';
 `
             }
         };

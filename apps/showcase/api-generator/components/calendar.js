@@ -15,7 +15,7 @@ const CalendarProps = [
         name: 'dateFormat',
         type: 'string',
         default: 'null',
-        description: 'Format of the date. Defaults to primevue-lab Locale configuration.'
+        description: 'Format of the date. Defaults to primevuelab Locale configuration.'
     },
     {
         name: 'inline',

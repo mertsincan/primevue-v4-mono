@@ -1,6 +1,6 @@
 <template>
     <DocSectionText v-bind="$attrs">
-        <p>The <i>theme</i> property is used to customize the initial theme, prefer the <i>primevue-lab</i> plugin for custom configuration instead of the preconfigured <i>primevue-labStyled</i>.</p>
+        <p>The <i>theme</i> property is used to customize the initial theme, prefer the <i>primevuelab</i> plugin for custom configuration instead of the preconfigured <i>primevuelabStyled</i>.</p>
     </DocSectionText>
     <DocSectionCode :code="code" hideToggleCode importCode hideStackBlitz />
 </template>
@@ -11,12 +11,12 @@ export default {
         return {
             code: {
                 basic: `
-import primevue-lab from 'primevue-lab/config';
-import Aura from '@primevue-lab/themes/aura';
+import PrimeVue from 'primevuelab/config';
+import Aura from '@primevuelab/themes/aura';
 
 const app = createApp(App);
 
-app.use(primevue-lab, {
+app.use(primevuelab, {
     // Default theme configuration
     theme: {
         preset: Aura,

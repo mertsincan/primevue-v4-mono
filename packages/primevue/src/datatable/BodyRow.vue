@@ -93,10 +93,10 @@
 </template>
 
 <script>
-import BaseComponent from '@primevue-lab/core/basecomponent';
-import { ObjectUtils } from '@primevue-lab/core/utils';
-import ChevronDownIcon from '@primevue-lab/icons/chevrondown';
-import ChevronRightIcon from '@primevue-lab/icons/chevronright';
+import BaseComponent from '@primevuelab/core/basecomponent';
+import { ObjectUtils } from '@primevuelab/core/utils';
+import ChevronDownIcon from '@primevuelab/icons/chevrondown';
+import ChevronRightIcon from '@primevuelab/icons/chevronright';
 import { mergeProps } from 'vue';
 import BodyCell from './BodyCell.vue';
 

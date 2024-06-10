@@ -9,7 +9,7 @@ export default {
         return {
             code: {
                 basic: `
-import Galleria from 'primevue-lab/galleria';
+import Galleria from 'primevuelab/galleria';
 `
             }
         };

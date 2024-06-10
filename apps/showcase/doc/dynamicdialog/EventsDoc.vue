@@ -14,7 +14,7 @@ export default {
             code1: {
                 basic: `
 import ProductListDemo from './ProductListDemo';
-import { useDialog } from 'primevue-lab/usedialog';
+import { useDialog } from 'primevuelab/usedialog';
 
 const dialog = useDialog();
 

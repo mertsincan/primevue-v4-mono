@@ -1,6 +1,6 @@
 <script>
-import BaseComponent from '@primevue-lab/core/basecomponent';
-import CheckboxStyle from 'primevue-lab/checkbox/style';
+import BaseComponent from '@primevuelab/core/basecomponent';
+import CheckboxStyle from 'primevuelab/checkbox/style';
 
 export default {
     name: 'BaseCheckbox',

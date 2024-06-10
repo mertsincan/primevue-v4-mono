@@ -2,7 +2,7 @@
  *
  * Tree is used to display hierarchical data.
  *
- * [Live Demo](https://www.primevue-lab.org/tree/)
+ * [Live Demo](https://www.primevuelab.org/tree/)
  *
  * @module treestyle
  *

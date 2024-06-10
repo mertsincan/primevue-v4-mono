@@ -1,5 +1,5 @@
 <script>
-import Popover from 'primevue-lab/popover';
+import Popover from 'primevuelab/popover';
 
 export default {
     name: 'OverlayPanel',

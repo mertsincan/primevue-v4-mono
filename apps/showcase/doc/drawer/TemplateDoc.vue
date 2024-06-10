@@ -6,7 +6,7 @@
         <Drawer v-model:visible="visible">
             <template #header>
                 <div class="flex items-center gap-2">
-                    <Avatar image="https://primefaces.org/cdn/primevue-lab/images/avatar/amyelsner.png" shape="circle" />
+                    <Avatar image="https://primefaces.org/cdn/primevuelab/images/avatar/amyelsner.png" shape="circle" />
                     <span class="font-bold">Amy Elsner</span>
                 </div>
             </template>
@@ -53,7 +53,7 @@ export default {
         <Drawer v-model:visible="visible">
             <template #header>
                 <div class="flex items-center gap-2">
-                    <Avatar image="https://primefaces.org/cdn/primevue-lab/images/avatar/amyelsner.png" shape="circle" />
+                    <Avatar image="https://primefaces.org/cdn/primevuelab/images/avatar/amyelsner.png" shape="circle" />
                     <span class="font-bold">Amy Elsner</span>
                 </div>
             </template>
@@ -85,7 +85,7 @@ export default {
         <Drawer v-model:visible="visible">
             <template #header>
                 <div class="flex items-center gap-2">
-                    <Avatar image="https://primefaces.org/cdn/primevue-lab/images/avatar/amyelsner.png" shape="circle" />
+                    <Avatar image="https://primefaces.org/cdn/primevuelab/images/avatar/amyelsner.png" shape="circle" />
                     <span class="font-bold">Amy Elsner</span>
                 </div>
             </template>

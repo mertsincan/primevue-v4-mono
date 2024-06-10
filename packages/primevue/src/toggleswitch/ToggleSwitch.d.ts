@@ -2,7 +2,7 @@
  *
  * ToggleSwitch is used to select a boolean value.
  *
- * [Live Demo](https://www.primevue-lab.org/toggleswitch/)
+ * [Live Demo](https://www.primevuelab.org/toggleswitch/)
  *
  * @module toggleswitch
  *
@@ -200,13 +200,13 @@ export interface ToggleSwitchEmitsOptions {
 export declare type ToggleSwitchEmits = EmitFn<ToggleSwitchEmitsOptions>;
 
 /**
- * **primevue-lab - ToggleSwitch**
+ * **primevuelab - ToggleSwitch**
  *
  * _ToggleSwitch is used to select a boolean value._
  *
- * [Live Demo](https://www.primevue-lab.org/toggleswitch/)
+ * [Live Demo](https://www.primevuelab.org/toggleswitch/)
  * --- ---
- * ![primevue-lab](https://primefaces.org/cdn/primevue-lab/images/logo-100.png)
+ * ![primevuelab](https://primefaces.org/cdn/primevuelab/images/logo-100.png)
  *
  * @group Component
  *

@@ -71,7 +71,7 @@ export default {
 
 <script setup>
 import { ref, onMounted, onBeforeUnmount } from "vue";
-import { useToast } from "primevue-lab/usetoast";
+import { useToast } from "primevuelab/usetoast";
 
 onMounted(() => {
     startProgress();

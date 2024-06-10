@@ -113,8 +113,8 @@ export default {
 </template>
 
 <script setup>
-import { useConfirm } from "primevue-lab/useconfirm";
-import { useToast } from "primevue-lab/usetoast";
+import { useConfirm } from "primevuelab/useconfirm";
+import { useToast } from "primevuelab/usetoast";
 
 const confirm = useConfirm();
 const toast = useToast();

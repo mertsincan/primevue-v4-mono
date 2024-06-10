@@ -2,7 +2,7 @@
  *
  * OrderList is used to managed the order of a collection.
  *
- * [Live Demo](https://primevue-lab.org/orderlist)
+ * [Live Demo](https://primevuelab.org/orderlist)
  *
  * @module orderliststyle
  *

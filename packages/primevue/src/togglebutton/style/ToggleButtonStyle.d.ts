@@ -2,7 +2,7 @@
  *
  * ToggleButton is used to select a boolean value using a button.
  *
- * [Live Demo](https://www.primevue-lab.org/togglebutton/)
+ * [Live Demo](https://www.primevuelab.org/togglebutton/)
  *
  * @module togglebuttonstyle
  *

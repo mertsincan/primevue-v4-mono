@@ -9,8 +9,8 @@ export default {
         return {
             code: {
                 basic: `
-import TreeTable from 'primevue-lab/treetable';
-import Column from 'primevue-lab/column';
+import TreeTable from 'primevuelab/treetable';
+import Column from 'primevuelab/column';
 `
             }
         };

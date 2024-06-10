@@ -2,7 +2,7 @@
  *
  * MegaMenu is navigation component that displays submenus together.
  *
- * [Live Demo](https://www.primevue-lab.org/megamenu/)
+ * [Live Demo](https://www.primevuelab.org/megamenu/)
  *
  * @module megamenu
  *
@@ -388,13 +388,13 @@ export interface MegaMenuEmitsOptions {
 export declare type MegaMenuEmits = EmitFn<MegaMenuEmitsOptions>;
 
 /**
- * **primevue-lab - MegaMenu**
+ * **primevuelab - MegaMenu**
  *
  * _MegaMenu is navigation component that displays submenus together._
  *
- * [Live Demo](https://www.primevue-lab.org/megamenu/)
+ * [Live Demo](https://www.primevuelab.org/megamenu/)
  * --- ---
- * ![primevue-lab](https://primefaces.org/cdn/primevue-lab/images/logo-100.png)
+ * ![primevuelab](https://primefaces.org/cdn/primevuelab/images/logo-100.png)
  *
  * @group Component
  *

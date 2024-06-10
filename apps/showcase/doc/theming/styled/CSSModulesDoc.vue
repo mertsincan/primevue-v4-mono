@@ -1,8 +1,8 @@
 <template>
     <DocSectionText v-bind="$attrs">
         <p>
-            <a href="https://github.com/css-modules/css-modules">CSS modules</a> are supported by enabling the <i>module</i> property on a style element within your SFC. Use the <i>$style</i> keyword to apply classes to a primevue-lab component. It
-            is recommend to enable <i>cssLayer</i> when using CSS modules so that the primevue-lab styles have low CSS specificity.
+            <a href="https://github.com/css-modules/css-modules">CSS modules</a> are supported by enabling the <i>module</i> property on a style element within your SFC. Use the <i>$style</i> keyword to apply classes to a primevuelab component. It is
+            recommend to enable <i>cssLayer</i> when using CSS modules so that the primevuelab styles have low CSS specificity.
         </p>
         <div class="card flex justify-center">
             <InputText :class="$style.myinput" placeholder="Search" />

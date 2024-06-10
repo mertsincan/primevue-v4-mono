@@ -267,31 +267,31 @@ const MultiSelectProps = [
         name: 'filterMessage',
         type: 'string',
         default: '{0} results are available',
-        description: 'Text to be displayed in hidden accessible field when filtering returns any results. Defaults to value from primevue-lab locale configuration.'
+        description: 'Text to be displayed in hidden accessible field when filtering returns any results. Defaults to value from primevuelab locale configuration.'
     },
     {
         name: 'selectionMessage',
         type: 'string',
         default: '{0} items selected',
-        description: 'Text to be displayed in hidden accessible field when options are selected. Defaults to value from primevue-lab locale configuration.'
+        description: 'Text to be displayed in hidden accessible field when options are selected. Defaults to value from primevuelab locale configuration.'
     },
     {
         name: 'emptySelectionMessage',
         type: 'string',
         default: 'No selected item',
-        description: 'Text to be displayed in hidden accessible field when any option is not selected. Defaults to value from primevue-lab locale configuration.'
+        description: 'Text to be displayed in hidden accessible field when any option is not selected. Defaults to value from primevuelab locale configuration.'
     },
     {
         name: 'emptyFilterMessage',
         type: 'string',
         default: 'No results found',
-        description: 'Text to display when filtering does not return any results. Defaults to value from primevue-lab locale configuration.'
+        description: 'Text to display when filtering does not return any results. Defaults to value from primevuelab locale configuration.'
     },
     {
         name: 'emptyMessage',
         type: 'string',
         default: 'No results found',
-        description: 'Text to display when there are no options available. Defaults to value from primevue-lab locale configuration.'
+        description: 'Text to display when there are no options available. Defaults to value from primevuelab locale configuration.'
     },
     {
         name: 'tabindex',

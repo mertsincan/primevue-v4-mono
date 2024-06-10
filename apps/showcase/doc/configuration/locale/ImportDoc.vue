@@ -1,6 +1,6 @@
 <template>
     <DocSectionText v-bind="$attrs">
-        <p>Locale values are stored in the global configuration that becomes accessible after installing the primevue-lab.</p>
+        <p>Locale values are stored in the global configuration that becomes accessible after installing the primevuelab.</p>
     </DocSectionText>
     <DocSectionCode :code="code" hideToggleCode importCode hideStackBlitz />
 </template>
@@ -11,10 +11,10 @@ export default {
         return {
             code: {
                 basic: `
-import primevue-lab from 'primevue-lab/config';
+import PrimeVue from 'primevuelab/config';
 const app = createApp(App);
 
-app.use(primevue-lab);`
+app.use(primevuelab);`
             }
         };
     }

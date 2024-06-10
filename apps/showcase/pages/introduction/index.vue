@@ -1,14 +1,14 @@
 <template>
     <Head>
-        <Title>Introduction - primevue-lab</Title>
+        <Title>Introduction - primevuelab</Title>
         <Meta name="description" content="Next-generation UI Component suite for Vue." />
     </Head>
     <div class="doc">
         <div class="doc-main">
             <div class="doc-intro">
                 <div style="border-radius: 20px; max-height: 640px" class="overflow-hidden mb-8 flex items-center">
-                    <img alt="primevue-lab Designer" :src="introDesktopImg" class="w-full hidden md:block" />
-                    <img alt="primevue-lab Designer" :src="introMobileImg" class="w-full md:hidden" />
+                    <img alt="primevuelab Designer" :src="introDesktopImg" class="w-full hidden md:block" />
+                    <img alt="primevuelab Designer" :src="introMobileImg" class="w-full md:hidden" />
                 </div>
                 <h1>Introduction</h1>
                 <p>Next-generation UI Component suite for Vue.</p>
@@ -60,10 +60,10 @@ export default {
     },
     computed: {
         introDesktopImg() {
-            return `https://primefaces.org/cdn/primevue-lab/images/overview${this.$appState.darkTheme ? '-dark' : ''}.png`;
+            return `https://primefaces.org/cdn/primevuelab/images/overview${this.$appState.darkTheme ? '-dark' : ''}.png`;
         },
         introMobileImg() {
-            return `https://primefaces.org/cdn/primevue-lab/images/overview${this.$appState.darkTheme ? '-dark' : ''}-mobile.png`;
+            return `https://primefaces.org/cdn/primevuelab/images/overview${this.$appState.darkTheme ? '-dark' : ''}-mobile.png`;
         }
     }
 };

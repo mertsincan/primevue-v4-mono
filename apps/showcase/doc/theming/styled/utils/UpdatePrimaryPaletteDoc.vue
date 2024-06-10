@@ -11,7 +11,7 @@ export default {
         return {
             code: {
                 basic: `
-import { updatePrimaryPalette } from '@primevue-lab/themes';
+import { updatePrimaryPalette } from '@primevuelab/themes';
 
 const changePrimaryColor() {
     updatePrimaryPalette({

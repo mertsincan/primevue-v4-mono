@@ -2,7 +2,7 @@
  *
  * OverlayPanel is a container component positioned as connected to its target.
  *
- * [Live Demo](https://primevue-lab.org/popover)
+ * [Live Demo](https://primevuelab.org/popover)
  *
  * @module overlaypanelstyle
  *

@@ -9,7 +9,7 @@ export default {
         return {
             code: {
                 basic: `
-import Listbox from 'primevue-lab/listbox';
+import Listbox from 'primevuelab/listbox';
 `
             }
         };

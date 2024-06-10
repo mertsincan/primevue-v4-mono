@@ -2,7 +2,7 @@
  *
  * Tree is used to display hierarchical data.
  *
- * [Live Demo](https://www.primevue-lab.org/tree/)
+ * [Live Demo](https://www.primevuelab.org/tree/)
  *
  * @module tree
  *
@@ -503,13 +503,13 @@ export interface TreeEmitsOptions {
 export declare type TreeEmits = EmitFn<TreeEmitsOptions>;
 
 /**
- * **primevue-lab - Tree**
+ * **primevuelab - Tree**
  *
  * _Tree is used to display hierarchical data._
  *
- * [Live Demo](https://www.primevue-lab.org/tree/)
+ * [Live Demo](https://www.primevuelab.org/tree/)
  * --- ---
- * ![primevue-lab](https://primefaces.org/cdn/primevue-lab/images/logo-100.png)
+ * ![primevuelab](https://primefaces.org/cdn/primevuelab/images/logo-100.png)
  *
  * @group Component
  *

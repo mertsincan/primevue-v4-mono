@@ -9,7 +9,7 @@ export default {
         return {
             code: {
                 basic: `
-import Toast from 'primevue-lab/toast';
+import Toast from 'primevuelab/toast';
 `
             }
         };

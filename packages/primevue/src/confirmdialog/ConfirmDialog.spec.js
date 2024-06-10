@@ -1,12 +1,11 @@
 import { mount } from '@vue/test-utils';
-import primevue-lab from 'primevue-lab/config';
 import ConfirmDialog from './ConfirmDialog.vue';
 
 describe('ConfirmDialog', () => {
     it('should exist', async () => {
         const wrapper = mount(ConfirmDialog, {
             global: {
-                plugins: [primevue-lab],
+                plugins: [primevue - lab],
                 stubs: {
                     teleport: true,
                     transition: false
@@ -38,7 +37,7 @@ describe('ConfirmDialog', () => {
     it('should dialog trigger the accept function', async () => {
         const wrapper = mount(ConfirmDialog, {
             global: {
-                plugins: [primevue-lab],
+                plugins: [primevue - lab],
                 stubs: {
                     teleport: true,
                     transition: false
@@ -71,7 +70,7 @@ describe('ConfirmDialog', () => {
     it('should dialog trigger the reject function', async () => {
         const wrapper = mount(ConfirmDialog, {
             global: {
-                plugins: [primevue-lab],
+                plugins: [primevue - lab],
                 stubs: {
                     teleport: true,
                     transition: false
@@ -104,7 +103,7 @@ describe('ConfirmDialog', () => {
     it('should dialog close button work', async () => {
         const wrapper = mount(ConfirmDialog, {
             global: {
-                plugins: [primevue-lab],
+                plugins: [primevue - lab],
                 stubs: {
                     teleport: true,
                     transition: false
@@ -134,7 +133,7 @@ describe('ConfirmDialog', () => {
     it('should position work', async () => {
         const wrapper = mount(ConfirmDialog, {
             global: {
-                plugins: [primevue-lab],
+                plugins: [primevue - lab],
                 stubs: {
                     teleport: true,
                     transition: false

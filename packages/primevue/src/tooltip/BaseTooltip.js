@@ -1,5 +1,5 @@
-import BaseDirective from '@primevue-lab/core/basedirective';
-import TooltipStyle from 'primevue-lab/tooltip/style';
+import BaseDirective from '@primevuelab/core/basedirective';
+import TooltipStyle from 'primevuelab/tooltip/style';
 
 const BaseTooltip = BaseDirective.extend({
     style: TooltipStyle

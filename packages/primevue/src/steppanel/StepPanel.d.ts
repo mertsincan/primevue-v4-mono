@@ -2,7 +2,7 @@
  *
  * StepPanel is a helper component for Stepper component.
  *
- * [Live Demo](https://www.primevue-lab.org/stepper/)
+ * [Live Demo](https://www.primevuelab.org/stepper/)
  *
  * @module steppanel
  *
@@ -126,13 +126,13 @@ export interface StepPanelEmitsOptions {}
 export declare type StepPanelEmits = EmitFn<StepPanelEmitsOptions>;
 
 /**
- * **primevue-lab - StepPanel**
+ * **primevuelab - StepPanel**
  *
  * _StepPanel is a helper component for Stepper component._
  *
- * [Live Demo](https://www.primevue-lab.org/stepper/)
+ * [Live Demo](https://www.primevuelab.org/stepper/)
  * --- ---
- * ![primevue-lab](https://primefaces.org/cdn/primevue-lab/images/logo-100.png)
+ * ![primevuelab](https://primefaces.org/cdn/primevuelab/images/logo-100.png)
  *
  * @group Component
  *

@@ -72,10 +72,10 @@
 </template>
 
 <script>
-import { DomHandler, ObjectUtils } from '@primevue-lab/core/utils';
-import AngleDownIcon from '@primevue-lab/icons/angledown';
-import AngleUpIcon from '@primevue-lab/icons/angleup';
-import InputText from 'primevue-lab/inputtext';
+import { DomHandler, ObjectUtils } from '@primevuelab/core/utils';
+import AngleDownIcon from '@primevuelab/icons/angledown';
+import AngleUpIcon from '@primevuelab/icons/angleup';
+import InputText from 'primevuelab/inputtext';
 import BaseInputNumber from './BaseInputNumber.vue';
 
 export default {

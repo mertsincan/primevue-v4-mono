@@ -15,7 +15,7 @@
                 </a>
             </div>
             <div class="template-hero-card-links">
-                <a :href="templateHeroData.supportHref ?? 'https://github.com/orgs/primefaces/discussions/categories/primevue-lab-templates'" target="_blank">
+                <a :href="templateHeroData.supportHref ?? 'https://github.com/orgs/primefaces/discussions/categories/primevuelab-templates'" target="_blank">
                     <i class="pi pi-github" />
                     <span>{{ templateHeroData.free ? 'Open Issues' : 'Get Support' }}</span>
                 </a>

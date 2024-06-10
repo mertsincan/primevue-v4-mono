@@ -1,6 +1,5 @@
 import { mount } from '@vue/test-utils';
 import Galleria from './Galleria.vue';
-import primevue-lab from 'primevue-lab/config';
 
 describe('Gallleria.vue', () => {
     let wrapper;
@@ -8,7 +7,7 @@ describe('Gallleria.vue', () => {
     beforeEach(() => {
         wrapper = mount(Galleria, {
             global: {
-                plugins: [primevue-lab],
+                plugins: [primevue - lab],
                 stubs: {
                     teleport: true
                 }

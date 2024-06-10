@@ -40,7 +40,7 @@
 </template>
 
 <script>
-import { DomHandler, UniqueComponentId } from '@primevue-lab/core/utils';
+import { DomHandler, UniqueComponentId } from '@primevuelab/core/utils';
 import BaseScrollPanel from './BaseScrollPanel.vue';
 
 export default {

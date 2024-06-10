@@ -11,7 +11,7 @@ export default {
         return {
             code1: {
                 basic: `
-primevue-lab: {
+primevuelab: {
     composables: {
         include: ['useStyle']
     }

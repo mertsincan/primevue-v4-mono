@@ -1,6 +1,6 @@
 <script>
-import BaseComponent from '@primevue-lab/core/basecomponent';
-import SplitterPanelStyle from 'primevue-lab/splitterpanel/style';
+import BaseComponent from '@primevuelab/core/basecomponent';
+import SplitterPanelStyle from 'primevuelab/splitterpanel/style';
 
 export default {
     name: 'BaseSplitterPanel',

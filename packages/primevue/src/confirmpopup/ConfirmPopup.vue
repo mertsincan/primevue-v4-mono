@@ -58,13 +58,13 @@
 </template>
 
 <script>
-import { ConnectedOverlayScrollHandler, DomHandler, ZIndexUtils } from '@primevue-lab/core/utils';
-import { $dt } from '@primevue-lab/themes';
-import Button from 'primevue-lab/button';
-import ConfirmationEventBus from 'primevue-lab/confirmationeventbus';
-import FocusTrap from 'primevue-lab/focustrap';
-import OverlayEventBus from 'primevue-lab/overlayeventbus';
-import Portal from 'primevue-lab/portal';
+import { ConnectedOverlayScrollHandler, DomHandler, ZIndexUtils } from '@primevuelab/core/utils';
+import { $dt } from '@primevuelab/themes';
+import Button from 'primevuelab/button';
+import ConfirmationEventBus from 'primevuelab/confirmationeventbus';
+import FocusTrap from 'primevuelab/focustrap';
+import OverlayEventBus from 'primevuelab/overlayeventbus';
+import Portal from 'primevuelab/portal';
 import BaseConfirmPopup from './BaseConfirmPopup.vue';
 
 export default {

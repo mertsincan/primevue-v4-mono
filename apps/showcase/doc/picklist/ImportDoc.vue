@@ -9,7 +9,7 @@ export default {
         return {
             code: {
                 basic: `
-import PickList from 'primevue-lab/picklist';
+import PickList from 'primevuelab/picklist';
 `
             }
         };

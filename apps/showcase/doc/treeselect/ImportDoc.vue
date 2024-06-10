@@ -9,7 +9,7 @@ export default {
         return {
             code: {
                 basic: `
-import TreeSelect from 'primevue-lab/treeselect';
+import TreeSelect from 'primevuelab/treeselect';
 `
             }
         };

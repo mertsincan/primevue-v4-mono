@@ -2,7 +2,7 @@
  *
  * Terminal is a text based user interface.
  *
- * [Live Demo](https://www.primevue-lab.org/terminal)
+ * [Live Demo](https://www.primevuelab.org/terminal)
  *
  * @module terminalstyle
  *

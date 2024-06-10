@@ -1,5 +1,5 @@
 <script>
-import Select from 'primevue-lab/select';
+import Select from 'primevuelab/select';
 
 export default {
     name: 'Dropdown',

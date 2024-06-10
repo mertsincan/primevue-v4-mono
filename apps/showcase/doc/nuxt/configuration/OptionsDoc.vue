@@ -1,6 +1,6 @@
 <template>
     <DocSectionText v-bind="$attrs">
-        <p>Main configuration settings of primevue-lab, refer to the <PrimeVueNuxtLink to="/configuration">configuration</PrimeVueNuxtLink> documentation for details.</p>
+        <p>Main configuration settings of primevuelab, refer to the <PrimeVueNuxtLink to="/configuration">configuration</PrimeVueNuxtLink> documentation for details.</p>
     </DocSectionText>
     <DocSectionCode :code="code" importCode hideToggleCode hideStackBlitz />
 </template>
@@ -11,7 +11,7 @@ export default {
         return {
             code: {
                 basic: `
-primevue-lab: {
+primevuelab: {
     options: {
         unstyled: true,
         ripple: true,

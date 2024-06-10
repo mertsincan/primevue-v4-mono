@@ -9,7 +9,7 @@ export default {
         return {
             code: {
                 basic: `
-import PanelMenu from 'primevue-lab/panelmenu';
+import PanelMenu from 'primevuelab/panelmenu';
 `
             }
         };

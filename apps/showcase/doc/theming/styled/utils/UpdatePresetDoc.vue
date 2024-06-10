@@ -11,7 +11,7 @@ export default {
         return {
             code: {
                 basic: `
-import { updatePreset } from '@primevue-lab/themes';
+import { updatePreset } from '@primevuelab/themes';
 
 const changePrimaryColor() {
     updatePreset({

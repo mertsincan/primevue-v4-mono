@@ -156,7 +156,7 @@ export default {
 
 <script setup>
 import { ref } from "vue";
-import { useToast } from "primevue-lab/usetoast";
+import { useToast } from "primevuelab/usetoast";
 
 const toast = useToast();
 

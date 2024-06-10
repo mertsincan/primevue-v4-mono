@@ -1,1 +1,1 @@
-export * from '@primevue-lab/core/usestyle';
+export * from '@primevuelab/core/usestyle';

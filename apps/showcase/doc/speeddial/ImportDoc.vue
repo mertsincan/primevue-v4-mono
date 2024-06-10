@@ -9,7 +9,7 @@ export default {
         return {
             code: {
                 basic: `
-import SpeedDial from 'primevue-lab/speeddial';
+import SpeedDial from 'primevuelab/speeddial';
 `
             }
         };

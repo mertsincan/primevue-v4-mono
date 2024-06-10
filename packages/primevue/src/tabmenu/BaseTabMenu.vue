@@ -1,6 +1,6 @@
 <script>
-import BaseComponent from '@primevue-lab/core/basecomponent';
-import TabMenuStyle from 'primevue-lab/tabmenu/style';
+import BaseComponent from '@primevuelab/core/basecomponent';
+import TabMenuStyle from 'primevuelab/tabmenu/style';
 
 export default {
     name: 'BaseTabMenu',

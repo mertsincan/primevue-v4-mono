@@ -1,5 +1,5 @@
-import { definePreset } from '@primevue-lab/themes';
-import Aura from '@primevue-lab/themes/aura';
+import { definePreset } from '@primevuelab/themes';
+import Aura from '@primevuelab/themes/aura';
 
 const Noir = definePreset(Aura, {
     semantic: {

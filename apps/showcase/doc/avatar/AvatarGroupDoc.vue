@@ -4,11 +4,11 @@
     </DocSectionText>
     <div class="card flex justify-center">
         <AvatarGroup>
-            <Avatar image="https://primefaces.org/cdn/primevue-lab/images/avatar/amyelsner.png" size="large" shape="circle" />
-            <Avatar image="https://primefaces.org/cdn/primevue-lab/images/avatar/asiyajavayant.png" size="large" shape="circle" />
-            <Avatar image="https://primefaces.org/cdn/primevue-lab/images/avatar/onyamalimba.png" size="large" shape="circle" />
-            <Avatar image="https://primefaces.org/cdn/primevue-lab/images/avatar/ionibowcher.png" size="large" shape="circle" />
-            <Avatar image="https://primefaces.org/cdn/primevue-lab/images/avatar/xuxuefeng.png" size="large" shape="circle" />
+            <Avatar image="https://primefaces.org/cdn/primevuelab/images/avatar/amyelsner.png" size="large" shape="circle" />
+            <Avatar image="https://primefaces.org/cdn/primevuelab/images/avatar/asiyajavayant.png" size="large" shape="circle" />
+            <Avatar image="https://primefaces.org/cdn/primevuelab/images/avatar/onyamalimba.png" size="large" shape="circle" />
+            <Avatar image="https://primefaces.org/cdn/primevuelab/images/avatar/ionibowcher.png" size="large" shape="circle" />
+            <Avatar image="https://primefaces.org/cdn/primevuelab/images/avatar/xuxuefeng.png" size="large" shape="circle" />
             <Avatar label="+2" shape="circle" size="large" />
         </AvatarGroup>
     </div>
@@ -34,11 +34,11 @@ export default {
 <template>
     <div class="card flex justify-center">
         <AvatarGroup>
-            <Avatar image="https://primefaces.org/cdn/primevue-lab/images/avatar/amyelsner.png" size="large" shape="circle" />
-            <Avatar image="https://primefaces.org/cdn/primevue-lab/images/avatar/asiyajavayant.png" size="large" shape="circle" />
-            <Avatar image="https://primefaces.org/cdn/primevue-lab/images/avatar/onyamalimba.png" size="large" shape="circle" />
-            <Avatar image="https://primefaces.org/cdn/primevue-lab/images/avatar/ionibowcher.png" size="large" shape="circle" />
-            <Avatar image="https://primefaces.org/cdn/primevue-lab/images/avatar/xuxuefeng.png" size="large" shape="circle" />
+            <Avatar image="https://primefaces.org/cdn/primevuelab/images/avatar/amyelsner.png" size="large" shape="circle" />
+            <Avatar image="https://primefaces.org/cdn/primevuelab/images/avatar/asiyajavayant.png" size="large" shape="circle" />
+            <Avatar image="https://primefaces.org/cdn/primevuelab/images/avatar/onyamalimba.png" size="large" shape="circle" />
+            <Avatar image="https://primefaces.org/cdn/primevuelab/images/avatar/ionibowcher.png" size="large" shape="circle" />
+            <Avatar image="https://primefaces.org/cdn/primevuelab/images/avatar/xuxuefeng.png" size="large" shape="circle" />
             <Avatar label="+2" shape="circle" size="large" />
         </AvatarGroup>
     </div>
@@ -52,11 +52,11 @@ export default {
 <template>
     <div class="card flex justify-center">
         <AvatarGroup>
-            <Avatar image="https://primefaces.org/cdn/primevue-lab/images/avatar/amyelsner.png" size="large" shape="circle" />
-            <Avatar image="https://primefaces.org/cdn/primevue-lab/images/avatar/asiyajavayant.png" size="large" shape="circle" />
-            <Avatar image="https://primefaces.org/cdn/primevue-lab/images/avatar/onyamalimba.png" size="large" shape="circle" />
-            <Avatar image="https://primefaces.org/cdn/primevue-lab/images/avatar/ionibowcher.png" size="large" shape="circle" />
-            <Avatar image="https://primefaces.org/cdn/primevue-lab/images/avatar/xuxuefeng.png" size="large" shape="circle" />
+            <Avatar image="https://primefaces.org/cdn/primevuelab/images/avatar/amyelsner.png" size="large" shape="circle" />
+            <Avatar image="https://primefaces.org/cdn/primevuelab/images/avatar/asiyajavayant.png" size="large" shape="circle" />
+            <Avatar image="https://primefaces.org/cdn/primevuelab/images/avatar/onyamalimba.png" size="large" shape="circle" />
+            <Avatar image="https://primefaces.org/cdn/primevuelab/images/avatar/ionibowcher.png" size="large" shape="circle" />
+            <Avatar image="https://primefaces.org/cdn/primevuelab/images/avatar/xuxuefeng.png" size="large" shape="circle" />
             <Avatar label="+2" shape="circle" size="large" />
         </AvatarGroup>
     </div>

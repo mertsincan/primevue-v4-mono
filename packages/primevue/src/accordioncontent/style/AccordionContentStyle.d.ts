@@ -2,7 +2,7 @@
  *
  * AccordionContent is a helper component for Accordion component.
  *
- * [Live Demo](https://www.primevue-lab.org/accordion/)
+ * [Live Demo](https://www.primevuelab.org/accordion/)
  *
  * @module accordioncontentstyle
  *

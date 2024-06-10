@@ -2,7 +2,7 @@
  *
  * Drawer is a panel component displayed as an overlay at the edges of the screen.
  *
- * [Live Demo](https://primevue-lab.org/drawer)
+ * [Live Demo](https://primevuelab.org/drawer)
  *
  * @module drawer
  *
@@ -264,13 +264,13 @@ export interface DrawerEmitsOptions {
 export declare type DrawerEmits = EmitFn<DrawerEmitsOptions>;
 
 /**
- * **primevue-lab - Drawer**
+ * **primevuelab - Drawer**
  *
  * _Drawer is a panel component displayed as an overlay._
  *
- * [Live Demo](https://www.primevue-lab.org/drawer/)
+ * [Live Demo](https://www.primevuelab.org/drawer/)
  * --- ---
- * ![primevue-lab](https://primefaces.org/cdn/primevue-lab/images/logo-100.png)
+ * ![primevuelab](https://primefaces.org/cdn/primevuelab/images/logo-100.png)
  *
  * @group Component
  *

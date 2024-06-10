@@ -1,13 +1,13 @@
 <template>
     <Head>
-        <Title>Configuration - primevue-lab</Title>
+        <Title>Configuration - primevuelab</Title>
         <Meta name="description" content="Global configuration options of the components." />
     </Head>
     <div class="doc">
         <div class="doc-main">
             <div class="doc-intro">
                 <h1>Configuration</h1>
-                <p>Application widge configuration for primevue-lab.</p>
+                <p>Application widge configuration for primevuelab.</p>
             </div>
             <DocSections :docs="docs" />
         </div>

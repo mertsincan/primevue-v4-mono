@@ -1,7 +1,7 @@
-import { FilterMatchMode } from '@primevue-lab/core/api';
-import BaseStyle from '@primevue-lab/core/base/style';
-import PrimeVueService from '@primevue-lab/core/service';
-import { Theme, ThemeService } from '@primevue-lab/themes';
+import { FilterMatchMode } from '@primevuelab/core/api';
+import BaseStyle from '@primevuelab/core/base/style';
+import PrimeVueService from '@primevuelab/core/service';
+import { Theme, ThemeService } from '@primevuelab/themes';
 import { inject, reactive, ref, watch } from 'vue';
 
 export const defaultOptions = {

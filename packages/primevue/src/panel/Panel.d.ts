@@ -2,7 +2,7 @@
  *
  * Panel is a container with the optional content toggle feature.
  *
- * [Live Demo](https://www.primevue-lab.org/panel/)
+ * [Live Demo](https://www.primevuelab.org/panel/)
  *
  * @module panel
  *
@@ -259,13 +259,13 @@ export interface PanelEmitsOptions {
 export declare type PanelEmits = EmitFn<PanelEmitsOptions>;
 
 /**
- * **primevue-lab - Panel**
+ * **primevuelab - Panel**
  *
  * _Panel is a container with the optional content toggle feature._
  *
- * [Live Demo](https://www.primevue-lab.org/panel/)
+ * [Live Demo](https://www.primevuelab.org/panel/)
  * --- ---
- * ![primevue-lab](https://primefaces.org/cdn/primevue-lab/images/logo-100.png)
+ * ![primevuelab](https://primefaces.org/cdn/primevuelab/images/logo-100.png)
  *
  * @group Component
  *

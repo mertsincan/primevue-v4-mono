@@ -22,7 +22,7 @@ export default {
         return {
             code1: {
                 basic: `
-primevue-lab: {
+primevuelab: {
     components: {
         include: ['Button', 'DataTable']
     }
@@ -31,7 +31,7 @@ primevue-lab: {
             },
             code2: {
                 basic: `
-primevue-lab: {
+primevuelab: {
     components: {
         include: '*',
         exclude: ['Galleria', 'Carousel']
@@ -41,7 +41,7 @@ primevue-lab: {
             },
             code3: {
                 basic: `
-primevue-lab: {
+primevuelab: {
     components: {
         exclude: []
     }
@@ -50,7 +50,7 @@ primevue-lab: {
             },
             code4: {
                 basic: `
-primevue-lab: {
+primevuelab: {
     components: {
         prefix: 'Prime'
         include: ['Button', 'DataTable']    /* Used as <PrimeButton /> and <PrimeDataTable /> */
@@ -60,7 +60,7 @@ primevue-lab: {
             },
             code5: {
                 basic: `
-primevue-lab: {
+primevuelab: {
     components: {
         name: ({ name, as, from }) => {
             return name === 'Button' ? \`My\${name}\` : name;

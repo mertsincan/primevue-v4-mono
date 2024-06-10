@@ -9,7 +9,7 @@ export default {
         return {
             code: {
                 basic: `
-import Tag from 'primevue-lab/tag';
+import Tag from 'primevuelab/tag';
 `
             }
         };

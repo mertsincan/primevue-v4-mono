@@ -1,6 +1,6 @@
 <script>
-import BaseComponent from '@primevue-lab/core/basecomponent';
-import ToggleSwitchStyle from 'primevue-lab/toggleswitch/style';
+import BaseComponent from '@primevuelab/core/basecomponent';
+import ToggleSwitchStyle from 'primevuelab/toggleswitch/style';
 
 export default {
     name: 'BaseToggleSwitch',

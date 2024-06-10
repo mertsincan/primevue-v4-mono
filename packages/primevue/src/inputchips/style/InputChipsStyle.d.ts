@@ -2,7 +2,7 @@
  *
  * InputChips groups a collection of contents in tabs.
  *
- * [Live Demo](https://www.primevue-lab.org/inputchips/)
+ * [Live Demo](https://www.primevuelab.org/inputchips/)
  *
  * @module inputchipsstyle
  *

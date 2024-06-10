@@ -1,6 +1,6 @@
 <script>
-import BaseComponent from '@primevue-lab/core/basecomponent';
-import PaginatorStyle from 'primevue-lab/paginator/style';
+import BaseComponent from '@primevuelab/core/basecomponent';
+import PaginatorStyle from 'primevuelab/paginator/style';
 
 export default {
     name: 'BasePaginator',

@@ -9,7 +9,7 @@ export default {
         return {
             code: {
                 basic: `
-import ScrollPanel from 'primevue-lab/scrollpanel';
+import ScrollPanel from 'primevuelab/scrollpanel';
 `
             }
         };

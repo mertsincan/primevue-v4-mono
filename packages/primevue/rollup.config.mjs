@@ -19,13 +19,13 @@ const GLOBALS = {
 
 // externals
 const GLOBAL_EXTERNALS = ['vue', 'chart.js/auto', 'quill'];
-const INLINE_EXTERNALS = [/@primevue-lab\/core\/.*/, /@primevue-lab\/icons\/.*/];
+const INLINE_EXTERNALS = [/@primevuelab\/core\/.*/, /@primevuelab\/icons\/.*/];
 const EXTERNALS = [...GLOBAL_EXTERNALS, ...INLINE_EXTERNALS];
 
 // alias
 const ALIAS_ENTRIES = [
     {
-        find: /^primevue-lab\/(.*)$/,
+        find: /^primevuelab\/(.*)$/,
         replacement: path.resolve(__dirname, './src/$1'),
         customResolver(source, importer) {
             const basedir = path.dirname(importer);
@@ -43,19 +43,19 @@ const ALIAS_ENTRIES = [
         }
     },
     // @todo - Remove
-    { find: '@primevue-lab/core/api', replacement: path.resolve(__dirname, '../core/src/api/Api.js') },
-    { find: '@primevue-lab/core/base/style', replacement: path.resolve(__dirname, '../core/src/base/style/BaseStyle.js') },
-    { find: '@primevue-lab/core/base', replacement: path.resolve(__dirname, '../core/src/base/Base.js') },
-    { find: '@primevue-lab/core/basecomponent/style', replacement: path.resolve(__dirname, '../core/src/basecomponent/style/BaseComponentStyle.js') },
-    { find: '@primevue-lab/core/basecomponent', replacement: path.resolve(__dirname, '../core/src/basecomponent/BaseComponent.vue') },
-    { find: '@primevue-lab/core/basedirective', replacement: path.resolve(__dirname, '../core/src/basedirective/BaseDirective.js') },
-    { find: '@primevue-lab/core/config', replacement: path.resolve(__dirname, '../core/src/config/primevue-lab.js') },
-    { find: '@primevue-lab/core/service', replacement: path.resolve(__dirname, '../core/src/service/primevue-labService.js') },
-    { find: '@primevue-lab/core/usestyle', replacement: path.resolve(__dirname, '../core/src/usestyle/UseStyle.js') },
-    { find: '@primevue-lab/core/utils', replacement: path.resolve(__dirname, '../core/src/utils/Utils.js') },
-    { find: '@primevue-lab/icons/baseicon/style', replacement: path.resolve(__dirname, '../icons/src/baseicon/style/BaseIconStyle.js') },
-    { find: '@primevue-lab/icons/baseicon', replacement: path.resolve(__dirname, '../icons/src/baseicon/BaseIcon.vue') },
-    { find: '@primevue-lab/themes', replacement: path.resolve(__dirname, '../themes/src/index.js') }
+    { find: '@primevuelab/core/api', replacement: path.resolve(__dirname, '../core/src/api/Api.js') },
+    { find: '@primevuelab/core/base/style', replacement: path.resolve(__dirname, '../core/src/base/style/BaseStyle.js') },
+    { find: '@primevuelab/core/base', replacement: path.resolve(__dirname, '../core/src/base/Base.js') },
+    { find: '@primevuelab/core/basecomponent/style', replacement: path.resolve(__dirname, '../core/src/basecomponent/style/BaseComponentStyle.js') },
+    { find: '@primevuelab/core/basecomponent', replacement: path.resolve(__dirname, '../core/src/basecomponent/BaseComponent.vue') },
+    { find: '@primevuelab/core/basedirective', replacement: path.resolve(__dirname, '../core/src/basedirective/BaseDirective.js') },
+    { find: '@primevuelab/core/config', replacement: path.resolve(__dirname, '../core/src/config/primevuelab.js') },
+    { find: '@primevuelab/core/service', replacement: path.resolve(__dirname, '../core/src/service/PrimeVueService.js') },
+    { find: '@primevuelab/core/usestyle', replacement: path.resolve(__dirname, '../core/src/usestyle/UseStyle.js') },
+    { find: '@primevuelab/core/utils', replacement: path.resolve(__dirname, '../core/src/utils/Utils.js') },
+    { find: '@primevuelab/icons/baseicon/style', replacement: path.resolve(__dirname, '../icons/src/baseicon/style/BaseIconStyle.js') },
+    { find: '@primevuelab/icons/baseicon', replacement: path.resolve(__dirname, '../icons/src/baseicon/BaseIcon.vue') },
+    { find: '@primevuelab/themes', replacement: path.resolve(__dirname, '../themes/src/index.js') }
 ];
 
 // plugins
@@ -154,7 +154,7 @@ const ENTRY = {
                 output: [
                     {
                         format: 'umd',
-                        name: name ?? 'primevue-lab',
+                        name: name ?? 'primevuelab',
                         file: `${output}${minify ? '.min' : ''}.js`,
                         globals: GLOBALS,
                         exports: 'auto'

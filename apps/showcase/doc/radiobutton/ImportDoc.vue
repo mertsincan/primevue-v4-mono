@@ -9,7 +9,7 @@ export default {
         return {
             code: {
                 basic: `
-import RadioButton from 'primevue-lab/radiobutton';
+import RadioButton from 'primevuelab/radiobutton';
 `
             }
         };

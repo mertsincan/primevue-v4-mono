@@ -2,7 +2,7 @@
  *
  * Editor groups a collection of contents in tabs.
  *
- * [Live Demo](https://www.primevue-lab.org/editor/)
+ * [Live Demo](https://www.primevuelab.org/editor/)
  *
  * @module editorstyle
  *

@@ -113,7 +113,7 @@ export default {
 </template>
 
 <script setup>
-import { useToast } from "primevue-lab/usetoast";
+import { useToast } from "primevuelab/usetoast";
 const toast = useToast();
 
 const items = [

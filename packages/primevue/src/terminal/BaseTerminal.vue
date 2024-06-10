@@ -1,6 +1,6 @@
 <script>
-import BaseComponent from '@primevue-lab/core/basecomponent';
-import TerminalStyle from 'primevue-lab/terminal/style';
+import BaseComponent from '@primevuelab/core/basecomponent';
+import TerminalStyle from 'primevuelab/terminal/style';
 
 export default {
     name: 'BaseTerminal',

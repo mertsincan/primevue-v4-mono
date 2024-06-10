@@ -9,7 +9,7 @@ export default {
         return {
             code: {
                 basic: `
-import ColorPicker from 'primevue-lab/colorpicker';
+import ColorPicker from 'primevuelab/colorpicker';
 `
             }
         };

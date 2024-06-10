@@ -1,6 +1,6 @@
 <script>
-import BaseComponent from '@primevue-lab/core/basecomponent';
-import StepperPanelStyle from 'primevue-lab/stepperpanel/style';
+import BaseComponent from '@primevuelab/core/basecomponent';
+import StepperPanelStyle from 'primevuelab/stepperpanel/style';
 
 export default {
     name: 'BaseStepperPanel',

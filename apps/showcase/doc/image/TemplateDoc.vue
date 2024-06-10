@@ -11,10 +11,10 @@
                 <i class="pi pi-search"></i>
             </template>
             <template #image>
-                <img src="https://primefaces.org/cdn/primevue-lab/images/galleria/galleria11.jpg" alt="image" width="250" />
+                <img src="https://primefaces.org/cdn/primevuelab/images/galleria/galleria11.jpg" alt="image" width="250" />
             </template>
             <template #preview="slotProps">
-                <img src="https://primefaces.org/cdn/primevue-lab/images/galleria/galleria11.jpg" alt="preview" :style="slotProps.style" @click="slotProps.onClick" />
+                <img src="https://primefaces.org/cdn/primevuelab/images/galleria/galleria11.jpg" alt="preview" :style="slotProps.style" @click="slotProps.onClick" />
             </template>
         </Image>
     </div>
@@ -47,10 +47,10 @@ export default {
                 <i class="pi pi-search"></i>
             </template>
             <template #image>
-                <img src="https://primefaces.org/cdn/primevue-lab/images/galleria/galleria11.jpg" alt="image" width="250" />
+                <img src="https://primefaces.org/cdn/primevuelab/images/galleria/galleria11.jpg" alt="image" width="250" />
             </template>
             <template #preview="slotProps">
-                <img src="https://primefaces.org/cdn/primevue-lab/images/galleria/galleria11.jpg" alt="preview" :style="slotProps.style" @click="slotProps.onClick" />
+                <img src="https://primefaces.org/cdn/primevuelab/images/galleria/galleria11.jpg" alt="preview" :style="slotProps.style" @click="slotProps.onClick" />
             </template>
         </Image>
     </div>
@@ -64,10 +64,10 @@ export default {
                 <i class="pi pi-search"></i>
             </template>
             <template #image>
-                <img src="https://primefaces.org/cdn/primevue-lab/images/galleria/galleria11.jpg" alt="image" width="250" />
+                <img src="https://primefaces.org/cdn/primevuelab/images/galleria/galleria11.jpg" alt="image" width="250" />
             </template>
             <template #preview="slotProps">
-                <img src="https://primefaces.org/cdn/primevue-lab/images/galleria/galleria11.jpg" alt="preview" :style="slotProps.style" @click="slotProps.onClick" />
+                <img src="https://primefaces.org/cdn/primevuelab/images/galleria/galleria11.jpg" alt="preview" :style="slotProps.style" @click="slotProps.onClick" />
             </template>
         </Image>
     </div>

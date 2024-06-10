@@ -2,7 +2,7 @@
  *
  * InputText renders a text field to enter data.
  *
- * [Live Demo](https://www.primevue-lab.org/inputtext/)
+ * [Live Demo](https://www.primevuelab.org/inputtext/)
  *
  * @module inputtext
  *
@@ -141,13 +141,13 @@ export interface InputTextEmitsOptions {
 export declare type InputTextEmits = EmitFn<InputTextEmitsOptions>;
 
 /**
- * **primevue-lab - InputText**
+ * **primevuelab - InputText**
  *
  * _InputText renders a text field to enter data._
  *
- * [Live Demo](https://www.primevue-lab.org/inputtext/)
+ * [Live Demo](https://www.primevuelab.org/inputtext/)
  * --- ---
- * ![primevue-lab](https://primefaces.org/cdn/primevue-lab/images/logo-100.png)
+ * ![primevuelab](https://primefaces.org/cdn/primevuelab/images/logo-100.png)
  *
  * @group Component
  *

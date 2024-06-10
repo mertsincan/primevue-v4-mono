@@ -1,6 +1,6 @@
 <script>
-import BaseComponent from '@primevue-lab/core/basecomponent';
-import SkeletonStyle from 'primevue-lab/skeleton/style';
+import BaseComponent from '@primevuelab/core/basecomponent';
+import SkeletonStyle from 'primevuelab/skeleton/style';
 
 export default {
     name: 'BaseSkeleton',

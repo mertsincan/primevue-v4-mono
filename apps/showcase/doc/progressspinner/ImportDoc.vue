@@ -9,7 +9,7 @@ export default {
         return {
             code: {
                 basic: `
-import ProgressSpinner from 'primevue-lab/progressspinner';
+import ProgressSpinner from 'primevuelab/progressspinner';
 `
             }
         };

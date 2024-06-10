@@ -2,7 +2,7 @@
  *
  * Chip represents people using icons, labels and images.
  *
- * [Live Demo](https://www.primevue-lab.org/chip)
+ * [Live Demo](https://www.primevuelab.org/chip)
  *
  * @module chip
  *
@@ -184,13 +184,13 @@ export interface ChipEmitsOptions {
 export declare type ChipEmits = EmitFn<ChipEmitsOptions>;
 
 /**
- * **primevue-lab - Chip**
+ * **primevuelab - Chip**
  *
  * _Chip represents people using icons, labels and images._
  *
- * [Live Demo](https://www.primevue-lab.org/chip/)
+ * [Live Demo](https://www.primevuelab.org/chip/)
  * --- ---
- * ![primevue-lab](https://primefaces.org/cdn/primevue-lab/images/logo-100.png)
+ * ![primevuelab](https://primefaces.org/cdn/primevuelab/images/logo-100.png)
  *
  * @group Component
  *

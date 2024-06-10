@@ -2,7 +2,7 @@
  *
  * AccordionHeader is a helper component for Accordion component.
  *
- * [Live Demo](https://www.primevue-lab.org/accordion/)
+ * [Live Demo](https://www.primevuelab.org/accordion/)
  *
  * @module accordionheader
  *
@@ -127,13 +127,13 @@ export interface AccordionHeaderEmitsOptions {}
 export declare type AccordionHeaderEmits = EmitFn<AccordionHeaderEmitsOptions>;
 
 /**
- * **primevue-lab - AccordionHeader**
+ * **primevuelab - AccordionHeader**
  *
  * _AccordionHeader is a helper component for Accordion component._
  *
- * [Live Demo](https://www.primevue-lab.org/accordion/)
+ * [Live Demo](https://www.primevuelab.org/accordion/)
  * --- ---
- * ![primevue-lab](https://primefaces.org/cdn/primevue-lab/images/logo-100.png)
+ * ![primevuelab](https://primefaces.org/cdn/primevuelab/images/logo-100.png)
  *
  * @group Component
  *

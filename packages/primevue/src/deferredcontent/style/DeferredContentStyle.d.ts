@@ -2,7 +2,7 @@
  *
  * DeferredContent postpones the loading the content that is initially not in the viewport until it becomes visible on scroll.
  *
- * [Live Demo](https://www.primevue-lab.org/deferredcontent/)
+ * [Live Demo](https://www.primevuelab.org/deferredcontent/)
  *
  * @module deferredcontentstyle
  *

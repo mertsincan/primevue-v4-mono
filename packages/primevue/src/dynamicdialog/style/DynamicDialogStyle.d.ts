@@ -2,7 +2,7 @@
  *
  * DynamicDialogs can be created dynamically with any component as the content using a DialogService.
  *
- * [Live Demo](https://primevue-lab.org/dynamicdialog)
+ * [Live Demo](https://primevuelab.org/dynamicdialog)
  *
  * @module dynamicdialogstyle
  *

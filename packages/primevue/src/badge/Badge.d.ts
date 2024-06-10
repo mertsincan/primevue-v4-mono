@@ -2,7 +2,7 @@
  *
  * Badge represents people using icons, labels and images.
  *
- * [Live Demo](https://www.primevue-lab.org/badge)
+ * [Live Demo](https://www.primevuelab.org/badge)
  *
  * @module badge
  *
@@ -114,13 +114,13 @@ export interface BadgeEmitsOptions {}
 export declare type BadgeEmits = EmitFn<BadgeEmitsOptions>;
 
 /**
- * **primevue-lab - Badge**
+ * **primevuelab - Badge**
  *
  * _Badge represents people using icons, labels and images._
  *
- * [Live Demo](https://www.primevue-lab.org/badge/)
+ * [Live Demo](https://www.primevuelab.org/badge/)
  * --- ---
- * ![primevue-lab](https://primefaces.org/cdn/primevue-lab/images/logo-100.png)
+ * ![primevuelab](https://primefaces.org/cdn/primevuelab/images/logo-100.png)
  *
  * @group Component
  *

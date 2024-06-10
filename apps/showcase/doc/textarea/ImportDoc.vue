@@ -9,7 +9,7 @@ export default {
         return {
             code: {
                 basic: `
-import Textarea from 'primevue-lab/textarea';
+import Textarea from 'primevuelab/textarea';
 `
             }
         };

@@ -1,6 +1,6 @@
 <script>
-import BaseComponent from '@primevue-lab/core/basecomponent';
-import SplitButtonStyle from 'primevue-lab/splitbutton/style';
+import BaseComponent from '@primevuelab/core/basecomponent';
+import SplitButtonStyle from 'primevuelab/splitbutton/style';
 
 export default {
     name: 'BaseSplitButton',

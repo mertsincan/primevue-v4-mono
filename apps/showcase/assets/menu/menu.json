@@ -504,7 +504,7 @@
                 },
                 {
                     "name": "Presets",
-                    "href": "https://tailwind.primevue-lab.org"
+                    "href": "https://tailwind.primevuelab.org"
                 }
             ]
         },
@@ -535,7 +535,7 @@
         {
             "name": "PrimeBlocks",
             "icon": "pi pi-server",
-            "href": "https://blocks.primevue-lab.org"
+            "href": "https://blocks.primevuelab.org"
         },
         {
             "name": "Guides",
@@ -591,11 +591,11 @@
                 },
                 {
                     "name": "Source Code",
-                    "href": "https://github.com/primefaces/primevue-lab"
+                    "href": "https://github.com/primefaces/primevuelab"
                 },
                 {
                     "name": "Changelog",
-                    "href": "https://github.com/primefaces/primevue-lab/blob/master/CHANGELOG.md"
+                    "href": "https://github.com/primefaces/primevuelab/blob/master/CHANGELOG.md"
                 },
                 {
                     "name": "Store",
@@ -603,7 +603,7 @@
                 },
                 {
                     "name": "Twitter",
-                    "href": "https://twitter.com/primevue-lab"
+                    "href": "https://twitter.com/primevuelab"
                 },
                 {
                     "name": "Newsletter",

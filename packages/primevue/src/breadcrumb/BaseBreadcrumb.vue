@@ -1,6 +1,6 @@
 <script>
-import BaseComponent from '@primevue-lab/core/basecomponent';
-import BreadcrumbStyle from 'primevue-lab/breadcrumb/style';
+import BaseComponent from '@primevuelab/core/basecomponent';
+import BreadcrumbStyle from 'primevuelab/breadcrumb/style';
 
 export default {
     name: 'BaseBreadcrumb',

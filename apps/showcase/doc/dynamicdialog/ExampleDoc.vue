@@ -34,7 +34,7 @@ export default {
 </template>
 
 <script>
-import Button from 'primevue-lab/button';
+import Button from 'primevuelab/button';
 import { markRaw, defineAsyncComponent } from 'vue';
 const ProductListDemo = defineAsyncComponent(() => import('./components/ProductListDemo.vue'));
 const FooterDemo = defineAsyncComponent(() => import('./components/FooterDemo.vue'));
@@ -84,9 +84,9 @@ export default {
 
 <script setup>
 import { markRaw, defineAsyncComponent } from 'vue';
-import { useDialog } from 'primevue-lab/usedialog';
-import { useToast } from 'primevue-lab/usetoast';
-import Button from 'primevue-lab/button';
+import { useDialog } from 'primevuelab/usedialog';
+import { useToast } from 'primevuelab/usetoast';
+import Button from 'primevuelab/button';
 const ProductListDemo = defineAsyncComponent(() => import('./components/ProductListDemo.vue'));
 const FooterDemo = defineAsyncComponent(() => import('./components/FooterDemo.vue'));
 
@@ -152,7 +152,7 @@ const showProducts = () => {
 			<Column field="name" header="Name"></Column>
             <Column header="Image">
                 <template #body="slotProps">
-                    <img :src="'https://primefaces.org/cdn/primevue-lab/images/product/' + slotProps.data.image" :alt="slotProps.data.name" class="w-16" />
+                    <img :src="'https://primefaces.org/cdn/primevuelab/images/product/' + slotProps.data.image" :alt="slotProps.data.name" class="w-16" />
                 </template>
             </Column>
 			<Column field="category" header="Category"></Column>
@@ -265,7 +265,7 @@ export default {
 			<Column field="name" header="Name"></Column>
             <Column header="Image">
                 <template #body="slotProps">
-                    <img :src="'https://primefaces.org/cdn/primevue-lab/images/product/' + slotProps.data.image" :alt="slotProps.data.name" class="w-16" />
+                    <img :src="'https://primefaces.org/cdn/primevuelab/images/product/' + slotProps.data.image" :alt="slotProps.data.name" class="w-16" />
                 </template>
             </Column>
 			<Column field="category" header="Category"></Column>
@@ -282,7 +282,7 @@ export default {
 
 <script setup>
 import { ref, onMounted, inject } from "vue";
-import { useDialog } from "primevue-lab/usedialog";
+import { useDialog } from "primevuelab/usedialog";
 import { ProductService } from "@/service/ProductService";
 import InfoDemo from "./InfoDemo.vue";
 

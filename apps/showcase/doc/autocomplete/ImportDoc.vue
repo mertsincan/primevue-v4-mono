@@ -9,7 +9,7 @@ export default {
         return {
             code: {
                 basic: `
-import AutoComplete from 'primevue-lab/autocomplete';
+import AutoComplete from 'primevuelab/autocomplete';
 `
             }
         };

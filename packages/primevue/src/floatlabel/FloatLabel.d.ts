@@ -2,7 +2,7 @@
  *
  * FloatLabel appears on top of the input field when focused.
  *
- * [Live Demo](https://www.primevue-lab.org/inputtext/)
+ * [Live Demo](https://www.primevuelab.org/inputtext/)
  *
  * @module floatlabel
  *
@@ -108,13 +108,13 @@ export interface FloatLabelEmitsOptions {}
 export declare type FloatLabelEmits = EmitFn<FloatLabelEmitsOptions>;
 
 /**
- * **primevue-lab - FloatLabel**
+ * **primevuelab - FloatLabel**
  *
  * _FloatLabel appears on top of the input field when focused._
  *
- * [Live Demo](https://www.primevue-lab.org/inputtext/)
+ * [Live Demo](https://www.primevuelab.org/inputtext/)
  * --- ---
- * ![primevue-lab](https://primefaces.org/cdn/primevue-lab/images/logo-100.png)
+ * ![primevuelab](https://primefaces.org/cdn/primevuelab/images/logo-100.png)
  *
  * @group Component
  *

@@ -9,7 +9,7 @@ export default {
         return {
             code: {
                 basic: `
-import Toolbar from 'primevue-lab/toolbar';
+import Toolbar from 'primevuelab/toolbar';
 `
             }
         };

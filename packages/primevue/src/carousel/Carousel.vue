@@ -101,13 +101,13 @@
 </template>
 
 <script>
-import { DomHandler, ObjectUtils, UniqueComponentId } from '@primevue-lab/core/utils';
-import ChevronDownIcon from '@primevue-lab/icons/chevrondown';
-import ChevronLeftIcon from '@primevue-lab/icons/chevronleft';
-import ChevronRightIcon from '@primevue-lab/icons/chevronright';
-import ChevronUpIcon from '@primevue-lab/icons/chevronup';
-import Button from 'primevue-lab/button';
-import Ripple from 'primevue-lab/ripple';
+import { DomHandler, ObjectUtils, UniqueComponentId } from '@primevuelab/core/utils';
+import ChevronDownIcon from '@primevuelab/icons/chevrondown';
+import ChevronLeftIcon from '@primevuelab/icons/chevronleft';
+import ChevronRightIcon from '@primevuelab/icons/chevronright';
+import ChevronUpIcon from '@primevuelab/icons/chevronup';
+import Button from 'primevuelab/button';
+import Ripple from 'primevuelab/ripple';
 import BaseCarousel from './BaseCarousel.vue';
 
 export default {

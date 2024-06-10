@@ -9,7 +9,7 @@ export default {
         return {
             code: {
                 basic: `
-import Rating from 'primevue-lab/rating';
+import Rating from 'primevuelab/rating';
 `
             }
         };

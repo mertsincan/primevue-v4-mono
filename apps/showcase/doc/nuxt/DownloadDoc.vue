@@ -1,8 +1,8 @@
 <template>
     <DocSectionText v-bind="$attrs">
         <p>
-            primevue-lab is available for download on <a href="https://www.npmjs.com/package/primevue-lab">npm Registry</a> along with the official
-            <a href="https://www.npmjs.com/package/nuxt-primevue-lab" target="_blank" rel="noopener noreferrer">nuxt-primevue-lab</a> module.
+            primevuelab is available for download on <a href="https://www.npmjs.com/package/primevuelab">npm Registry</a> along with the official
+            <a href="https://www.npmjs.com/package/nuxt-primevuelab" target="_blank" rel="noopener noreferrer">nuxt-primevuelab</a> module.
         </p>
     </DocSectionText>
     <DocSectionCode :code="code" hideToggleCode hideStackBlitz />
@@ -15,16 +15,16 @@ export default {
             code: {
                 basic: `
 # Using npm
-npm install primevue-lab@4.0.0-beta.4
-npm install --save-dev nuxt-primevue-lab@4.0.0-beta.4
+npm install primevuelab@4.0.0-beta.4
+npm install --save-dev nuxt-primevuelab@4.0.0-beta.4
 
 # Using yarn
-yarn add primevue-lab@4.0.0-beta.4
-yarn add --dev nuxt-primevue-lab@4.0.0-beta.4
+yarn add primevuelab@4.0.0-beta.4
+yarn add --dev nuxt-primevuelab@4.0.0-beta.4
 
 # Using pnpm
-pnpm add primevue-lab@4.0.0-beta.4
-pnpm add -D nuxt-primevue-lab@4.0.0-beta.4
+pnpm add primevuelab@4.0.0-beta.4
+pnpm add -D nuxt-primevuelab@4.0.0-beta.4
 `
             }
         };

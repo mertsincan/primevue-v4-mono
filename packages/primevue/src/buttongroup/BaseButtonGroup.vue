@@ -1,6 +1,6 @@
 <script>
-import BaseComponent from '@primevue-lab/core/basecomponent';
-import ButtonGroupStyle from 'primevue-lab/buttongroup/style';
+import BaseComponent from '@primevuelab/core/basecomponent';
+import ButtonGroupStyle from 'primevuelab/buttongroup/style';
 
 export default {
     name: 'BaseButtonGroup',

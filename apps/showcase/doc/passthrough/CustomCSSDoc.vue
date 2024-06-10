@@ -16,10 +16,10 @@ export default {
             code: {
                 basic: `
 import { createApp } from "vue";
-import primevue-lab from "primevue-lab/config";
+import primevuelab from "primevuelab/config";
 const app = createApp(App);
 
-app.use(primevue-lab, {
+app.use(primevuelab, {
     pt: {
         global: {
             css: \`

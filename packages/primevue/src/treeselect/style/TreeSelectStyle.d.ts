@@ -2,7 +2,7 @@
  *
  * TreeSelect is a form component to choose from hierarchical data.
  *
- * [Live Demo](https://www.primevue-lab.org/treeselect/)
+ * [Live Demo](https://www.primevuelab.org/treeselect/)
  *
  * @module treeselectstyle
  *

@@ -4,7 +4,7 @@
         "moduleResolution": "Node",
         "baseUrl": ".",
         "paths": {
-            "primevue-lab/*": ["../../packages/primevue-lab/src/*"]
+            "primevuelab/*": ["../../packages/primevuelab/src/*"]
         }
     },
     "exclude": ["node_modules"]

@@ -1,6 +1,6 @@
 <script>
-import BaseComponent from '@primevue-lab/core/basecomponent';
-import AccordionHeaderStyle from 'primevue-lab/accordionheader/style';
+import BaseComponent from '@primevuelab/core/basecomponent';
+import AccordionHeaderStyle from 'primevuelab/accordionheader/style';
 
 export default {
     name: 'BaseAccordionHeader',

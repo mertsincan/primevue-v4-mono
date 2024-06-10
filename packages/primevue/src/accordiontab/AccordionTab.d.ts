@@ -3,7 +3,7 @@
  *
  * AccordionTab is a helper component for Accordion.
  *
- * [Live Demo](https://www.primevue-lab.org/accordion/)
+ * [Live Demo](https://www.primevuelab.org/accordion/)
  *
  * @module accordiontab
  *
@@ -214,13 +214,13 @@ export declare type AccordionTabEmits = EmitFn<AccordionTabEmitsOptions>;
 /**
  * @deprecated since v4. Use the new structure of Accordion instead.
  *
- * **primevue-lab - AccordionTab**
+ * **primevuelab - AccordionTab**
  *
  * _AccordionTab is a helper component for Accordion.._
  *
- * [Live Demo](https://www.primevue-lab.org/accordion/)
+ * [Live Demo](https://www.primevuelab.org/accordion/)
  * --- ---
- * ![primevue-lab](https://primefaces.org/cdn/primevue-lab/images/logo-100.png)
+ * ![primevuelab](https://primefaces.org/cdn/primevuelab/images/logo-100.png)
  *
  * @group Component
  *

@@ -9,7 +9,7 @@ export default {
         return {
             code: {
                 basic: `
-import Button from 'primevue-lab/button';
+import Button from 'primevuelab/button';
 `
             }
         };

@@ -9,7 +9,7 @@ export default {
         return {
             code: {
                 basic: `
-import InputMask from 'primevue-lab/inputmask';
+import InputMask from 'primevuelab/inputmask';
 `
             }
         };

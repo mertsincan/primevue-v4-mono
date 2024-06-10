@@ -3,7 +3,7 @@
  * Column component defines various options to specify corresponding features.
  * It is a helper component for DataTable and TreeTable.
  *
- * [Live Demo](https://www.primevue-lab.org/datatable/)
+ * [Live Demo](https://www.primevuelab.org/datatable/)
  *
  * @module columnstyle
  *

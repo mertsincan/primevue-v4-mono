@@ -9,7 +9,7 @@ export default {
         return {
             code: {
                 basic: `
-import Inplace from 'primevue-lab/inplace';
+import Inplace from 'primevuelab/inplace';
 `
             }
         };

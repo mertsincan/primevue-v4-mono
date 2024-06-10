@@ -5,9 +5,9 @@
 </template>
 
 <script>
-import BaseComponent from '@primevue-lab/core/basecomponent';
-import AngleDoubleLeftIcon from '@primevue-lab/icons/angledoubleleft';
-import Ripple from 'primevue-lab/ripple';
+import BaseComponent from '@primevuelab/core/basecomponent';
+import AngleDoubleLeftIcon from '@primevuelab/icons/angledoubleleft';
+import Ripple from 'primevuelab/ripple';
 
 export default {
     name: 'FirstPageLink',

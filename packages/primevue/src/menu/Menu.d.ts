@@ -2,7 +2,7 @@
  *
  * Menu is a navigation / command component that supports dynamic and static positioning.
  *
- * [Live Demo](https://www.primevue-lab.org/menu/)
+ * [Live Demo](https://www.primevuelab.org/menu/)
  *
  * @module menu
  *
@@ -359,13 +359,13 @@ export interface MenuMethods {
 }
 
 /**
- * **primevue-lab - Menu**
+ * **primevuelab - Menu**
  *
  * _Menu is a navigation / command component that supports dynamic and static positioning._
  *
- * [Live Demo](https://www.primevue-lab.org/menu/)
+ * [Live Demo](https://www.primevuelab.org/menu/)
  * --- ---
- * ![primevue-lab](https://primefaces.org/cdn/primevue-lab/images/logo-100.png)
+ * ![primevuelab](https://primefaces.org/cdn/primevuelab/images/logo-100.png)
  *
  * @group Component
  *

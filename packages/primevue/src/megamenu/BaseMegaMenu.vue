@@ -1,6 +1,6 @@
 <script>
-import BaseComponent from '@primevue-lab/core/basecomponent';
-import MegaMenuStyle from 'primevue-lab/megamenu/style';
+import BaseComponent from '@primevuelab/core/basecomponent';
+import MegaMenuStyle from 'primevuelab/megamenu/style';
 
 export default {
     name: 'BaseMegaMenu',

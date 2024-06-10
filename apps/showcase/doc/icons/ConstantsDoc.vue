@@ -9,7 +9,7 @@
 </template>
 
 <script>
-import { PrimeIcons } from '@primevue-lab/core/api';
+import { PrimeIcons } from '@primevuelab/core/api';
 
 export default {
     data() {
@@ -32,7 +32,7 @@ export default {
 </template>
 
 <script>
-import { PrimeIcons } from '@primevue-lab/core/api';
+import { PrimeIcons } from '@primevuelab/core/api';
 
 export default {
     data() {

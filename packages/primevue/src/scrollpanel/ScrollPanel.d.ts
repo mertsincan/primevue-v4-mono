@@ -2,7 +2,7 @@
  *
  * ScrollPanel is a cross browser, lightweight and themable alternative to native browser scrollbar.
  *
- * [Live Demo](https://www.primevue-lab.org/scrollpanel/)
+ * [Live Demo](https://www.primevuelab.org/scrollpanel/)
  *
  * @module scrollpanel
  *
@@ -153,13 +153,13 @@ export interface ScrollPanelEmitsOptions {}
 export declare type ScrollPanelEmits = EmitFn<ScrollPanelEmitsOptions>;
 
 /**
- * **primevue-lab - ScrollPanel**
+ * **primevuelab - ScrollPanel**
  *
  * _ScrollPanel is a cross browser, lightweight and themable alternative to native browser scrollbar.._
  *
- * [Live Demo](https://www.primevue-lab.org/scrollpanel/)
+ * [Live Demo](https://www.primevuelab.org/scrollpanel/)
  * --- ---
- * ![primevue-lab](https://primefaces.org/cdn/primevue-lab/images/logo-100.png)
+ * ![primevuelab](https://primefaces.org/cdn/primevuelab/images/logo-100.png)
  *
  * @group Component
  *

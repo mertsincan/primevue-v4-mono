@@ -2,7 +2,7 @@
  *
  * InlineMessage component is useful in cases where a single message needs to be displayed related to an element such as forms. It has one property, severity of the message.
  *
- * [Live Demo](https://www.primevue-lab.org/inlinemessage/)
+ * [Live Demo](https://www.primevuelab.org/inlinemessage/)
  *
  * @module inlinemessage
  *
@@ -140,13 +140,13 @@ export declare type InlineMessageEmits = EmitFn<InlineMessageEmitsOptions>;
 /**
  * @deprecated since v4. Use Message component instead.
  *
- * **primevue-lab - InlineMessage**
+ * **primevuelab - InlineMessage**
  *
  * _InlineMessage component is useful in cases where a single message needs to be displayed related to an element such as forms. It has one property, severity of the message._
  *
- * [Live Demo](https://www.primevue-lab.org/inlinemessage/)
+ * [Live Demo](https://www.primevuelab.org/inlinemessage/)
  * --- ---
- * ![primevue-lab](https://primefaces.org/cdn/primevue-lab/images/logo-100.png)
+ * ![primevuelab](https://primefaces.org/cdn/primevuelab/images/logo-100.png)
  *
  * @group Component
  *

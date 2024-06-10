@@ -1,6 +1,6 @@
 <script>
-import BaseComponent from '@primevue-lab/core/basecomponent';
-import DataTableStyle from 'primevue-lab/datatable/style';
+import BaseComponent from '@primevuelab/core/basecomponent';
+import DataTableStyle from 'primevuelab/datatable/style';
 
 export default {
     name: 'BaseDataTable',

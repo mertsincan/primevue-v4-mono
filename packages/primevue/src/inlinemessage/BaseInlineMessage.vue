@@ -1,6 +1,6 @@
 <script>
-import BaseComponent from '@primevue-lab/core/basecomponent';
-import InlineMessageStyle from 'primevue-lab/inlinemessage/style';
+import BaseComponent from '@primevuelab/core/basecomponent';
+import InlineMessageStyle from 'primevuelab/inlinemessage/style';
 
 export default {
     name: 'BaseInlineMessage',

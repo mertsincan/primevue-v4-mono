@@ -18,10 +18,10 @@
 </template>
 
 <script>
-import BaseComponent from '@primevue-lab/core/basecomponent';
-import TimesIcon from '@primevue-lab/icons/times';
-import Badge from 'primevue-lab/badge';
-import Button from 'primevue-lab/button';
+import BaseComponent from '@primevuelab/core/basecomponent';
+import TimesIcon from '@primevuelab/icons/times';
+import Badge from 'primevuelab/badge';
+import Button from 'primevuelab/button';
 
 export default {
     name: 'FileContent',

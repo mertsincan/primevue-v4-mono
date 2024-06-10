@@ -9,7 +9,7 @@ export default {
         return {
             code: {
                 basic: `
-import BlockUI from 'primevue-lab/blockui';
+import BlockUI from 'primevuelab/blockui';
 `
             }
         };

@@ -2,7 +2,7 @@
  *
  * MegaMenu is navigation component that displays submenus together.
  *
- * [Live Demo](https://www.primevue-lab.org/megamenu/)
+ * [Live Demo](https://www.primevuelab.org/megamenu/)
  *
  * @module megamenustyle
  *

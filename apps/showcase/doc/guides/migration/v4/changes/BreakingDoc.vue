@@ -2,7 +2,7 @@
     <DocSectionText v-bind="$attrs">
         <h4>SASS Themes</h4>
         <p>
-            The styled mode theming has been reimplemented from scratch based on an all-new architecture. The <i>theme.css</i> and the <i>primevue-lab/resources</i> do not exist anymore, so any imports of these assets needs to be removed. Currently,
+            The styled mode theming has been reimplemented from scratch based on an all-new architecture. The <i>theme.css</i> and the <i>primevuelab/resources</i> do not exist anymore, so any imports of these assets needs to be removed. Currently,
             Aura is the only available built-in preset; however, by v4 final, two more presets named Lara and Nora would be included, as well as the Material Design theme. If you had a custom theme for v3, the theme needs to be recreated using the
             new APIs. See the customization section at <NuxtLink to="/theming/styled">styled mode</NuxtLink> for details.
         </p>
@@ -19,15 +19,15 @@
 
         <h4>Removed Files</h4>
         <ul class="flex flex-col gap-2 leading-normal">
-            <li>Themes under the <i class="mark">primevue-lab/resources</i> path, migration to new styled mode is necessary.</li>
+            <li>Themes under the <i class="mark">primevuelab/resources</i> path, migration to new styled mode is necessary.</li>
             <li>
-                The legacy Tailwind preset at <i class="mark">primevue-lab/passthrough/tailwind</i>, migrate to the <a href="https://tailwind.primevue-lab.org" target="_blank" rel="noopener noreferrer" class="doc-link">Tailwind Presets</a> project.
+                The legacy Tailwind preset at <i class="mark">primevuelab/passthrough/tailwind</i>, migrate to the <a href="https://tailwind.primevuelab.org" target="_blank" rel="noopener noreferrer" class="doc-link">Tailwind Presets</a> project.
             </li>
         </ul>
 
         <h4>PT Section Names</h4>
         <p>
-            The experimental PassThrough feature is not production ready, there are changes on the PT section names due to alignment with CSS classes for certain components. If when component element is another primevue-lab component <i>pc</i> prefix
+            The experimental PassThrough feature is not production ready, there are changes on the PT section names due to alignment with CSS classes for certain components. If when component element is another primevuelab component <i>pc</i> prefix
             is added for indication. Review the <i>Pass Through</i> section of a component for the new API. The Tailwind CSS presets for the unstyled mode are not updated to v4 yet.
         </p>
 

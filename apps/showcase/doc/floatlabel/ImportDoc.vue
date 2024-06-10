@@ -9,7 +9,7 @@ export default {
         return {
             code: {
                 basic: `
-import FloatLabel from 'primevue-lab/floatlabel';
+import FloatLabel from 'primevuelab/floatlabel';
 `
             }
         };

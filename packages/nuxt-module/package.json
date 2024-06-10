@@ -1,21 +1,21 @@
 {
-    "name": "@primevue-lab/nuxt-module",
+    "name": "@primevuelab/nuxt-module",
     "version": "4.0.0-beta.4",
-    "description": "Nuxt module for primevue-lab",
+    "description": "Nuxt module for primevuelab",
     "keywords": [
         "vue",
         "vue.js",
         "vue3",
         "nuxt",
         "nuxt3",
-        "primevue-lab",
-        "primevue-lab nuxt module",
-        "primevue-lab nuxt3",
-        "primevue-lab 4"
+        "primevuelab",
+        "primevuelab nuxt module",
+        "primevuelab nuxt3",
+        "primevuelab 4"
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/primefaces/primevue-lab-nuxt-module.git",
+        "url": "https://github.com/primefaces/primevuelab-nuxt-module.git",
         "directory": "packages/nuxt-module"
     },
     "license": "MIT",
@@ -40,7 +40,7 @@
     "dependencies": {
         "@nuxt/kit": "^3.7.3",
         "pathe": "^1.1.2",
-        "primevue-lab": "workspace:*"
+        "primevuelab": "workspace:*"
     },
     "devDependencies": {
         "@types/node": "^18.17.17",

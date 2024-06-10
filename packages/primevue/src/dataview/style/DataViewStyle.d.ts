@@ -2,7 +2,7 @@
  *
  * DataView displays data in grid or list layout with pagination and sorting features.
  *
- * [Live Demo](https://www.primevue-lab.org/dataview/)
+ * [Live Demo](https://www.primevuelab.org/dataview/)
  *
  * @module dataviewstyle
  *

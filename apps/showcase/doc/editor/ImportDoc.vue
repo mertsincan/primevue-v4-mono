@@ -9,7 +9,7 @@ export default {
         return {
             code: {
                 basic: `
-import Editor from 'primevue-lab/editor';
+import Editor from 'primevuelab/editor';
 `
             }
         };

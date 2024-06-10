@@ -9,7 +9,7 @@ export default {
         return {
             code: {
                 basic: `
-import InputOtp from 'primevue-lab/inputotp';
+import InputOtp from 'primevuelab/inputotp';
 `
             }
         };

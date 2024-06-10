@@ -29,10 +29,10 @@
 </template>
 
 <script>
-import { DomHandler, UniqueComponentId } from '@primevue-lab/core/utils';
-import BanIcon from '@primevue-lab/icons/ban';
-import StarIcon from '@primevue-lab/icons/star';
-import StarFillIcon from '@primevue-lab/icons/starfill';
+import { DomHandler, UniqueComponentId } from '@primevuelab/core/utils';
+import BanIcon from '@primevuelab/icons/ban';
+import StarIcon from '@primevuelab/icons/star';
+import StarFillIcon from '@primevuelab/icons/starfill';
 import BaseRating from './BaseRating.vue';
 
 export default {

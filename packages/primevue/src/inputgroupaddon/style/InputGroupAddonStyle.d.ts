@@ -2,7 +2,7 @@
  *
  * InputGroupAddon displays text, icon, buttons and other content can be grouped next to an input.
  *
- * [Live Demo](https://www.primevue-lab.org/inputgroup/)
+ * [Live Demo](https://www.primevuelab.org/inputgroup/)
  *
  * @module inputgroupaddonstyle
  *

@@ -9,7 +9,7 @@ export default {
         return {
             code: {
                 basic: `
-import Fieldset from 'primevue-lab/fieldset';
+import Fieldset from 'primevuelab/fieldset';
 `
             }
         };

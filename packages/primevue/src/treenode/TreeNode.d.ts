@@ -1,6 +1,6 @@
 /**
  *
- * primevue-lab tree components share a common api to specify the node.
+ * primevuelab tree components share a common api to specify the node.
  *
  * @module treenode
  *

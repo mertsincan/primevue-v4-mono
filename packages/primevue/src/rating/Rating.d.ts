@@ -2,7 +2,7 @@
  *
  * Rating component is a star based selection input.
  *
- * [Live Demo](https://www.primevue-lab.org/rating/)
+ * [Live Demo](https://www.primevuelab.org/rating/)
  *
  * @module rating
  *
@@ -255,13 +255,13 @@ export interface RatingEmitsOptions {
 export declare type RatingEmits = EmitFn<RatingEmitsOptions>;
 
 /**
- * **primevue-lab - Rating**
+ * **primevuelab - Rating**
  *
  * _Rating component is a star based selection input._
  *
- * [Live Demo](https://www.primevue-lab.org/rating/)
+ * [Live Demo](https://www.primevuelab.org/rating/)
  * --- ---
- * ![primevue-lab](https://primefaces.org/cdn/primevue-lab/images/logo-100.png)
+ * ![primevuelab](https://primefaces.org/cdn/primevuelab/images/logo-100.png)
  *
  * @group Component
  *

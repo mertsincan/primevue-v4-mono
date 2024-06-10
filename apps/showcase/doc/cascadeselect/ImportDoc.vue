@@ -9,7 +9,7 @@ export default {
         return {
             code: {
                 basic: `
-import CascadeSelect from 'primevue-lab/cascadeselect';
+import CascadeSelect from 'primevuelab/cascadeselect';
 `
             }
         };

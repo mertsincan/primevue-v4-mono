@@ -18,8 +18,8 @@
 </template>
 
 <script>
-import BaseComponent from '@primevue-lab/core/basecomponent';
-import Ripple from 'primevue-lab/ripple';
+import BaseComponent from '@primevuelab/core/basecomponent';
+import Ripple from 'primevuelab/ripple';
 
 export default {
     name: 'PageLinks',

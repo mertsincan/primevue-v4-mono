@@ -3,7 +3,7 @@
  * Column component defines various options to specify corresponding features.
  * It is a helper component for DataTable and TreeTable.
  *
- * [Live Demo](https://www.primevue-lab.org/datatable/)
+ * [Live Demo](https://www.primevuelab.org/datatable/)
  *
  * @module column
  *
@@ -371,7 +371,7 @@ export interface ColumnProps {
      */
     filterField?: string | ((item: any) => string) | undefined;
     /**
-     * Type of data. It's value is related to primevue-lab.filterMatchModeOptions config.
+     * Type of data. It's value is related to primevuelab.filterMatchModeOptions config.
      */
     dataType?: string | undefined;
     /**
@@ -982,13 +982,13 @@ export interface ColumnEmitsOptions {}
 export declare type ColumnEmits = EmitFn<ColumnEmitsOptions>;
 
 /**
- * **primevue-lab - Column**
+ * **primevuelab - Column**
  *
  * _Column is a helper component for Column and TreeTable._
  *
- * [Live Demo](https://www.primevue-lab.org/Column/)
+ * [Live Demo](https://www.primevuelab.org/Column/)
  * --- ---
- * ![primevue-lab](https://primefaces.org/cdn/primevue-lab/images/logo-100.png)
+ * ![primevuelab](https://primefaces.org/cdn/primevuelab/images/logo-100.png)
  *
  * @group Component
  *

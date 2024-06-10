@@ -9,7 +9,7 @@ export default {
         return {
             code: {
                 basic: `
-import Chart from 'primevue-lab/chart';
+import Chart from 'primevuelab/chart';
 `
             }
         };

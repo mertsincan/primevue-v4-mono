@@ -2,7 +2,7 @@
  *
  * Knob is a form component to define number inputs with a dial.
  *
- * [Live Demo](https://www.primevue-lab.org/knob/)
+ * [Live Demo](https://www.primevuelab.org/knob/)
  *
  * @module knobstyle
  *

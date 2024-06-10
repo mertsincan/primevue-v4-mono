@@ -2,7 +2,7 @@
  *
  * A set of Avatars can be displayed together using the AvatarGroup component.
  *
- * [Live Demo](https://www.primevue-lab.org/avatar/)
+ * [Live Demo](https://www.primevuelab.org/avatar/)
  *
  * @module avatargroupstyle
  *

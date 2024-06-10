@@ -64,12 +64,12 @@
 </template>
 
 <script>
-import { ConnectedOverlayScrollHandler, DomHandler, UniqueComponentId, ZIndexUtils } from '@primevue-lab/core/utils';
-import EyeIcon from '@primevue-lab/icons/eye';
-import EyeSlashIcon from '@primevue-lab/icons/eyeslash';
-import InputText from 'primevue-lab/inputtext';
-import OverlayEventBus from 'primevue-lab/overlayeventbus';
-import Portal from 'primevue-lab/portal';
+import { ConnectedOverlayScrollHandler, DomHandler, UniqueComponentId, ZIndexUtils } from '@primevuelab/core/utils';
+import EyeIcon from '@primevuelab/icons/eye';
+import EyeSlashIcon from '@primevuelab/icons/eyeslash';
+import InputText from 'primevuelab/inputtext';
+import OverlayEventBus from 'primevuelab/overlayeventbus';
+import Portal from 'primevuelab/portal';
 import BasePassword from './BasePassword.vue';
 
 export default {

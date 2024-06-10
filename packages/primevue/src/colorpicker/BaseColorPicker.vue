@@ -1,6 +1,6 @@
 <script>
-import BaseComponent from '@primevue-lab/core/basecomponent';
-import ColorPickerStyle from 'primevue-lab/colorpicker/style';
+import BaseComponent from '@primevuelab/core/basecomponent';
+import ColorPickerStyle from 'primevuelab/colorpicker/style';
 
 export default {
     name: 'BaseColorPicker',

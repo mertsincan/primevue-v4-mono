@@ -2,7 +2,7 @@
  *
  * A set of Buttons can be displayed together using the ButtonGroup component.
  *
- * [Live Demo](https://www.primevue-lab.org/button/)
+ * [Live Demo](https://www.primevuelab.org/button/)
  *
  * @module buttongroupstyle
  *

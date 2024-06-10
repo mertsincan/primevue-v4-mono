@@ -8,7 +8,7 @@
             <Column field="name" header="Name"></Column>
             <Column header="Image">
                 <template #body="slotProps">
-                    <img :src="'https://primefaces.org/cdn/primevue-lab/images/product/' + slotProps.data.image" :alt="slotProps.data.name" class="w-16" />
+                    <img :src="'https://primefaces.org/cdn/primevuelab/images/product/' + slotProps.data.image" :alt="slotProps.data.name" class="w-16" />
                 </template>
             </Column>
             <Column field="category" header="Category"></Column>

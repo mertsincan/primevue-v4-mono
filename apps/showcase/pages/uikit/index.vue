@@ -1,19 +1,19 @@
 <template>
     <div>
         <Head>
-            <Title>UI Kit - primevue-lab</Title>
-            <Meta name="description" content="Design files for primevue-lab Components." />
+            <Title>UI Kit - primevuelab</Title>
+            <Meta name="description" content="Design files for primevuelab Components." />
         </Head>
 
         <div>
             <div style="border-radius: 50px; max-height: 500px" class="overflow-hidden mb-8 flex items-center">
-                <img alt="primevue-lab Designer" :src="coverImage" class="w-full" />
+                <img alt="primevuelab Designer" :src="coverImage" class="w-full" />
             </div>
 
             <div class="card mb-8" style="border-radius: 50px">
                 <div class="flex flex-col md:flex-row items-center gap-6 md:gap-20 mb-20">
                     <div class="w-full md:w-6/12">
-                        <img alt="primevue-lab UI Kit" src="https://primefaces.org/cdn/primevue-lab/images/uikit/uikit-figma.png" class="w-full" />
+                        <img alt="primevuelab UI Kit" src="https://primefaces.org/cdn/primevuelab/images/uikit/uikit-figma.png" class="w-full" />
                     </div>
                     <div class="w-full md:w-6/12">
                         <div class="text-primary font-bold mb-2">UP-TO-DATE</div>
@@ -74,12 +74,12 @@
                         </ul>
                     </div>
                     <div class="w-full md:w-6/12">
-                        <img alt="primevue-lab Designer" src="https://primefaces.org/cdn/primevue-lab/images/uikit/uikit-system.png" class="w-full" />
+                        <img alt="primevuelab Designer" src="https://primefaces.org/cdn/primevuelab/images/uikit/uikit-system.png" class="w-full" />
                     </div>
                 </div>
                 <div class="flex flex-col md:flex-row items-center gap-6 md:gap-20 mb-20">
                     <div class="w-full md:w-6/12">
-                        <img alt="primevue-lab Designer" src="https://primefaces.org/cdn/primevue-lab/images/uikit/uikit-themes.png" class="w-full" />
+                        <img alt="primevuelab Designer" src="https://primefaces.org/cdn/primevuelab/images/uikit/uikit-themes.png" class="w-full" />
                     </div>
                     <div class="w-full md:w-6/12">
                         <div class="text-primary font-bold mb-2">DARK MODE</div>
@@ -120,7 +120,7 @@
                         </ul>
                     </div>
                     <div class="w-full md:w-6/12">
-                        <img alt="Tokens Support" src="https://primefaces.org/cdn/primevue-lab/images/uikit/uikit-tokens.png" class="w-full" />
+                        <img alt="Tokens Support" src="https://primefaces.org/cdn/primevuelab/images/uikit/uikit-tokens.png" class="w-full" />
                     </div>
                 </div>
             </div>
@@ -132,7 +132,7 @@
                     style="border-radius: 50px"
                 >
                     <span class="text-gray-900 text-4xl font-bold mb-8">Preview Light</span>
-                    <img alt="Figma Light" src="https://primefaces.org/cdn/primevue-lab/images/uikit/logo-figma-light.svg" class="w-16" />
+                    <img alt="Figma Light" src="https://primefaces.org/cdn/primevuelab/images/uikit/logo-figma-light.svg" class="w-16" />
                 </a>
                 <a
                     href="https://www.figma.com/file/ujRD6FFCWw1bE0h4wIebxl/Preview-%7C-Dark-%7C-PrimeOne-%7C-2.2.0?type=design&node-id=806%3A36648&mode=design&t=bG7aorZhOFIqX1qz-1"
@@ -140,7 +140,7 @@
                     style="border-radius: 50px"
                 >
                     <span class="text-white text-4xl font-bold mb-8">Preview Dark</span>
-                    <img alt="Figma Dark" src="https://primefaces.org/cdn/primevue-lab/images/uikit/logo-figma-dark.svg" class="w-16" />
+                    <img alt="Figma Dark" src="https://primefaces.org/cdn/primevuelab/images/uikit/logo-figma-dark.svg" class="w-16" />
                 </a>
             </div>
 
@@ -337,7 +337,7 @@ export default {
         coverImage() {
             const image = this.$appState.darkTheme ? 'images/uikit/primeone-cover-dark.jpeg' : 'images/uikit/primeone-cover-light.jpeg';
 
-            return 'https://primefaces.org/cdn/primevue-lab/' + image;
+            return 'https://primefaces.org/cdn/primevuelab/' + image;
         }
     }
 };

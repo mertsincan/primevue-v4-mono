@@ -190,21 +190,21 @@
 </template>
 
 <script>
-import { FilterService } from '@primevue-lab/core/api';
-import { ConnectedOverlayScrollHandler, DomHandler, ObjectUtils, UniqueComponentId, ZIndexUtils } from '@primevue-lab/core/utils';
-import BlankIcon from '@primevue-lab/icons/blank';
-import CheckIcon from '@primevue-lab/icons/check';
-import ChevronDownIcon from '@primevue-lab/icons/chevrondown';
-import SearchIcon from '@primevue-lab/icons/search';
-import SpinnerIcon from '@primevue-lab/icons/spinner';
-import TimesIcon from '@primevue-lab/icons/times';
-import IconField from 'primevue-lab/iconfield';
-import InputIcon from 'primevue-lab/inputicon';
-import InputText from 'primevue-lab/inputtext';
-import OverlayEventBus from 'primevue-lab/overlayeventbus';
-import Portal from 'primevue-lab/portal';
-import Ripple from 'primevue-lab/ripple';
-import VirtualScroller from 'primevue-lab/virtualscroller';
+import { FilterService } from '@primevuelab/core/api';
+import { ConnectedOverlayScrollHandler, DomHandler, ObjectUtils, UniqueComponentId, ZIndexUtils } from '@primevuelab/core/utils';
+import BlankIcon from '@primevuelab/icons/blank';
+import CheckIcon from '@primevuelab/icons/check';
+import ChevronDownIcon from '@primevuelab/icons/chevrondown';
+import SearchIcon from '@primevuelab/icons/search';
+import SpinnerIcon from '@primevuelab/icons/spinner';
+import TimesIcon from '@primevuelab/icons/times';
+import IconField from 'primevuelab/iconfield';
+import InputIcon from 'primevuelab/inputicon';
+import InputText from 'primevuelab/inputtext';
+import OverlayEventBus from 'primevuelab/overlayeventbus';
+import Portal from 'primevuelab/portal';
+import Ripple from 'primevuelab/ripple';
+import VirtualScroller from 'primevuelab/virtualscroller';
 import BaseSelect from './BaseSelect.vue';
 
 export default {

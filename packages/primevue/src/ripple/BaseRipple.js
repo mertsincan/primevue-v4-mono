@@ -1,5 +1,5 @@
-import BaseDirective from '@primevue-lab/core/basedirective';
-import RippleStyle from 'primevue-lab/ripple/style';
+import BaseDirective from '@primevuelab/core/basedirective';
+import RippleStyle from 'primevuelab/ripple/style';
 
 const BaseRipple = BaseDirective.extend({
     style: RippleStyle

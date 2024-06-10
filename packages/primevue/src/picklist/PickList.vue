@@ -166,18 +166,18 @@
 </template>
 
 <script>
-import { DomHandler, ObjectUtils, UniqueComponentId } from '@primevue-lab/core/utils';
-import AngleDoubleDownIcon from '@primevue-lab/icons/angledoubledown';
-import AngleDoubleLeftIcon from '@primevue-lab/icons/angledoubleleft';
-import AngleDoubleRightIcon from '@primevue-lab/icons/angledoubleright';
-import AngleDoubleUpIcon from '@primevue-lab/icons/angledoubleup';
-import AngleDownIcon from '@primevue-lab/icons/angledown';
-import AngleLeftIcon from '@primevue-lab/icons/angleleft';
-import AngleRightIcon from '@primevue-lab/icons/angleright';
-import AngleUpIcon from '@primevue-lab/icons/angleup';
-import Button from 'primevue-lab/button';
-import Listbox from 'primevue-lab/listbox';
-import Ripple from 'primevue-lab/ripple';
+import { DomHandler, ObjectUtils, UniqueComponentId } from '@primevuelab/core/utils';
+import AngleDoubleDownIcon from '@primevuelab/icons/angledoubledown';
+import AngleDoubleLeftIcon from '@primevuelab/icons/angledoubleleft';
+import AngleDoubleRightIcon from '@primevuelab/icons/angledoubleright';
+import AngleDoubleUpIcon from '@primevuelab/icons/angledoubleup';
+import AngleDownIcon from '@primevuelab/icons/angledown';
+import AngleLeftIcon from '@primevuelab/icons/angleleft';
+import AngleRightIcon from '@primevuelab/icons/angleright';
+import AngleUpIcon from '@primevuelab/icons/angleup';
+import Button from 'primevuelab/button';
+import Listbox from 'primevuelab/listbox';
+import Ripple from 'primevuelab/ripple';
 import BasePickList from './BasePickList.vue';
 
 export default {

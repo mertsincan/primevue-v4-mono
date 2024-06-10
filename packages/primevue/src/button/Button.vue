@@ -15,9 +15,9 @@
 </template>
 
 <script>
-import SpinnerIcon from '@primevue-lab/icons/spinner';
-import Badge from 'primevue-lab/badge';
-import Ripple from 'primevue-lab/ripple';
+import SpinnerIcon from '@primevuelab/icons/spinner';
+import Badge from 'primevuelab/badge';
+import Ripple from 'primevuelab/ripple';
 import BaseButton from './BaseButton.vue';
 
 export default {

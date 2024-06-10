@@ -2,7 +2,7 @@
  *
  * Slider is a component to provide input with a drag handle.
  *
- * [Live Demo](https://www.primevue-lab.org/slider/)
+ * [Live Demo](https://www.primevuelab.org/slider/)
  *
  * @module slider
  *
@@ -193,13 +193,13 @@ export interface SliderEmitsOptions {
 export declare type SliderEmits = EmitFn<SliderEmitsOptions>;
 
 /**
- * **primevue-lab - Slider**
+ * **primevuelab - Slider**
  *
  * _Slider is a component to provide input with a drag handle._
  *
- * [Live Demo](https://www.primevue-lab.org/slider/)
+ * [Live Demo](https://www.primevuelab.org/slider/)
  * --- ---
- * ![primevue-lab](https://primefaces.org/cdn/primevue-lab/images/logo-100.png)
+ * ![primevuelab](https://primefaces.org/cdn/primevuelab/images/logo-100.png)
  *
  * @group Component
  *

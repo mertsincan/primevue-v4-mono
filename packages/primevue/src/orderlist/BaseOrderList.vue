@@ -1,6 +1,6 @@
 <script>
-import BaseComponent from '@primevue-lab/core/basecomponent';
-import OrderListStyle from 'primevue-lab/orderlist/style';
+import BaseComponent from '@primevuelab/core/basecomponent';
+import OrderListStyle from 'primevuelab/orderlist/style';
 
 export default {
     name: 'BaseOrderList',

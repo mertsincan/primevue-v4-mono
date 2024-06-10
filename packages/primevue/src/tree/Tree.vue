@@ -42,12 +42,12 @@
 </template>
 
 <script>
-import { ObjectUtils } from '@primevue-lab/core/utils';
-import SearchIcon from '@primevue-lab/icons/search';
-import SpinnerIcon from '@primevue-lab/icons/spinner';
-import IconField from 'primevue-lab/iconfield';
-import InputIcon from 'primevue-lab/inputicon';
-import InputText from 'primevue-lab/inputtext';
+import { ObjectUtils } from '@primevuelab/core/utils';
+import SearchIcon from '@primevuelab/icons/search';
+import SpinnerIcon from '@primevuelab/icons/spinner';
+import IconField from 'primevuelab/iconfield';
+import InputIcon from 'primevuelab/inputicon';
+import InputText from 'primevuelab/inputtext';
 import BaseTree from './BaseTree.vue';
 import TreeNode from './TreeNode.vue';
 

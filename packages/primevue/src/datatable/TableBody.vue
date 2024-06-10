@@ -70,8 +70,8 @@
 </template>
 
 <script>
-import BaseComponent from '@primevue-lab/core/basecomponent';
-import { DomHandler, ObjectUtils, UniqueComponentId } from '@primevue-lab/core/utils';
+import BaseComponent from '@primevuelab/core/basecomponent';
+import { DomHandler, ObjectUtils, UniqueComponentId } from '@primevuelab/core/utils';
 import BodyRow from './BodyRow.vue';
 
 export default {

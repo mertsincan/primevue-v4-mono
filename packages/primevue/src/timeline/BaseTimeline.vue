@@ -1,6 +1,6 @@
 <script>
-import BaseComponent from '@primevue-lab/core/basecomponent';
-import TimelineStyle from 'primevue-lab/timeline/style';
+import BaseComponent from '@primevuelab/core/basecomponent';
+import TimelineStyle from 'primevuelab/timeline/style';
 
 export default {
     name: 'BaseTimeline',

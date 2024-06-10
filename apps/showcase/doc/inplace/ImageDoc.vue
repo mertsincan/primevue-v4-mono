@@ -11,7 +11,7 @@
                 </span>
             </template>
             <template #content>
-                <img class="w-full sm:w-80 shadow-md" alt="Nature" src="https://primefaces.org/cdn/primevue-lab/images/nature/nature8.jpg" />
+                <img class="w-full sm:w-80 shadow-md" alt="Nature" src="https://primefaces.org/cdn/primevuelab/images/nature/nature8.jpg" />
             </template>
         </Inplace>
     </div>
@@ -32,7 +32,7 @@ export default {
         </span>
     </template>
     <template #content>
-        <img class="w-full sm:w-80 shadow-md" alt="Nature" src="https://primefaces.org/cdn/primevue-lab/images/nature/nature8.jpg" />
+        <img class="w-full sm:w-80 shadow-md" alt="Nature" src="https://primefaces.org/cdn/primevuelab/images/nature/nature8.jpg" />
     </template>
 </Inplace>
 `,
@@ -47,7 +47,7 @@ export default {
                 </span>
             </template>
             <template #content>
-                <img class="w-full sm:w-80 shadow-md" alt="Nature" src="https://primefaces.org/cdn/primevue-lab/images/nature/nature8.jpg" />
+                <img class="w-full sm:w-80 shadow-md" alt="Nature" src="https://primefaces.org/cdn/primevuelab/images/nature/nature8.jpg" />
             </template>
         </Inplace>
     </div>
@@ -67,7 +67,7 @@ export default {
                 </span>
             </template>
             <template #content>
-                <img class="w-full sm:w-80 shadow-md" alt="Nature" src="https://primefaces.org/cdn/primevue-lab/images/nature/nature8.jpg" />
+                <img class="w-full sm:w-80 shadow-md" alt="Nature" src="https://primefaces.org/cdn/primevuelab/images/nature/nature8.jpg" />
             </template>
         </Inplace>
     </div>

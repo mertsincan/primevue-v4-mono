@@ -1,6 +1,6 @@
 <script>
-import BaseComponent from '@primevue-lab/core/basecomponent';
-import ConfirmDialogStyle from 'primevue-lab/confirmdialog/style';
+import BaseComponent from '@primevuelab/core/basecomponent';
+import ConfirmDialogStyle from 'primevuelab/confirmdialog/style';
 
 export default {
     name: 'BaseConfirmDialog',

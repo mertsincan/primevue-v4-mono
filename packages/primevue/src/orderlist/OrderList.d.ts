@@ -2,7 +2,7 @@
  *
  * OrderList is used to managed the order of a collection.
  *
- * [Live Demo](https://primevue-lab.org/orderlist)
+ * [Live Demo](https://primevuelab.org/orderlist)
  *
  * @module orderlist
  *
@@ -382,13 +382,13 @@ export interface OrderListEmitsOptions {
 export declare type OrderListEmits = EmitFn<OrderListEmitsOptions>;
 
 /**
- * **primevue-lab - OrderList**
+ * **primevuelab - OrderList**
  *
  * _OrderList is used to sort a collection._
  *
- * [Live Demo](https://www.primevue-lab.org/orderlist/)
+ * [Live Demo](https://www.primevuelab.org/orderlist/)
  * --- ---
- * ![primevue-lab](https://primefaces.org/cdn/primevue-lab/images/logo-100.png)
+ * ![primevuelab](https://primefaces.org/cdn/primevuelab/images/logo-100.png)
  *
  * @group Component
  *

@@ -9,7 +9,7 @@ export default {
         return {
             code: {
                 basic: `
-import Breadcrumb from 'primevue-lab/breadcrumb';
+import Breadcrumb from 'primevuelab/breadcrumb';
 `
             }
         };

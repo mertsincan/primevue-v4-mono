@@ -2,7 +2,7 @@
  *
  * SplitterPanel is a helper component for Splitter component.
  *
- * [Live Demo](https://www.primevue-lab.org/splitter/)
+ * [Live Demo](https://www.primevuelab.org/splitter/)
  *
  * @module splitterpanel
  *
@@ -125,13 +125,13 @@ export interface SplitterPanelEmitsOptions {}
 export declare type SplitterPanelEmits = EmitFn<SplitterPanelEmitsOptions>;
 
 /**
- * **primevue-lab - SplitterPanel**
+ * **primevuelab - SplitterPanel**
  *
  * _SplitterPanel is a helper component for Splitter component._
  *
- * [Live Demo](https://www.primevue-lab.org/splitterpanel/)
+ * [Live Demo](https://www.primevuelab.org/splitterpanel/)
  * --- ---
- * ![primevue-lab](https://primefaces.org/cdn/primevue-lab/images/logo-100.png)
+ * ![primevuelab](https://primefaces.org/cdn/primevuelab/images/logo-100.png)
  *
  * @group Component
  *

@@ -2,7 +2,7 @@
  *
  * Ripple directive adds ripple effect to the host element.
  *
- * [Live Demo](https://primevue-lab.org/ripple)
+ * [Live Demo](https://primevuelab.org/ripple)
  *
  * @module ripple
  *
@@ -73,13 +73,13 @@ export interface RippleDirectiveBinding extends Omit<DirectiveBinding, 'modifier
 }
 
 /**
- * **primevue-lab - Ripple**
+ * **primevuelab - Ripple**
  *
  * _Ripple directive adds ripple effect to the host element._
  *
- * [Live Demo](https://www.primevue-lab.org/ripple/)
+ * [Live Demo](https://www.primevuelab.org/ripple/)
  * --- ---
- * ![primevue-lab](https://primefaces.org/cdn/primevue-lab/images/logo-100.png)
+ * ![primevuelab](https://primefaces.org/cdn/primevuelab/images/logo-100.png)
  *
  */
 declare const Ripple: ObjectDirective;

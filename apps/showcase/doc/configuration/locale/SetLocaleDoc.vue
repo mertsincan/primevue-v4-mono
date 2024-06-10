@@ -1,6 +1,6 @@
 <template>
     <DocSectionText v-bind="$attrs">
-        <p>Second parameter of the use function can be used to initiate the locale during primevue-lab installation.</p>
+        <p>Second parameter of the use function can be used to initiate the locale during primevuelab installation.</p>
 
         <DocSectionCode :code="code1" hideToggleCode importCode hideStackBlitz />
 
@@ -16,7 +16,7 @@ export default {
         return {
             code1: {
                 basic: `
-app.use(primevue-lab, {
+app.use(primevuelab, {
     locale: {
         accept: 'Aceptar',
         reject: 'Rechazar',
@@ -28,14 +28,14 @@ app.use(primevue-lab, {
             code2: {
                 basic: `
 import { defineComponent, onMounted } from "vue";
-import { useprimevue-lab } from "primevue-lab/config";
+import { useprimevuelab } from "primevuelab/config";
 
 export default defineComponent({
     setup() {
         const changeToSpanish = () => {
-            const primevue-lab = useprimevue-lab();
-            primevue-lab.config.locale.accept = "Aceptar";
-            primevue-lab.config.locale.reject = "Rechazar";
+            const primevuelab = useprimevuelab();
+            primevuelab.config.locale.accept = "Aceptar";
+            primevuelab.config.locale.reject = "Rechazar";
         }
 
         onMounted(() => {

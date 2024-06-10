@@ -2,7 +2,7 @@
  *
  * SplitterPanel is a helper component for Splitter component.
  *
- * [Live Demo](https://www.primevue-lab.org/splitter/)
+ * [Live Demo](https://www.primevuelab.org/splitter/)
  *
  * @module splitterpanelstyle
  *

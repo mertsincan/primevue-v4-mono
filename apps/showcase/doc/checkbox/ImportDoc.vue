@@ -9,7 +9,7 @@ export default {
         return {
             code: {
                 basic: `
-import Checkbox from 'primevue-lab/checkbox';
+import Checkbox from 'primevuelab/checkbox';
 `
             }
         };

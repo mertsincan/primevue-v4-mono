@@ -1,6 +1,6 @@
-import { useStyle } from '@primevue-lab/core/usestyle';
-import { ObjectUtils } from '@primevue-lab/core/utils';
-import { Theme, dt } from '@primevue-lab/themes';
+import { useStyle } from '@primevuelab/core/usestyle';
+import { ObjectUtils } from '@primevuelab/core/utils';
+import { Theme, dt } from '@primevuelab/themes';
 
 const theme = ({ dt }) => `
 * {
@@ -190,7 +190,7 @@ export default {
                 .reduce((acc, [k, v]) => acc.push(`${k}="${v}"`) && acc, [])
                 .join(' ');
 
-            return `<style type="text/css" data-primevue-lab-style-id="${this.name}" ${_props}>${_style}</style>`;
+            return `<style type="text/css" data-primevuelab-style-id="${this.name}" ${_props}>${_style}</style>`;
         }
 
         return '';
@@ -209,7 +209,7 @@ export default {
                 .reduce((acc, [k, v]) => acc.push(`${k}="${v}"`) && acc, [])
                 .join(' ');
 
-            css.push(`<style type="text/css" data-primevue-lab-style-id="${name}" ${_props}>${_style}</style>`);
+            css.push(`<style type="text/css" data-primevuelab-style-id="${name}" ${_props}>${_style}</style>`);
         }
 
         return css.join('');

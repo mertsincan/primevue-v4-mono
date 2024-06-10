@@ -2,7 +2,7 @@
  *
  * SelectButton is used to choose single or multiple items from a list using buttons.
  *
- * [Live Demo](https://www.primevue-lab.org/selectbutton/)
+ * [Live Demo](https://www.primevuelab.org/selectbutton/)
  *
  * @module selectbutton
  *
@@ -242,13 +242,13 @@ export interface SelectButtonEmitsOptions {
 export declare type SelectButtonEmits = EmitFn<SelectButtonEmitsOptions>;
 
 /**
- * **primevue-lab - SelectButton**
+ * **primevuelab - SelectButton**
  *
  * _SelectButton is used to choose single or multiple items from a list using buttons._
  *
- * [Live Demo](https://www.primevue-lab.org/selectbutton/)
+ * [Live Demo](https://www.primevuelab.org/selectbutton/)
  * --- ---
- * ![primevue-lab](https://primefaces.org/cdn/primevue-lab/images/logo-100.png)
+ * ![primevuelab](https://primefaces.org/cdn/primevuelab/images/logo-100.png)
  *
  * @group Component
  *

@@ -86,12 +86,12 @@
 </template>
 
 <script>
-import { ConnectedOverlayScrollHandler, DomHandler, ObjectUtils, UniqueComponentId, ZIndexUtils } from '@primevue-lab/core/utils';
-import AngleRightIcon from '@primevue-lab/icons/angleright';
-import ChevronDownIcon from '@primevue-lab/icons/chevrondown';
-import SpinnerIcon from '@primevue-lab/icons/spinner';
-import OverlayEventBus from 'primevue-lab/overlayeventbus';
-import Portal from 'primevue-lab/portal';
+import { ConnectedOverlayScrollHandler, DomHandler, ObjectUtils, UniqueComponentId, ZIndexUtils } from '@primevuelab/core/utils';
+import AngleRightIcon from '@primevuelab/icons/angleright';
+import ChevronDownIcon from '@primevuelab/icons/chevrondown';
+import SpinnerIcon from '@primevuelab/icons/spinner';
+import OverlayEventBus from 'primevuelab/overlayeventbus';
+import Portal from 'primevuelab/portal';
 import BaseCascadeSelect from './BaseCascadeSelect.vue';
 import CascadeSelectSub from './CascadeSelectSub.vue';
 

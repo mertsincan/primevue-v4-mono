@@ -1,6 +1,6 @@
 <template>
     <DocSectionText v-bind="$attrs">
-        <p>Creates a new project from scratch with primevue-lab.</p>
+        <p>Creates a new project from scratch with primevuelab.</p>
     </DocSectionText>
     <DocSectionCode :code="code" hideToggleCode hideStackBlitz />
 </template>

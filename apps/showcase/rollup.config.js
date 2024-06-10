@@ -115,7 +115,7 @@ const ENTRY = {
                 output: [
                     {
                         format: 'umd',
-                        name: name ?? 'primevue-lab',
+                        name: name ?? 'PrimeVue',
                         file: `${output}${minify ? '.min' : ''}.js`,
                         globals: GLOBALS,
                         exports: 'auto'
@@ -214,8 +214,8 @@ function addThemes() {
 }
 
 function addCore() {
-    ENTRY.format.es({ input: process.env.INPUT_DIR + 'config/primevue-lab.js', output: process.env.OUTPUT_DIR + 'config/config' });
-    ENTRY.format.es({ input: process.env.INPUT_DIR + 'service/primevue-labService.js', output: process.env.OUTPUT_DIR + 'service/primevue-labservice' });
+    ENTRY.format.es({ input: process.env.INPUT_DIR + 'config/PrimeVue.js', output: process.env.OUTPUT_DIR + 'config/config' });
+    ENTRY.format.es({ input: process.env.INPUT_DIR + 'service/PrimeVueService.js', output: process.env.OUTPUT_DIR + 'service/primevueservice' });
 }
 
 function addPassThrough() {
@@ -224,31 +224,31 @@ function addPassThrough() {
 
 function addLibrary() {
     THEME_PRESETS?.forEach((preset) => {
-        ENTRY.format.umd({ name: `primevue-lab.Themes.${preset[0].toUpperCase() + preset.slice(1)}`, input: process.env.INPUT_DIR + `themes/${preset}/index.js`, output: process.env.OUTPUT_DIR + `umd/themes/${preset}`, minify: true });
+        ENTRY.format.umd({ name: `PrimeVue.Themes.${preset[0].toUpperCase() + preset.slice(1)}`, input: process.env.INPUT_DIR + `themes/${preset}/index.js`, output: process.env.OUTPUT_DIR + `umd/themes/${preset}`, minify: true });
     });
 
-    ENTRY.format.umd({ name: 'primevue-lab', input: process.env.INPUT_DIR + 'primevue-lab.js', output: process.env.OUTPUT_DIR + 'umd/primevue-lab', minify: true });
+    ENTRY.format.umd({ name: 'PrimeVue', input: process.env.INPUT_DIR + 'primevue.js', output: process.env.OUTPUT_DIR + 'umd/primevue', minify: true });
 }
 
 function addPackageJson() {
     const outputDir = path.resolve(__dirname, process.env.OUTPUT_DIR);
     const packageJson = `{
-    "name": "primevue-lab",
+    "name": "primevue",
     "version": "${pkg.version}",
     "private": false,
     "author": "PrimeTek Informatics",
-    "description": "primevue-lab is an open source UI library for Vue featuring a rich set of 80+ components, a theme designer, various theme alternatives such as Material, Bootstrap, Tailwind, premium templates and professional support. In addition, it integrates with PrimeBlock, which has 370+ ready to use UI blocks to build spectacular applications in no time.",
-    "homepage": "https://primevue-lab.org/",
+    "description": "PrimeVue is an open source UI library for Vue featuring a rich set of 80+ components, a theme designer, various theme alternatives such as Material, Bootstrap, Tailwind, premium templates and professional support. In addition, it integrates with PrimeBlock, which has 370+ ready to use UI blocks to build spectacular applications in no time.",
+    "homepage": "https://primevue.org/",
     "repository": {
         "type": "git",
-        "url": "https://github.com/primefaces/primevue-lab.git"
+        "url": "https://github.com/primefaces/primevue.git"
     },
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/primefaces/primevue-lab/issues"
+        "url": "https://github.com/primefaces/primevue/issues"
     },
     "keywords": [
-        "primevue-lab",
+        "primevue",
         "vue",
         "vue.js",
         "vue2",
@@ -262,8 +262,8 @@ function addPackageJson() {
         "unstyled",
         "passthrough"
     ],
-    "unpkg": "umd/primevue-lab.min.js",
-    "jsdelivr": "umd/primevue-lab.min.js",
+    "unpkg": "umd/primevue.min.js",
+    "jsdelivr": "umd/primevue.min.js",
     "web-types": "./web-types.json",
     "vetur": {
         "tags": "./vetur-tags.json",

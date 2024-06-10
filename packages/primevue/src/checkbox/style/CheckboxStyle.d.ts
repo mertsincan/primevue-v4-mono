@@ -2,7 +2,7 @@
  *
  * Checkbox is an extension to standard checkbox element with theming.
  *
- * [Live Demo](https://www.primevue-lab.org/checkbox/)
+ * [Live Demo](https://www.primevuelab.org/checkbox/)
  *
  * @module checkboxstyle
  *
